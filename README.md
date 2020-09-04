@@ -4,7 +4,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 
 #### :hammer: Check out what I'm currently working on
 
-These are the projects I most recently contributed to.
+These are the projects I most recently worked on.
 
 
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)

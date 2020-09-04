@@ -35,3 +35,15 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [grtfou](https://github.com/grtfou) (3 months ago)
 - [kram242](https://github.com/kram242) (3 months ago)
 - [voegelas](https://github.com/voegelas) (10 months ago)
+
+
+### :octopus: Octo-Ring
+
+<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+
+I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
+
+* [previous profile](https://octo-ring.com/p/splitbrain/prev)
+* [random profile](https://octo-ring.com/p/splitbrain/random)
+* [next profile](https://octo-ring.com/p/splitbrain/next)
+

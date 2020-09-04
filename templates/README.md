@@ -26,6 +26,11 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+### :octocat: All the statistics
+
+ ![github stats](https://github-readme-stats.vercel.app/api?username=splitbrain&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splitbrain&layout=compact)
+
 
 ### :octopus: Octo-Ring
 

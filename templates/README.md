@@ -4,7 +4,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 
 #### :hammer: Check out what I'm currently working on
 
-These are the projects I most recently contributed to.
+These are the projects I most recently worked on.
 
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})

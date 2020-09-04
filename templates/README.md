@@ -28,7 +28,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 ### :octocat: All the statistics
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=splitbrain&show_icons=true)
+ ![github stats](https://github-readme-stats.vercel.app/api?username=splitbrain&show_icons=true&hide_title=true)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splitbrain&layout=compact)
 
 

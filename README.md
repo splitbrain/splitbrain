@@ -11,12 +11,12 @@ These are the projects I most recently worked on.
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 day ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (5 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (6 days ago)
-- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (6 days ago)
-- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (6 days ago)
-- [dokufreaks/plugin-task](https://github.com/dokufreaks/plugin-task) - Integrates a simple task management tool into your wiki. (6 days ago)
 - [cosmocode/dokuwiki-plugin-submgr](https://github.com/cosmocode/dokuwiki-plugin-submgr) - Manage subscriptions for your DokuWiki users (6 days ago)
+- [dokufreaks/plugin-task](https://github.com/dokufreaks/plugin-task) - Integrates a simple task management tool into your wiki. (6 days ago)
+- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (6 days ago)
 
 ### :scroll: My recent blog posts
 

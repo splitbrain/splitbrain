@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
@@ -34,7 +34,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (1 month ago)
 - [grtfou](https://github.com/grtfou) (3 months ago)
 - [kram242](https://github.com/kram242) (3 months ago)
-- [voegelas](https://github.com/voegelas) (10 months ago)
+- [voegelas](https://github.com/voegelas) (11 months ago)
 
 ### :octocat: All the statistics
 

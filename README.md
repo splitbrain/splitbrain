@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (today)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (today)
 - [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (2 days ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (5 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)

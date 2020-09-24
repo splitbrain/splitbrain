@@ -7,23 +7,23 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (2 days ago)
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (4 days ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (4 days ago)
-- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (3 days ago)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (5 days ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (5 days ago)
+- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (2 weeks ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (3 days ago)
+- [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (4 days ago)
 - [Regular Expression to match Multi-Byte](https://www.splitbrain.org/blog/2020-09/03-regexp_to_match_multibyte_character) (2 weeks ago)
 - [Raspberry Print Server for Brother QL-500 Label Printer](https://www.splitbrain.org/blog/2020-08/18-raspberry_print_server_for_brother_ql-500_label_printer_no_cups) (1 month ago)
 

@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (5 days ago)
+- [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (6 days ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (6 days ago)
+- [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (1 week ago)
 - [Regular Expression to match Multi-Byte](https://www.splitbrain.org/blog/2020-09/03-regexp_to_match_multibyte_character) (3 weeks ago)
 - [Raspberry Print Server for Brother QL-500 Label Printer](https://www.splitbrain.org/blog/2020-08/18-raspberry_print_server_for_brother_ql-500_label_printer_no_cups) (1 month ago)
 

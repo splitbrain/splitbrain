@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (today)
+- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 day ago)
 - [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
@@ -34,7 +34,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (1 month ago)
 - [grtfou](https://github.com/grtfou) (3 months ago)
-- [kram242](https://github.com/kram242) (3 months ago)
+- [kram242](https://github.com/kram242) (4 months ago)
 - [voegelas](https://github.com/voegelas) (11 months ago)
 
 ### :octocat: All the statistics

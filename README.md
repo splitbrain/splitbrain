@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (today)
 - [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (2 weeks ago)
 - [Regular Expression to match Multi-Byte](https://www.splitbrain.org/blog/2020-09/03-regexp_to_match_multibyte_character) (1 month ago)
 - [Raspberry Print Server for Brother QL-500 Label Printer](https://www.splitbrain.org/blog/2020-08/18-raspberry_print_server_for_brother_ql-500_label_printer_no_cups) (1 month ago)

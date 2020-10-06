@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (today)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (2 days ago)
 - [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (2 weeks ago)
 - [Regular Expression to match Multi-Byte](https://www.splitbrain.org/blog/2020-09/03-regexp_to_match_multibyte_character) (1 month ago)

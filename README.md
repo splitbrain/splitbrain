@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (today)
-- [cosmocode/dokuwiki-plugin-usermanagerextended](https://github.com/cosmocode/dokuwiki-plugin-usermanagerextended) -  (today)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 day ago)
+- [cosmocode/dokuwiki-plugin-usermanagerextended](https://github.com/cosmocode/dokuwiki-plugin-usermanagerextended) -  (1 day ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (6 days ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 week ago)
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 months ago)
 - [grtfou](https://github.com/grtfou) (4 months ago)
 - [kram242](https://github.com/kram242) (4 months ago)
-- [voegelas](https://github.com/voegelas) (11 months ago)
+- [voegelas](https://github.com/voegelas) (1 year ago)
 
 ### :octocat: All the statistics
 

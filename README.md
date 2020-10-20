@@ -34,6 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
+- [landrix](https://github.com/landrix) (today)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 months ago)
 - [grtfou](https://github.com/grtfou) (4 months ago)
 - [kram242](https://github.com/kram242) (4 months ago)

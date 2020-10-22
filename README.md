@@ -11,7 +11,7 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (1 week ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [cosmocode/dokuwiki-plugin-usermanagerextended](https://github.com/cosmocode/dokuwiki-plugin-usermanagerextended) -  (1 week ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 weeks ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (2 weeks ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (2 weeks ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [landrix](https://github.com/landrix) (1 day ago)
+- [landrix](https://github.com/landrix) (2 days ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 months ago)
 - [grtfou](https://github.com/grtfou) (4 months ago)
 - [kram242](https://github.com/kram242) (4 months ago)

@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (today)
 - [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (2 weeks ago)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (2 weeks ago)
 - [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (1 month ago)
 - [Regular Expression to match Multi-Byte](https://www.splitbrain.org/blog/2020-09/03-regexp_to_match_multibyte_character) (1 month ago)
-- [Raspberry Print Server for Brother QL-500 Label Printer](https://www.splitbrain.org/blog/2020-08/18-raspberry_print_server_for_brother_ql-500_label_printer_no_cups) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

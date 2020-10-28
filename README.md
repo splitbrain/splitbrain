@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
-- [cosmocode/dokuwiki-plugin-adfs](https://github.com/cosmocode/dokuwiki-plugin-adfs) - A DokuWiki plugin to authenticate against Microsofts ADFS using SAML 2.0 (5 days ago)
-- [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (1 week ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-adfs](https://github.com/cosmocode/dokuwiki-plugin-adfs) - A DokuWiki plugin to authenticate against Microsofts ADFS using SAML 2.0 (6 days ago)
+- [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (2 weeks ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-usermanagerextended](https://github.com/cosmocode/dokuwiki-plugin-usermanagerextended) -  (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (3 days ago)
-- [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (5 days ago)
+- [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (4 days ago)
+- [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (6 days ago)
 - [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (3 weeks ago)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (3 weeks ago)
 - [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (1 month ago)

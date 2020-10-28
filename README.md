@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [New Sound Equipment](https://www.splitbrain.org/blog/2004-02/19-new_sound_equipment) (15 years ago)
 - [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (4 days ago)
 - [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (6 days ago)
 - [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (3 weeks ago)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (3 weeks ago)
-- [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

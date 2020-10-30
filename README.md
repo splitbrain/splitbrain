@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (today)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (1 day ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 day ago)
 - [cosmocode/dokuwiki-plugin-adfs](https://github.com/cosmocode/dokuwiki-plugin-adfs) - A DokuWiki plugin to authenticate against Microsofts ADFS using SAML 2.0 (1 week ago)
 - [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (2 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (5 days ago)
+- [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (6 days ago)
 - [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (1 week ago)
 - [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (3 weeks ago)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (3 weeks ago)

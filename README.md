@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [dokufreaks/plugin-feed](https://github.com/dokufreaks/plugin-feed) -  (3 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (6 days ago)
-- [cosmocode/dokuwiki-plugin-adfs](https://github.com/cosmocode/dokuwiki-plugin-adfs) - A DokuWiki plugin to authenticate against Microsofts ADFS using SAML 2.0 (1 week ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [dokufreaks/plugin-feed](https://github.com/dokufreaks/plugin-feed) -  (4 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (1 week ago)
+- [cosmocode/dokuwiki-plugin-adfs](https://github.com/cosmocode/dokuwiki-plugin-adfs) - A DokuWiki plugin to authenticate against Microsofts ADFS using SAML 2.0 (2 weeks ago)
 - [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (3 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-usermanagerextended](https://github.com/cosmocode/dokuwiki-plugin-usermanagerextended) -  (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (4 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -24,8 +24,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (1 week ago)
-- [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (1 week ago)
-- [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (4 weeks ago)
+- [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (2 weeks ago)
+- [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (1 month ago)
 - [Mushrooms!](https://www.splitbrain.org/blog/2020-10/04-mushrooms) (1 month ago)
 - [New Compost](https://www.splitbrain.org/blog/2020-09/20-new_compost) (1 month ago)
 
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [MacBoeck](https://github.com/MacBoeck) (2 days ago)
+- [MacBoeck](https://github.com/MacBoeck) (3 days ago)
 - [landrix](https://github.com/landrix) (2 weeks ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 months ago)
 - [grtfou](https://github.com/grtfou) (5 months ago)

@@ -8,7 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (today)
-- [dokufreaks/plugin-var](https://github.com/dokufreaks/plugin-var) -  (today)
+- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (today)
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (today)
 - [dokufreaks/plugin-bloglinks](https://github.com/dokufreaks/plugin-bloglinks) - The bloglinks plugin displays links to the previous and the next blog entry above the entries in configured namespaces. (today)
 - [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (today)

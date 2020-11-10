@@ -7,24 +7,24 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (today)
-- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (today)
-- [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (today)
-- [dokufreaks/plugin-bloglinks](https://github.com/dokufreaks/plugin-bloglinks) - The bloglinks plugin displays links to the previous and the next blog entry above the entries in configured namespaces. (today)
-- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (today)
-- [dokufreaks/plugin-keyboard](https://github.com/dokufreaks/plugin-keyboard) - The keyboard plugin provides a combined syntax and action plugin in order to markup text as keyboard keys, similar to (and making use of) the existing (X)HTML tag &lt;kbd&gt;…&lt;/kbd&gt;. (today)
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (today)
-- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) -  (today)
-- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (today)
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (today)
+- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 day ago)
+- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (1 day ago)
+- [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (1 day ago)
+- [dokufreaks/plugin-bloglinks](https://github.com/dokufreaks/plugin-bloglinks) - The bloglinks plugin displays links to the previous and the next blog entry above the entries in configured namespaces. (1 day ago)
+- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (1 day ago)
+- [dokufreaks/plugin-keyboard](https://github.com/dokufreaks/plugin-keyboard) - The keyboard plugin provides a combined syntax and action plugin in order to markup text as keyboard keys, similar to (and making use of) the existing (X)HTML tag &lt;kbd&gt;…&lt;/kbd&gt;. (1 day ago)
+- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 day ago)
+- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) -  (1 day ago)
+- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (1 day ago)
+- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (2 days ago)
-- [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (3 days ago)
+- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (3 days ago)
+- [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (4 days ago)
 - [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (2 weeks ago)
 - [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (2 weeks ago)
 - [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (1 month ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [MacBoeck](https://github.com/MacBoeck) (1 week ago)
-- [landrix](https://github.com/landrix) (2 weeks ago)
+- [landrix](https://github.com/landrix) (3 weeks ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 months ago)
 - [grtfou](https://github.com/grtfou) (5 months ago)
 - [kram242](https://github.com/kram242) (5 months ago)

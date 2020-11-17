@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (today)
 - [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (1 week ago)
 - [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (1 week ago)
 - [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (3 weeks ago)
 - [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (3 weeks ago)
-- [Workshop Update](https://www.splitbrain.org/blog/2020-10/06-workshop_update) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

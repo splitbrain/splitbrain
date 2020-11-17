@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (4 days ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (5 days ago)
 - [dokufreaks/plugin-feed](https://github.com/dokufreaks/plugin-feed) -  (1 week ago)
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 week ago)
 - [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (1 week ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [MacBoeck](https://github.com/MacBoeck) (2 weeks ago)
-- [landrix](https://github.com/landrix) (3 weeks ago)
+- [landrix](https://github.com/landrix) (4 weeks ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 months ago)
 - [grtfou](https://github.com/grtfou) (5 months ago)
 - [kram242](https://github.com/kram242) (5 months ago)

@@ -13,9 +13,9 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
 - [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (6 days ago)
 - [dokufreaks/plugin-bloglinks](https://github.com/dokufreaks/plugin-bloglinks) - The bloglinks plugin displays links to the previous and the next blog entry above the entries in configured namespaces. (1 week ago)
-- [dokufreaks/plugin-task](https://github.com/dokufreaks/plugin-task) - Integrates a simple task management tool into your wiki. (1 week ago)
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 week ago)
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 week ago)
+- [dokufreaks/plugin-keyboard](https://github.com/dokufreaks/plugin-keyboard) - The keyboard plugin provides a combined syntax and action plugin in order to markup text as keyboard keys, similar to (and making use of) the existing (X)HTML tag &lt;kbd&gt;…&lt;/kbd&gt;. (1 week ago)
+- [dokufreaks/plugin-blogtng](https://github.com/dokufreaks/plugin-blogtng) -  (1 week ago)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
 - [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts

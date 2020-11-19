@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 day ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 day ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
 - [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (1 week ago)
-- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) -  (1 week ago)
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 week ago)
+- [dokufreaks/plugin-feed](https://github.com/dokufreaks/plugin-feed) -  (1 week ago)
 - [dokufreaks/plugin-keyboard](https://github.com/dokufreaks/plugin-keyboard) - The keyboard plugin provides a combined syntax and action plugin in order to markup text as keyboard keys, similar to (and making use of) the existing (X)HTML tag &lt;kbd&gt;…&lt;/kbd&gt;. (1 week ago)
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 week ago)
+- [dokufreaks/plugin-bloglinks](https://github.com/dokufreaks/plugin-bloglinks) - The bloglinks plugin displays links to the previous and the next blog entry above the entries in configured namespaces. (1 week ago)
 
 ### :scroll: My recent blog posts
 

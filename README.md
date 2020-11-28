@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (2 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (5 days ago)
+- [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (3 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (6 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (1 week ago)
-- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (2 weeks ago)
+- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (3 weeks ago)
 - [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (3 weeks ago)
 - [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (1 month ago)
 - [Bosch PBD 40 Customization](https://www.splitbrain.org/blog/2020-10/22-pbd_40_customization) (1 month ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [landrix](https://github.com/landrix) (1 month ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 months ago)
 - [grtfou](https://github.com/grtfou) (5 months ago)
-- [kram242](https://github.com/kram242) (5 months ago)
+- [kram242](https://github.com/kram242) (6 months ago)
 - [voegelas](https://github.com/voegelas) (1 year ago)
 
 ### :octocat: All the statistics

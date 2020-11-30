@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (4 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (2 weeks ago)
-- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (2 weeks ago)
+- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -34,10 +34,10 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [MacBoeck](https://github.com/MacBoeck) (3 weeks ago)
+- [MacBoeck](https://github.com/MacBoeck) (4 weeks ago)
 - [landrix](https://github.com/landrix) (1 month ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 months ago)
-- [grtfou](https://github.com/grtfou) (5 months ago)
+- [grtfou](https://github.com/grtfou) (6 months ago)
 - [kram242](https://github.com/kram242) (6 months ago)
 - [voegelas](https://github.com/voegelas) (1 year ago)
 

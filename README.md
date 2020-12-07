@@ -10,13 +10,13 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
 - [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (2 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (3 weeks ago)
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (4 weeks ago)
+- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) -  (4 weeks ago)
 
 ### :scroll: My recent blog posts
 

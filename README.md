@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (4 days ago)
+- [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (today)
+- [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (today)
+- [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 days ago)
+- [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (4 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 weeks ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (1 month ago)
 
 ### :scroll: My recent blog posts
 

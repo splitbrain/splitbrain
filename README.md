@@ -8,6 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
+- [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (today)
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (1 day ago)
 - [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (2 days ago)
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (2 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (6 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

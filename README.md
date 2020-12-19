@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
 - [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (today)
 - [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (4 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (5 days ago)
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (6 days ago)
-- [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (6 days ago)
 - [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (6 days ago)
+- [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (6 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (1 week ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

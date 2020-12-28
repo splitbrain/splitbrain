@@ -11,7 +11,7 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
-- [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (1 week ago)
+- [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (2 weeks ago)
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (2 weeks ago)
 - [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (2 weeks ago)
 - [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (2 weeks ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [landrix](https://github.com/landrix) (2 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (4 months ago)
 - [grtfou](https://github.com/grtfou) (6 months ago)
-- [kram242](https://github.com/kram242) (6 months ago)
+- [kram242](https://github.com/kram242) (7 months ago)
 - [voegelas](https://github.com/voegelas) (1 year ago)
 
 ### :octocat: All the statistics

@@ -27,7 +27,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (1 month ago)
 - [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (1 month ago)
 - [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (1 month ago)
-- [DIY ICCB Wall Box](https://www.splitbrain.org/blog/2020-10/24-diy_iccb_wall_box) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

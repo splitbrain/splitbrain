@@ -9,8 +9,8 @@ These are the projects I most recently worked on.
 
 - [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
-- [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (1 week ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (2 weeks ago)
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (2 weeks ago)
 - [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (2 weeks ago)

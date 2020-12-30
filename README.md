@@ -15,8 +15,8 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (2 weeks ago)
 - [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (2 weeks ago)
 - [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (2 weeks ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
-- [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (2 weeks ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 weeks ago)
+- [cosmocode/pagenav](https://github.com/cosmocode/pagenav) - DokuWiki Plugin to display links to the next or previous alphabetically ordered page (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [MacBoeck](https://github.com/MacBoeck) (1 month ago)
 - [landrix](https://github.com/landrix) (2 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (4 months ago)
-- [grtfou](https://github.com/grtfou) (6 months ago)
+- [grtfou](https://github.com/grtfou) (7 months ago)
 - [kram242](https://github.com/kram242) (7 months ago)
 - [voegelas](https://github.com/voegelas) (1 year ago)
 

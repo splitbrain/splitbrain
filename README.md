@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (today)
 - [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (3 weeks ago)
 - [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (1 month ago)
 - [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (1 month ago)

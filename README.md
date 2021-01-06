@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
 - [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (2 weeks ago)
 - [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (3 weeks ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (2 days ago)
+- [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (3 days ago)
 - [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (3 weeks ago)
 - [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (1 month ago)
-- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (1 month ago)
+- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (2 months ago)
 - [Home Improvement](https://www.splitbrain.org/blog/2020-11/06-home_improvement) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

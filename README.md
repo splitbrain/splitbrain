@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
 - [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (3 weeks ago)
 - [splitbrain/docker-phpfarm](https://github.com/splitbrain/docker-phpfarm) - A Dockerfile to build an image running multiple PHP versions on Apache (3 weeks ago)
-- [dokufreaks/plugin-repo](https://github.com/dokufreaks/plugin-repo) -  (3 weeks ago)
+- [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (3 weeks ago)
 - [dokufreaks/plugin-editor](https://github.com/dokufreaks/plugin-editor) -  (3 weeks ago)
 
 ### :scroll: My recent blog posts

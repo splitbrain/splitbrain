@@ -26,7 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (1 week ago)
 - [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (4 weeks ago)
 - [Cheap Router Table &amp; Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift) (1 month ago)
-- [Failure is always an Option](https://www.splitbrain.org/blog/2020-11/07-failure_is_always_an_option) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

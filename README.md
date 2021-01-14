@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/ajaxloader](https://github.com/cosmocode/ajaxloader) - Simplifies common AJAX-based actions (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
 - [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (1 day ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (1 week ago)
 - [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (3 weeks ago)
-- [cosmocode/metakit2json](https://github.com/cosmocode/metakit2json) -  (1 month ago)
 
 ### :scroll: My recent blog posts
 

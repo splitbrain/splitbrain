@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (1 week ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (1 week ago)
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (2 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 weeks ago)
-- [cosmocode/ajaxloader](https://github.com/cosmocode/ajaxloader) - Simplifies common AJAX-based actions (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

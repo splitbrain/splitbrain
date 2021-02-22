@@ -8,8 +8,8 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (today)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 days ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 days ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (5 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)

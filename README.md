@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [splitbrain/dokuwiki-plugin-amazon](https://github.com/splitbrain/dokuwiki-plugin-amazon) - Integrate Amazon data into DokuWiki (5 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)
+- [splitbrain/dokuwiki-plugin-amazon](https://github.com/splitbrain/dokuwiki-plugin-amazon) - Integrate Amazon data into DokuWiki (5 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (5 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 weeks ago)
-- [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (2 weeks ago)
+- [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

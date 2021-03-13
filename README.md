@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (3 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (4 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-amazon](https://github.com/splitbrain/dokuwiki-plugin-amazon) - Integrate Amazon data into DokuWiki (1 week ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (1 week ago)
+- [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (2 weeks ago)
 - [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (2 weeks ago)
 - [Can FIFO](https://www.splitbrain.org/blog/2021-01/22-can_fifo) (1 month ago)
 - [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (2 months ago)
-- [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (2 months ago)
+- [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

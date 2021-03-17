@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 day ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (2 weeks ago)
-- [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (2 weeks ago)
+- [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (3 weeks ago)
 - [Can FIFO](https://www.splitbrain.org/blog/2021-01/22-can_fifo) (1 month ago)
 - [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (2 months ago)
 - [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (3 months ago)

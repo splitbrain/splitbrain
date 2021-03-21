@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (today)
 - [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (3 weeks ago)
 - [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (3 weeks ago)
 - [Can FIFO](https://www.splitbrain.org/blog/2021-01/22-can_fifo) (1 month ago)
 - [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (2 months ago)
-- [&#34;Wood&#34; Working](https://www.splitbrain.org/blog/2020-12/13-wood_working) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

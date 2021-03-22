@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/template-default](https://github.com/dokufreaks/template-default) - Old DokuWiki default template (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 days ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (5 days ago)
+- [dokufreaks/template-default](https://github.com/dokufreaks/template-default) - Old DokuWiki default template (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (5 days ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (6 days ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (today)
+- [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (1 day ago)
 - [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (3 weeks ago)
 - [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (3 weeks ago)
 - [Can FIFO](https://www.splitbrain.org/blog/2021-01/22-can_fifo) (1 month ago)

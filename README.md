@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-rndtxt](https://github.com/splitbrain/dokuwiki-plugin-rndtxt) - DokuWiki plugin to output a random text choice (2 days ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (3 days ago)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/dokuwiki-plugin-rndtxt](https://github.com/splitbrain/dokuwiki-plugin-rndtxt) - DokuWiki plugin to output a random text choice (3 days ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (4 days ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (4 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [dokufreaks/template-default](https://github.com/dokufreaks/template-default) - Old DokuWiki default template (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
@@ -27,7 +27,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (1 month ago)
 - [Printer Cupboard](https://www.splitbrain.org/blog/2021-02/24-printer_cupboard) (1 month ago)
 - [Can FIFO](https://www.splitbrain.org/blog/2021-01/22-can_fifo) (2 months ago)
-- [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (2 months ago)
+- [DIY Disk Sander](https://www.splitbrain.org/blog/2021-01/03-diy_disk_sander) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

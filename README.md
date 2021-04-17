@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [splitbrain/cloudflare-prusa-rss](https://github.com/splitbrain/cloudflare-prusa-rss) - cloudflare worker to get my prusaprinter models as RSS (1 week ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (1 week ago)
 - [splitbrain/dokuwiki-plugin-rndtxt](https://github.com/splitbrain/dokuwiki-plugin-rndtxt) - DokuWiki plugin to output a random text choice (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (today)
+- [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (1 day ago)
 - [Why RSS?](https://www.splitbrain.org/blog/2021-04/06b-why_rss) (1 week ago)
 - [I&#39;m Tired](https://www.splitbrain.org/blog/2021-04/06-im_tired) (1 week ago)
 - [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (3 weeks ago)

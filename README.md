@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 day ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 day ago)
-- [splitbrain/xdebug-trace-tree](https://github.com/splitbrain/xdebug-trace-tree) - Very simple XDebug trace web GUI (3 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 days ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (2 days ago)
+- [splitbrain/xdebug-trace-tree](https://github.com/splitbrain/xdebug-trace-tree) - Very simple XDebug trace web GUI (4 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/cloudflare-prusa-rss](https://github.com/splitbrain/cloudflare-prusa-rss) - cloudflare worker to get my prusaprinter models as RSS (2 weeks ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-rndtxt](https://github.com/splitbrain/dokuwiki-plugin-rndtxt) - DokuWiki plugin to output a random text choice (3 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (6 days ago)
+- [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (1 week ago)
 - [Why RSS?](https://www.splitbrain.org/blog/2021-04/06b-why_rss) (2 weeks ago)
 - [I&#39;m Tired](https://www.splitbrain.org/blog/2021-04/06-im_tired) (2 weeks ago)
 - [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (1 month ago)

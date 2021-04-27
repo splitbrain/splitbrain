@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (today)
 - [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (1 week ago)
 - [Why RSS?](https://www.splitbrain.org/blog/2021-04/06b-why_rss) (3 weeks ago)
 - [I&#39;m Tired](https://www.splitbrain.org/blog/2021-04/06-im_tired) (3 weeks ago)
 - [Hexagons are Bestagons - Printer Cupboard 2](https://www.splitbrain.org/blog/2021-03/21-hexagons_are_bestagons_printer_cupboard_2) (1 month ago)
-- [Some Thoughts on Cyberpunk 2077](https://www.splitbrain.org/blog/2021-02/27-thoughts_on_cyberpunk_2077) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

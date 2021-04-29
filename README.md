@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 day ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 day ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 days ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (2 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [splitbrain/xdebug-trace-tree](https://github.com/splitbrain/xdebug-trace-tree) - Very simple XDebug trace web GUI (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (today)
-- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (1 day ago)
+- [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (1 day ago)
+- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (2 days ago)
 - [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (1 week ago)
 - [Why RSS?](https://www.splitbrain.org/blog/2021-04/06b-why_rss) (3 weeks ago)
 - [I&#39;m Tired](https://www.splitbrain.org/blog/2021-04/06-im_tired) (3 weeks ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [landrix](https://github.com/landrix) (6 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (8 months ago)
-- [grtfou](https://github.com/grtfou) (10 months ago)
+- [grtfou](https://github.com/grtfou) (11 months ago)
 - [kram242](https://github.com/kram242) (11 months ago)
 - [voegelas](https://github.com/voegelas) (2 years ago)
 

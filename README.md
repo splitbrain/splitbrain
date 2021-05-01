@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 days ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (3 days ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (4 days ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [splitbrain/xdebug-trace-tree](https://github.com/splitbrain/xdebug-trace-tree) - Very simple XDebug trace web GUI (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (2 days ago)
-- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (3 days ago)
+- [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (3 days ago)
+- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (4 days ago)
 - [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (2 weeks ago)
 - [Why RSS?](https://www.splitbrain.org/blog/2021-04/06b-why_rss) (3 weeks ago)
 - [I&#39;m Tired](https://www.splitbrain.org/blog/2021-04/06-im_tired) (3 weeks ago)

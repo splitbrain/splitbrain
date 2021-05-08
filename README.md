@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 day ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (3 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (4 days ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 week ago)
 - [splitbrain/xdebug-trace-tree](https://github.com/splitbrain/xdebug-trace-tree) - Very simple XDebug trace web GUI (2 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (today)
-- [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (6 days ago)
+- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (1 day ago)
+- [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (1 week ago)
 - [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (1 week ago)
 - [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (1 week ago)
 - [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (3 weeks ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [landrix](https://github.com/landrix) (6 months ago)
-- [AzureCloudMonk](https://github.com/AzureCloudMonk) (8 months ago)
+- [AzureCloudMonk](https://github.com/AzureCloudMonk) (9 months ago)
 - [grtfou](https://github.com/grtfou) (11 months ago)
 - [kram242](https://github.com/kram242) (11 months ago)
 - [voegelas](https://github.com/voegelas) (2 years ago)

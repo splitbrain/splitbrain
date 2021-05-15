@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (1 week ago)
-- [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (1 week ago)
+- [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (2 weeks ago)
 - [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (2 weeks ago)
 - [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (2 weeks ago)
 - [PowKiddy V90](https://www.splitbrain.org/blog/2021-04/16-powkiddy_v90) (4 weeks ago)

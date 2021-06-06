@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (2 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 days ago)
+- [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (3 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 days ago)
 - [cosmocode/dokuwiki-plugin-interwikipaste](https://github.com/cosmocode/dokuwiki-plugin-interwikipaste) - Try to detect interwiki links pasted into the DokuWiki editor (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 weeks ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Vaccinated](https://www.splitbrain.org/blog/2021-05/18-vaccinated) (2 weeks ago)
-- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (4 weeks ago)
+- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (1 month ago)
 - [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (1 month ago)
 - [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (1 month ago)
 - [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (1 month ago)
@@ -34,8 +34,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- []() (2 days ago)
-- [chrisjrob](https://github.com/chrisjrob) (2 days ago)
+- []() (3 days ago)
+- [chrisjrob](https://github.com/chrisjrob) (3 days ago)
 - [landrix](https://github.com/landrix) (7 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (9 months ago)
 - [grtfou](https://github.com/grtfou) (1 year ago)

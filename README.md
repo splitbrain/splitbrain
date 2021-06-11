@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Digital Calipers Modded](https://www.splitbrain.org/blog/2021-06/11-digital_calipers_modded) (today)
 - [Vaccinated](https://www.splitbrain.org/blog/2021-05/18-vaccinated) (3 weeks ago)
 - [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (1 month ago)
 - [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (1 month ago)
 - [Tool Time: Earmuff Bluetooth Hearing Protection](https://www.splitbrain.org/blog/2021-04/28-earmuff_bluetooth_hearing_protection) (1 month ago)
-- [Tool Time: GKS 18V-57G and a DIY FSN-800](https://www.splitbrain.org/blog/2021-04/27-gks_18v-57_g_and_a_diy_fsn-800) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

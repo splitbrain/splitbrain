@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 day ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (today)
 - [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) -  (1 day ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (4 days ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)

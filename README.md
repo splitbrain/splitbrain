@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 day ago)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (5 days ago)
 - [splitbrain/nodemcu-scripts](https://github.com/splitbrain/nodemcu-scripts) - scripts to power my nodemcu boards (6 days ago)

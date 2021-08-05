@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 day ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (5 days ago)
-- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (6 days ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (1 week ago)
 - [splitbrain/nodemcu-scripts](https://github.com/splitbrain/nodemcu-scripts) - scripts to power my nodemcu boards (1 week ago)
 - [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (1 week ago)
-- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 week ago)
+- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -26,7 +26,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Adam Savage Worklight Alternative](https://www.splitbrain.org/blog/2021-06/26-adam_savage_worklight_alternative) (1 month ago)
 - [Digital Calipers Modded](https://www.splitbrain.org/blog/2021-06/11-digital_calipers_modded) (1 month ago)
 - [Vaccinated](https://www.splitbrain.org/blog/2021-05/18-vaccinated) (2 months ago)
-- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (2 months ago)
+- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (3 months ago)
 - [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [nuess0r](https://github.com/nuess0r) (2 weeks ago)
+- [nuess0r](https://github.com/nuess0r) (3 weeks ago)
 - [dotplex](https://github.com/dotplex) (2 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (2 months ago)
 - [grtfou](https://github.com/grtfou) (1 year ago)

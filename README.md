@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 days ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (4 days ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 week ago)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (1 week ago)
 - [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (1 week ago)
 - [splitbrain/nodemcu-scripts](https://github.com/splitbrain/nodemcu-scripts) - scripts to power my nodemcu boards (1 week ago)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (2 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Adam Savage Worklight Alternative](https://www.splitbrain.org/blog/2021-06/26-adam_savage_worklight_alternative) (1 month ago)
-- [Digital Calipers Modded](https://www.splitbrain.org/blog/2021-06/11-digital_calipers_modded) (1 month ago)
+- [Digital Calipers Modded](https://www.splitbrain.org/blog/2021-06/11-digital_calipers_modded) (2 months ago)
 - [Vaccinated](https://www.splitbrain.org/blog/2021-05/18-vaccinated) (2 months ago)
 - [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (3 months ago)
 - [Workbench Storage](https://www.splitbrain.org/blog/2021-05/01-storage_workbench) (3 months ago)

@@ -15,8 +15,8 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 week ago)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (2 weeks ago)
-- [splitbrain/nodemcu-scripts](https://github.com/splitbrain/nodemcu-scripts) - scripts to power my nodemcu boards (2 weeks ago)
 - [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (2 weeks ago)
+- [splitbrain/nodemcu-scripts](https://github.com/splitbrain/nodemcu-scripts) - scripts to power my nodemcu boards (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

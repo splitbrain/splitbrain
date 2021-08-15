@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [LucasArts Game Posters](https://www.splitbrain.org/blog/2009-04/28-lucasarts_game_posters) (today)
 - [Home Assistant again](https://www.splitbrain.org/blog/2021-08/15-home_assistant_again) (today)
 - [Adam Savage Worklight Alternative](https://www.splitbrain.org/blog/2021-06/26-adam_savage_worklight_alternative) (1 month ago)
 - [Digital Calipers Modded](https://www.splitbrain.org/blog/2021-06/11-digital_calipers_modded) (2 months ago)
 - [Vaccinated](https://www.splitbrain.org/blog/2021-05/18-vaccinated) (2 months ago)
-- [Workbench Upgrades](https://www.splitbrain.org/blog/2021-05/07-workbench_upgrades) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

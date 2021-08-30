@@ -26,7 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Humidity Control with Home Assistant](https://www.splitbrain.org/blog/2021-08/16-humidity_control_with_home_assistant) (2 weeks ago)
 - [LucasArts Game Posters](https://www.splitbrain.org/blog/2009-04/28-lucasarts_game_posters) (2 weeks ago)
 - [Home Assistant again](https://www.splitbrain.org/blog/2021-08/15-home_assistant_again) (2 weeks ago)
-- [Adam Savage Worklight Alternative](https://www.splitbrain.org/blog/2021-06/26-adam_savage_worklight_alternative) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

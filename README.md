@@ -11,7 +11,7 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (2 weeks ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (2 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 weeks ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (4 weeks ago)
@@ -33,8 +33,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [nuess0r](https://github.com/nuess0r) (1 month ago)
-- [dotplex](https://github.com/dotplex) (2 months ago)
-- [chrisjrob](https://github.com/chrisjrob) (2 months ago)
+- [dotplex](https://github.com/dotplex) (3 months ago)
+- [chrisjrob](https://github.com/chrisjrob) (3 months ago)
 - [grtfou](https://github.com/grtfou) (1 year ago)
 - [kram242](https://github.com/kram242) (1 year ago)
 - [voegelas](https://github.com/voegelas) (2 years ago)

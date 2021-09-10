@@ -11,7 +11,7 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (3 weeks ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (3 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 weeks ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 month ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 month ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 month ago)

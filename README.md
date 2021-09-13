@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (3 weeks ago)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (3 weeks ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (4 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 month ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Humidity Control with Home Assistant](https://www.splitbrain.org/blog/2021-08/16-humidity_control_with_home_assistant) (3 weeks ago)
+- [Humidity Control with Home Assistant](https://www.splitbrain.org/blog/2021-08/16-humidity_control_with_home_assistant) (4 weeks ago)
 - [LucasArts Game Posters](https://www.splitbrain.org/blog/2009-04/28-lucasarts_game_posters) (4 weeks ago)
 - [Home Assistant again](https://www.splitbrain.org/blog/2021-08/15-home_assistant_again) (4 weeks ago)
 
@@ -32,7 +32,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [nuess0r](https://github.com/nuess0r) (1 month ago)
+- [nuess0r](https://github.com/nuess0r) (2 months ago)
 - [dotplex](https://github.com/dotplex) (3 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (3 months ago)
 - [grtfou](https://github.com/grtfou) (1 year ago)

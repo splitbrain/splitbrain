@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [WikiSym last part](https://www.splitbrain.org/blog/2006-08/23-wikisym-last-part) (today)
-- [WikiSym Part 4](https://www.splitbrain.org/blog/2006-08/22-wikisym-part-4) (today)
-- [WikiSym Part 3](https://www.splitbrain.org/blog/2006-08/22-wikisym-part-3) (today)
-- [WikiSym Part 2](https://www.splitbrain.org/blog/2006-08/21-wikisym-part-2) (today)
-- [WikiSym First Post](https://www.splitbrain.org/blog/2006-08/21-wikisym-first-post) (today)
+- [Usability Sessions at RegioWiki Camp 09](https://www.splitbrain.org/blog/2009-09/30-usability-sessions-at-regiowiki-camp-09) (today)
+- [WikiSym 2008 Day 3](https://www.splitbrain.org/blog/2008-09/11-wikisym-2008-day-3) (today)
+- [WikiSym 2008 Day 2](https://www.splitbrain.org/blog/2008-09/10-wikisym-2008-day-2) (today)
+- [WikiSym 2008 Day 1](https://www.splitbrain.org/blog/2008-09/09-wikisym-2008-day-1) (today)
+- [WikiSym 2007 - The Summary](https://www.splitbrain.org/blog/2007-10/29-wikisym-2007-the-summary) (today)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

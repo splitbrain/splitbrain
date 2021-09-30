@@ -23,9 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Blocking spam through HELO checks - the right way](https://www.splitbrain.org/blog/2007-11/28-blocking-spam-through-helo-checks-the-right-way) (today)
+- [Surviving the Perl/UTF-8 Madness](https://www.splitbrain.org/blog/2009-12/10-surviving-the-perl-utf-8-madness) (today)
+- [Calculate a Destination Coordinate based on Distance and Bearing in PHP](https://www.splitbrain.org/blog/2010-06/29-calculate-a-destination-coordinate-based-on-distance-and-bearing-in-php) (today)
 - [Humidity Control with Home Assistant](https://www.splitbrain.org/blog/2021-08/16-humidity_control_with_home_assistant) (1 month ago)
 - [LucasArts Game Posters](https://www.splitbrain.org/blog/2009-04/28-lucasarts_game_posters) (1 month ago)
-- [Home Assistant again](https://www.splitbrain.org/blog/2021-08/15-home_assistant_again) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

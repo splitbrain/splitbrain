@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (1 month ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 month ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 month ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 month ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 months ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (2 months ago)
 
 ### :scroll: My recent blog posts
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (4 days ago)
-- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (4 days ago)
-- [Usability Sessions at RegioWiki Camp 09](https://www.splitbrain.org/blog/2009-09/30-usability-sessions-at-regiowiki-camp-09) (4 days ago)
-- [WikiSym 2008 Day 3](https://www.splitbrain.org/blog/2008-09/11-wikisym-2008-day-3) (4 days ago)
-- [WikiSym 2008 Day 2](https://www.splitbrain.org/blog/2008-09/10-wikisym-2008-day-2) (4 days ago)
+- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (5 days ago)
+- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (5 days ago)
+- [Usability Sessions at RegioWiki Camp 09](https://www.splitbrain.org/blog/2009-09/30-usability-sessions-at-regiowiki-camp-09) (5 days ago)
+- [WikiSym 2008 Day 3](https://www.splitbrain.org/blog/2008-09/11-wikisym-2008-day-3) (5 days ago)
+- [WikiSym 2008 Day 2](https://www.splitbrain.org/blog/2008-09/10-wikisym-2008-day-2) (5 days ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

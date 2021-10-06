@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (today)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 day ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (2 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (5 days ago)
-- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (5 days ago)
-- [Usability Sessions at RegioWiki Camp 09](https://www.splitbrain.org/blog/2009-09/30-usability-sessions-at-regiowiki-camp-09) (5 days ago)
-- [WikiSym 2008 Day 3](https://www.splitbrain.org/blog/2008-09/11-wikisym-2008-day-3) (5 days ago)
-- [WikiSym 2008 Day 2](https://www.splitbrain.org/blog/2008-09/10-wikisym-2008-day-2) (5 days ago)
+- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (6 days ago)
+- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (6 days ago)
+- [Usability Sessions at RegioWiki Camp 09](https://www.splitbrain.org/blog/2009-09/30-usability-sessions-at-regiowiki-camp-09) (6 days ago)
+- [WikiSym 2008 Day 3](https://www.splitbrain.org/blog/2008-09/11-wikisym-2008-day-3) (6 days ago)
+- [WikiSym 2008 Day 2](https://www.splitbrain.org/blog/2008-09/10-wikisym-2008-day-2) (6 days ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

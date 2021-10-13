@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 day ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (2 days ago)
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (3 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
@@ -34,9 +34,9 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [fablab-luenen](https://github.com/fablab-luenen) (today)
-- [solarkraft](https://github.com/solarkraft) (today)
-- [nuess0r](https://github.com/nuess0r) (2 months ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (1 day ago)
+- [solarkraft](https://github.com/solarkraft) (1 day ago)
+- [nuess0r](https://github.com/nuess0r) (3 months ago)
 - [dotplex](https://github.com/dotplex) (4 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (4 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (1 year ago)

@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 day ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 week ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 month ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 month ago)
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 month ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (2 months ago)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (2 months ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (2 months ago)
 
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (1 day ago)
-- [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (6 days ago)
+- [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (2 days ago)
+- [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (1 week ago)
 - [Casa Hedgehog](https://www.splitbrain.org/blog/2021-10/14-casa_hedgehog) (1 week ago)
 - [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (3 weeks ago)
 - [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (3 weeks ago)

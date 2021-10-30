@@ -26,8 +26,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (1 week ago)
 - [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (2 weeks ago)
 - [Casa Hedgehog](https://www.splitbrain.org/blog/2021-10/14-casa_hedgehog) (2 weeks ago)
-- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (4 weeks ago)
-- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (4 weeks ago)
+- [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (1 month ago)
+- [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

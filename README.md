@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (today)
+- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (1 day ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (2 weeks ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 month ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 month ago)
@@ -34,8 +34,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [fablab-luenen](https://github.com/fablab-luenen) (2 weeks ago)
-- [solarkraft](https://github.com/solarkraft) (2 weeks ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (3 weeks ago)
+- [solarkraft](https://github.com/solarkraft) (3 weeks ago)
 - [nuess0r](https://github.com/nuess0r) (3 months ago)
 - [dotplex](https://github.com/dotplex) (5 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (5 months ago)

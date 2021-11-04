@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (today)
-- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (2 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
-- [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (1 day ago)
+- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (3 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
+- [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (3 weeks ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 month ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 month ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 month ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (2 weeks ago)
 - [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (2 weeks ago)
-- [Casa Hedgehog](https://www.splitbrain.org/blog/2021-10/14-casa_hedgehog) (2 weeks ago)
+- [Casa Hedgehog](https://www.splitbrain.org/blog/2021-10/14-casa_hedgehog) (3 weeks ago)
 - [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (1 month ago)
 - [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (1 month ago)
 

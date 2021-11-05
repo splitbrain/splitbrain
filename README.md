@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (1 day ago)
-- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (3 days ago)
+- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (2 days ago)
+- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (4 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (3 weeks ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (3 weeks ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (2 weeks ago)
-- [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (2 weeks ago)
+- [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (3 weeks ago)
 - [Casa Hedgehog](https://www.splitbrain.org/blog/2021-10/14-casa_hedgehog) (3 weeks ago)
 - [WikiSym 2011](https://www.splitbrain.org/blog/2011-10/10-wikisym-2011) (1 month ago)
 - [WikiSym 2010](https://www.splitbrain.org/blog/2010-07/13-wikisym-2010) (1 month ago)

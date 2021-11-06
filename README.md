@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (2 days ago)
-- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (4 days ago)
+- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (3 days ago)
+- [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (5 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (3 weeks ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) -  (3 weeks ago)

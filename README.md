@@ -34,6 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
+- [loganmarchione](https://github.com/loganmarchione) (today)
 - [fablab-luenen](https://github.com/fablab-luenen) (3 weeks ago)
 - [solarkraft](https://github.com/solarkraft) (3 weeks ago)
 - [nuess0r](https://github.com/nuess0r) (3 months ago)

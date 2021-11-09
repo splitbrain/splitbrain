@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (5 days ago)
+- [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (6 days ago)
 - [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (3 weeks ago)
@@ -34,9 +34,9 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [loganmarchione](https://github.com/loganmarchione) (1 day ago)
-- [fablab-luenen](https://github.com/fablab-luenen) (3 weeks ago)
-- [solarkraft](https://github.com/solarkraft) (3 weeks ago)
+- [loganmarchione](https://github.com/loganmarchione) (2 days ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (4 weeks ago)
+- [solarkraft](https://github.com/solarkraft) (4 weeks ago)
 - [nuess0r](https://github.com/nuess0r) (3 months ago)
 - [dotplex](https://github.com/dotplex) (5 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (5 months ago)

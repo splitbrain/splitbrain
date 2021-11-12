@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Rostock July 6th 1987](https://www.splitbrain.org/blog/1987-07/06-rostock) (today)
-- [Birkenwerder July 5th 1987](https://www.splitbrain.org/blog/1987-07/05-birkenwerder) (today)
-- [Birkenwerder July 4th 1987](https://www.splitbrain.org/blog/1987-07/04-birkenwerder) (today)
-- [Syncmaster 2443BW Repair](https://www.splitbrain.org/blog/2021-10/20-syncmaster_2443bw_repair) (3 weeks ago)
-- [Noise Cancelling Headphones compared](https://www.splitbrain.org/blog/2021-10/15-noise_cancelling_headphones_compared) (4 weeks ago)
+- [Birkenwerder July 18th 1987](https://www.splitbrain.org/blog/1987-07/18-birkenwerder) (today)
+- [Birkenwerder July 17th 1987](https://www.splitbrain.org/blog/1987-07/17-birkenwerder) (today)
+- [Birkenwerder July 16th 1987](https://www.splitbrain.org/blog/1987-07/16-birkenwerder) (today)
+- [Birkenwerder July 15th 1987](https://www.splitbrain.org/blog/1987-07/15-birkenwerder) (today)
+- [Birkenwerder July 14th 1987](https://www.splitbrain.org/blog/1987-07/14-birkenwerder) (today)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

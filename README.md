@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (today)
+- [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (today)
 - [Birkenwerder July 18th 1987](https://www.splitbrain.org/blog/1987-07/18-birkenwerder) (today)
 - [Birkenwerder July 17th 1987](https://www.splitbrain.org/blog/1987-07/17-birkenwerder) (today)
 - [Birkenwerder July 16th 1987](https://www.splitbrain.org/blog/1987-07/16-birkenwerder) (today)
-- [Birkenwerder July 15th 1987](https://www.splitbrain.org/blog/1987-07/15-birkenwerder) (today)
-- [Birkenwerder July 14th 1987](https://www.splitbrain.org/blog/1987-07/14-birkenwerder) (today)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

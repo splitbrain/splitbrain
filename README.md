@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
-- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
+- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (5 days ago)
-- [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (5 days ago)
-- [Birkenwerder July 18th 1987](https://www.splitbrain.org/blog/1987-07/18-birkenwerder) (5 days ago)
-- [Birkenwerder July 17th 1987](https://www.splitbrain.org/blog/1987-07/17-birkenwerder) (5 days ago)
-- [Birkenwerder July 16th 1987](https://www.splitbrain.org/blog/1987-07/16-birkenwerder) (5 days ago)
+- [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (6 days ago)
+- [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (6 days ago)
+- [Birkenwerder July 18th 1987](https://www.splitbrain.org/blog/1987-07/18-birkenwerder) (6 days ago)
+- [Birkenwerder July 17th 1987](https://www.splitbrain.org/blog/1987-07/17-birkenwerder) (6 days ago)
+- [Birkenwerder July 16th 1987](https://www.splitbrain.org/blog/1987-07/16-birkenwerder) (6 days ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

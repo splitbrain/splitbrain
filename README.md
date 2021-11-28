@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/docker-php7-cli](https://github.com/cosmocode/docker-php7-cli) - Simple PHP Docker image with additional extensions, node and yarn (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/docker-php7-cli](https://github.com/cosmocode/docker-php7-cli) - Simple PHP Docker image with additional extensions, node and yarn (3 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (2 weeks ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [xtaran](https://github.com/xtaran) (2 weeks ago)
-- [loganmarchione](https://github.com/loganmarchione) (2 weeks ago)
+- [loganmarchione](https://github.com/loganmarchione) (3 weeks ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (1 month ago)
 - [solarkraft](https://github.com/solarkraft) (1 month ago)
 - [nuess0r](https://github.com/nuess0r) (4 months ago)

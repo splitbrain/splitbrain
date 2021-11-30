@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/docker-php7-cli](https://github.com/cosmocode/docker-php7-cli) - Simple PHP Docker image with additional extensions, node and yarn (4 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/docker-php7-cli](https://github.com/cosmocode/docker-php7-cli) - Simple PHP Docker image with additional extensions, node and yarn (5 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (2 weeks ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-schulzevote](https://github.com/cosmocode/dokuwiki-plugin-schulzevote) - A plugin to add votings using the Schulze Method to DokuWiki pages (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-reqlang](https://github.com/cosmocode/dokuwiki-plugin-reqlang) - Switch the DokuWiki interface language according to the accept-language request header (4 weeks ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 month ago)
@@ -39,8 +39,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [fablab-luenen](https://github.com/fablab-luenen) (1 month ago)
 - [solarkraft](https://github.com/solarkraft) (1 month ago)
 - [nuess0r](https://github.com/nuess0r) (4 months ago)
-- [dotplex](https://github.com/dotplex) (5 months ago)
-- [chrisjrob](https://github.com/chrisjrob) (5 months ago)
+- [dotplex](https://github.com/dotplex) (6 months ago)
+- [chrisjrob](https://github.com/chrisjrob) (6 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (1 year ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [kram242](https://github.com/kram242) (2 years ago)

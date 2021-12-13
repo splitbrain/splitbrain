@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-linkscollection](https://github.com/cosmocode/dokuwiki-plugin-linkscollection) - DokuWiki plugin for creating link lists from page tree (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (2 days ago)
+- [cosmocode/dokuwiki-plugin-linkscollection](https://github.com/cosmocode/dokuwiki-plugin-linkscollection) - DokuWiki plugin for creating link lists from page tree (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgithub](https://github.com/cosmocode/dokuwiki-plugin-oauthgithub) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (1 week ago)

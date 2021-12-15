@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (4 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthdoorkeeper](https://github.com/cosmocode/dokuwiki-plugin-oauthdoorkeeper) - oauth Doorkeeper Service Example (1 week ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (2 weeks ago)
-- [cosmocode/docker-php7-cli](https://github.com/cosmocode/docker-php7-cli) - Simple PHP Docker image with additional extensions, node and yarn (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

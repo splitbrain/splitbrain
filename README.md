@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (today)
 - [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
 - [cosmocode/dokuwiki-plugin-oauthgithub](https://github.com/cosmocode/dokuwiki-plugin-oauthgithub) -  (1 day ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [cosmocode/dokuwiki-plugin-linkscollection](https://github.com/cosmocode/dokuwiki-plugin-linkscollection) - DokuWiki plugin for creating link lists from page tree (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthdoorkeeper](https://github.com/cosmocode/dokuwiki-plugin-oauthdoorkeeper) - oauth Doorkeeper Service Example (1 week ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (2 weeks ago)
 

@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (6 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (2 weeks ago)

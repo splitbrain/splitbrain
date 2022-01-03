@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
@@ -14,9 +15,8 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauthgithub](https://github.com/cosmocode/dokuwiki-plugin-oauthgithub) -  (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-linkscollection](https://github.com/cosmocode/dokuwiki-plugin-linkscollection) - DokuWiki plugin for creating link lists from page tree (4 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (4 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (4 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauthdoorkeeper](https://github.com/cosmocode/dokuwiki-plugin-oauthdoorkeeper) - oauth Doorkeeper Service Example (1 month ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (4 weeks ago)
 
 ### :scroll: My recent blog posts
 

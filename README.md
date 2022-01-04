@@ -12,10 +12,10 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the oAuth Plugin (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauthgithub](https://github.com/cosmocode/dokuwiki-plugin-oauthgithub) -  (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the DokuWiki oAuth Plugin (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauthgithub](https://github.com/cosmocode/dokuwiki-plugin-oauthgithub) - Github Service for use with the DokuWiki oAuth Plugin (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-linkscollection](https://github.com/cosmocode/dokuwiki-plugin-linkscollection) - DokuWiki plugin for creating link lists from page tree (4 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the oAuth Plugin (1 month ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 month ago)
 - [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 month ago)
 
 ### :scroll: My recent blog posts

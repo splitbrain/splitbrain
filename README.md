@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (today)
 - [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (1 week ago)
 - [Scroll Saw Adventures](https://www.splitbrain.org/blog/2021-12/02-scrollsaw_adventures) (1 month ago)
 - [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (1 month ago)
 - [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (1 month ago)
-- [Birkenwerder July 18th 1987](https://www.splitbrain.org/blog/1987-07/18-birkenwerder) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

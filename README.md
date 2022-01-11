@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (today)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (6 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (1 week ago)
 - [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauthcognito](https://github.com/cosmocode/dokuwiki-plugin-oauthcognito) - Amazon Cognito Service for use with the oAuth Plugin (3 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (1 day ago)
+- [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (2 days ago)
 - [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (1 week ago)
 - [Scroll Saw Adventures](https://www.splitbrain.org/blog/2021-12/02-scrollsaw_adventures) (1 month ago)
-- [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (1 month ago)
-- [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (1 month ago)
+- [Birkenwerder July 20th to 23rd 1987](https://www.splitbrain.org/blog/1987-07/20-birkenwerder) (2 months ago)
+- [Birkenwerder July 19th 1987](https://www.splitbrain.org/blog/1987-07/19-birkenwerder) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [loganmarchione](https://github.com/loganmarchione) (2 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (3 months ago)
 - [solarkraft](https://github.com/solarkraft) (3 months ago)
-- [nuess0r](https://github.com/nuess0r) (5 months ago)
+- [nuess0r](https://github.com/nuess0r) (6 months ago)
 - [dotplex](https://github.com/dotplex) (7 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (7 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (1 year ago)

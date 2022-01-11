@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (today)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
+- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (1 week ago)

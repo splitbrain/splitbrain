@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-oauthwechange](https://github.com/cosmocode/dokuwiki-plugin-oauthwechange) - OAuth plugin for WECHANGE (3 days ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (4 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
-- [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (6 days ago)
-- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the DokuWiki oAuth Plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-oauthwechange](https://github.com/cosmocode/dokuwiki-plugin-oauthwechange) - OAuth plugin for WECHANGE (4 days ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (5 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauthgoogle](https://github.com/cosmocode/dokuwiki-plugin-oauthgoogle) - Google Service for use with the DokuWiki oAuth Plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (today)
-- [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (today)
+- [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (1 day ago)
+- [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (1 day ago)
 - [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (1 week ago)
-- [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (2 weeks ago)
+- [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (3 weeks ago)
 - [Scroll Saw Adventures](https://www.splitbrain.org/blog/2021-12/02-scrollsaw_adventures) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

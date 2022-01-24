@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-dokuteaser](https://github.com/splitbrain/dokuwiki-plugin-dokuteaser) - internal plugin for dokuwiki.org (2 days ago)
 - [cosmocode/dokuwiki-plugin-oauthwechange](https://github.com/cosmocode/dokuwiki-plugin-oauthwechange) - OAuth plugin for WECHANGE (6 days ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauthfacebook](https://github.com/cosmocode/dokuwiki-plugin-oauthfacebook) - Facebook Service for use with the oAuth Plugin (1 week ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (4 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (3 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (4 weeks ago)
-- [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (4 weeks ago)
+- [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (1 month ago)
+- [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (1 month ago)
 - [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (1 month ago)
 - [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (1 month ago)
 - [Scroll Saw Adventures](https://www.splitbrain.org/blog/2021-12/02-scrollsaw_adventures) (2 months ago)

@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Search for the Perfect Wallet](https://www.splitbrain.org/blog/2022-02/24-search_for_the_perfect_wallet) (today)
 - [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (1 month ago)
 - [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (1 month ago)
 - [Splashbacks!](https://www.splitbrain.org/blog/2022-01/09-splashbacks) (1 month ago)
 - [DIY Disk Sander (again)](https://www.splitbrain.org/blog/2022-01/01-diy_disk_sander_again) (1 month ago)
-- [Scroll Saw Adventures](https://www.splitbrain.org/blog/2021-12/02-scrollsaw_adventures) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

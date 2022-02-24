@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (today)
-- [cosmocode/dokuwiki-plugin-cookiebanner](https://github.com/cosmocode/dokuwiki-plugin-cookiebanner) - Another consent tool for DokuWiki (today)
-- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (today)
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (3 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (1 day ago)
+- [cosmocode/dokuwiki-plugin-cookiebanner](https://github.com/cosmocode/dokuwiki-plugin-cookiebanner) - Another consent tool for DokuWiki (1 day ago)
+- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 day ago)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)

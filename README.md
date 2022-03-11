@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (today)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
-- [splitbrain/itchy](https://github.com/splitbrain/itchy) - Fetch your itch.io library into an sqlite database for easier searching (6 days ago)
+- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (1 day ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
+- [splitbrain/itchy](https://github.com/splitbrain/itchy) - Fetch your itch.io library into an sqlite database for easier searching (1 week ago)
 - [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (1 week ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (2 weeks ago)
@@ -36,8 +36,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [xtaran](https://github.com/xtaran) (4 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (4 months ago)
-- [fablab-luenen](https://github.com/fablab-luenen) (4 months ago)
-- [solarkraft](https://github.com/solarkraft) (4 months ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (5 months ago)
+- [solarkraft](https://github.com/solarkraft) (5 months ago)
 - [nuess0r](https://github.com/nuess0r) (7 months ago)
 - [dotplex](https://github.com/dotplex) (9 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (9 months ago)

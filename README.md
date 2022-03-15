@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (today)
-- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (5 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/itchy](https://github.com/splitbrain/itchy) - Fetch your itch.io library into an sqlite database for easier searching (1 week ago)
 - [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (2 weeks ago)

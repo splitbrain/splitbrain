@@ -7,6 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (today)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (today)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (4 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (5 days ago)
@@ -15,8 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/itchy](https://github.com/splitbrain/itchy) - Fetch your itch.io library into an sqlite database for easier searching (3 weeks ago)
 - [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (4 weeks ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 month ago)
-- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (1 month ago)
-- [cosmocode/dokuwiki-plugin-cookiebanner](https://github.com/cosmocode/dokuwiki-plugin-cookiebanner) - Another consent tool for DokuWiki (1 month ago)
 
 ### :scroll: My recent blog posts
 

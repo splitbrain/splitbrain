@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (today)
+- [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
 - [cosmocode/dokuwiki-plugin-tablelayout](https://github.com/cosmocode/dokuwiki-plugin-tablelayout) - Set the width of table columns and set which lines to fix (2 days ago)
-- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (2 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
-- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (2 days ago)
+- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (2 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 days ago)
 - [splitbrain/dokuwiki-plugin-gemini](https://github.com/splitbrain/dokuwiki-plugin-gemini) - Expose your wiki as a read-only gemini server (2 days ago)
 - [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (6 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
-- [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [cosmocode/dokuwiki-plugin-tablelayout](https://github.com/cosmocode/dokuwiki-plugin-tablelayout) - Set the width of table columns and set which lines to fix (1 day ago)
-- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
-- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 day ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-gemini](https://github.com/splitbrain/dokuwiki-plugin-gemini) - Expose your wiki as a read-only gemini server (1 day ago)
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (5 days ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [cosmocode/dokuwiki-plugin-tablelayout](https://github.com/cosmocode/dokuwiki-plugin-tablelayout) - Set the width of table columns and set which lines to fix (2 days ago)
+- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (2 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-gemini](https://github.com/splitbrain/dokuwiki-plugin-gemini) - Expose your wiki as a read-only gemini server (2 days ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (6 days ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [splitbrain/dokuwiki-plugin-dev](https://github.com/splitbrain/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool (2 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -34,15 +34,15 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [jet52](https://github.com/jet52) (today)
+- [jet52](https://github.com/jet52) (1 day ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 week ago)
 - [xtaran](https://github.com/xtaran) (4 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (4 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (5 months ago)
 - [solarkraft](https://github.com/solarkraft) (5 months ago)
 - [nuess0r](https://github.com/nuess0r) (8 months ago)
-- [dotplex](https://github.com/dotplex) (9 months ago)
-- [chrisjrob](https://github.com/chrisjrob) (9 months ago)
+- [dotplex](https://github.com/dotplex) (10 months ago)
+- [chrisjrob](https://github.com/chrisjrob) (10 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [kram242](https://github.com/kram242) (2 years ago)

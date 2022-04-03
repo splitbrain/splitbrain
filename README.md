@@ -34,6 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
+- [f2h2h1](https://github.com/f2h2h1) (today)
 - [jet52](https://github.com/jet52) (5 days ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 week ago)
 - [xtaran](https://github.com/xtaran) (4 months ago)

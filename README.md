@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (5 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (3 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (6 days ago)
 - [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (2 days ago)
-- [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (2 days ago)
+- [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (3 days ago)
+- [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (3 days ago)
 - [Search for the Perfect Wallet](https://www.splitbrain.org/blog/2022-02/24-search_for_the_perfect_wallet) (1 month ago)
 - [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (2 months ago)
 - [Podcasts](https://www.splitbrain.org/blog/2022-01/21-podcasts) (2 months ago)
@@ -34,13 +34,13 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [f2h2h1](https://github.com/f2h2h1) (6 days ago)
+- [f2h2h1](https://github.com/f2h2h1) (1 week ago)
 - [jet52](https://github.com/jet52) (1 week ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 weeks ago)
 - [xtaran](https://github.com/xtaran) (5 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (5 months ago)
-- [fablab-luenen](https://github.com/fablab-luenen) (5 months ago)
-- [solarkraft](https://github.com/solarkraft) (5 months ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (6 months ago)
+- [solarkraft](https://github.com/solarkraft) (6 months ago)
 - [nuess0r](https://github.com/nuess0r) (8 months ago)
 - [dotplex](https://github.com/dotplex) (10 months ago)
 - [chrisjrob](https://github.com/chrisjrob) (10 months ago)

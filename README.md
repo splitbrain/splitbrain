@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (today)
-- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (today)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 day ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (4 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 day ago)
+- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (1 day ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (1 week ago)
 - [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
@@ -23,9 +23,9 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (1 day ago)
-- [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (4 days ago)
-- [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (4 days ago)
+- [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (2 days ago)
+- [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (5 days ago)
+- [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (5 days ago)
 - [Search for the Perfect Wallet](https://www.splitbrain.org/blog/2022-02/24-search_for_the_perfect_wallet) (1 month ago)
 - [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (2 months ago)
 
@@ -35,8 +35,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [f2h2h1](https://github.com/f2h2h1) (1 week ago)
-- [jet52](https://github.com/jet52) (1 week ago)
-- [TauriaEE](https://github.com/TauriaEE) (2 weeks ago)
+- [jet52](https://github.com/jet52) (2 weeks ago)
+- [TauriaEE](https://github.com/TauriaEE) (3 weeks ago)
 - [xtaran](https://github.com/xtaran) (5 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (5 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (6 months ago)

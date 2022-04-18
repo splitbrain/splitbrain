@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (today)
 - [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (1 week ago)
 - [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (1 week ago)
 - [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (1 week ago)
 - [Search for the Perfect Wallet](https://www.splitbrain.org/blog/2022-02/24-search_for_the_perfect_wallet) (1 month ago)
-- [The Great Wave](https://www.splitbrain.org/blog/2022-01/21b-the_great_wave) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

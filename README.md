@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 week ago)
 - [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (1 week ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
-- [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (2 weeks ago)
-- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 weeks ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (2 weeks ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

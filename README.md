@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)
-- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (1 week ago)
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (6 days ago)
+- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API (3 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (2 days ago)
-- [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (6 days ago)
+- [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (3 days ago)
+- [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (1 week ago)
 - [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (2 weeks ago)
 - [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (2 weeks ago)
 - [Basement Upgrades](https://www.splitbrain.org/blog/2022-04/07-basement_upgrades) (2 weeks ago)

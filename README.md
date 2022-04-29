@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
@@ -15,15 +15,15 @@ These are the projects I most recently worked on.
 - [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (4 weeks ago)
-- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 month ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 month ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (6 days ago)
+- [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (1 week ago)
 - [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (1 week ago)
 - [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (2 weeks ago)
 - [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (3 weeks ago)
@@ -42,8 +42,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [fablab-luenen](https://github.com/fablab-luenen) (6 months ago)
 - [solarkraft](https://github.com/solarkraft) (6 months ago)
 - [nuess0r](https://github.com/nuess0r) (9 months ago)
-- [dotplex](https://github.com/dotplex) (10 months ago)
-- [chrisjrob](https://github.com/chrisjrob) (10 months ago)
+- [dotplex](https://github.com/dotplex) (11 months ago)
+- [chrisjrob](https://github.com/chrisjrob) (11 months ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [kram242](https://github.com/kram242) (2 years ago)

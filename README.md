@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 month ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 month ago)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 month ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 month ago)
 
 ### :scroll: My recent blog posts
 

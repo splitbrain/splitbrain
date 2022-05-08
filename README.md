@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (4 days ago)
+- [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (5 days ago)
 - [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (2 weeks ago)
 - [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (2 weeks ago)
-- [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (3 weeks ago)
+- [Weekend Project: indieblog.page](https://www.splitbrain.org/blog/2022-04/10-weekend_project) (4 weeks ago)
 - [Tool Time: Zipper ZI-HB204](https://www.splitbrain.org/blog/2022-04/07b-zipper_hb204_review) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

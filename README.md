@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 day ago)
-- [cosmocode/dokuwiki-plugin-authgooglesheets](https://github.com/cosmocode/dokuwiki-plugin-authgooglesheets) -  (2 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
+- [cosmocode/dokuwiki-plugin-authgooglesheets](https://github.com/cosmocode/dokuwiki-plugin-authgooglesheets) -  (3 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (6 days ago)
+- [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (1 week ago)
 - [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (2 weeks ago)
 - [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (4 weeks ago)
 - [Workshop Infrastructure Updates](https://www.splitbrain.org/blog/2022-04/18-workshop_infrastructure) (1 month ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [jet52](https://github.com/jet52) (1 month ago)
-- [TauriaEE](https://github.com/TauriaEE) (1 month ago)
+- [TauriaEE](https://github.com/TauriaEE) (2 months ago)
 - [xtaran](https://github.com/xtaran) (6 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (6 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (7 months ago)

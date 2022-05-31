@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (5 days ago)
-- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (5 days ago)
+- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (6 days ago)
+- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (6 days ago)
 - [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (2 weeks ago)
-- [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (3 weeks ago)
+- [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (4 weeks ago)
 - [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

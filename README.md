@@ -12,7 +12,7 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 month ago)
 - [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 month ago)
 - [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (1 month ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (6 days ago)
-- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (6 days ago)
+- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (1 week ago)
+- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (1 week ago)
 - [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (2 weeks ago)
 - [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (4 weeks ago)
 - [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (1 month ago)

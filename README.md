@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
 - [cosmocode/dokuwiki-plugin-authgooglesheets](https://github.com/cosmocode/dokuwiki-plugin-authgooglesheets) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 weeks ago)
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [jet52](https://github.com/jet52) (2 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 months ago)
 - [xtaran](https://github.com/xtaran) (6 months ago)
-- [loganmarchione](https://github.com/loganmarchione) (6 months ago)
+- [loganmarchione](https://github.com/loganmarchione) (7 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (7 months ago)
 - [solarkraft](https://github.com/solarkraft) (7 months ago)
 - [nuess0r](https://github.com/nuess0r) (10 months ago)

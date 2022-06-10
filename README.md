@@ -15,8 +15,8 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 month ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 month ago)
-- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (1 month ago)
-- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (1 month ago)
+- [splitbrain/crocofile](https://github.com/splitbrain/crocofile) - A webbased file upload manager to share files by sharing an account (2 months ago)
+- [cosmocode/dokuwiki-plugin-wideredit](https://github.com/cosmocode/dokuwiki-plugin-wideredit) - Multi-Section Editing for DokuWiki (2 months ago)
 
 ### :scroll: My recent blog posts
 
@@ -40,7 +40,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [loganmarchione](https://github.com/loganmarchione) (7 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (8 months ago)
 - [solarkraft](https://github.com/solarkraft) (8 months ago)
-- [nuess0r](https://github.com/nuess0r) (10 months ago)
+- [nuess0r](https://github.com/nuess0r) (11 months ago)
 - [dotplex](https://github.com/dotplex) (1 year ago)
 - [chrisjrob](https://github.com/chrisjrob) (1 year ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)

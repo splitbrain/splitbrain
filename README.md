@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-authgooglesheets](https://github.com/cosmocode/dokuwiki-plugin-authgooglesheets) -  (1 month ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 month ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 month ago)
 
 ### :scroll: My recent blog posts
 

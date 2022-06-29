@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (2 days ago)
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (3 days ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 days ago)
 - [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (6 days ago)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 week ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 weeks ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 weeks ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 weeks ago)
 - [cosmocode/dokuwiki-plugin-authgooglesheets](https://github.com/cosmocode/dokuwiki-plugin-authgooglesheets) -  (1 month ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 month ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (today)
-- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 day ago)
-- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (2 days ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (1 day ago)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (2 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
+- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (6 days ago)
 - [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
 
@@ -39,7 +39,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [jet52](https://github.com/jet52) (3 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (3 months ago)
 - [xtaran](https://github.com/xtaran) (7 months ago)
-- [loganmarchione](https://github.com/loganmarchione) (7 months ago)
+- [loganmarchione](https://github.com/loganmarchione) (8 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (8 months ago)
 - [solarkraft](https://github.com/solarkraft) (8 months ago)
 - [nuess0r](https://github.com/nuess0r) (11 months ago)

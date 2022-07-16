@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (4 days ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 week ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [yohann-schmidt](https://github.com/yohann-schmidt) (2 weeks ago)
-- [jgod](https://github.com/jgod) (2 weeks ago)
+- [jgod](https://github.com/jgod) (3 weeks ago)
 - [jet52](https://github.com/jet52) (3 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (3 months ago)
 - [xtaran](https://github.com/xtaran) (8 months ago)

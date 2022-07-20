@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-actionrenderer](https://github.com/splitbrain/dokuwiki-plugin-actionrenderer) - Use action events to overwrite DokuWiki&#39;s core XHTML rendering (3 days ago)
+- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-actionrenderer](https://github.com/splitbrain/dokuwiki-plugin-actionrenderer) - Use action events to overwrite DokuWiki&#39;s core XHTML rendering (4 days ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 week ago)
-- [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (1 week ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
-- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (1 week ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
-- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (2 weeks ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [yohann-schmidt](https://github.com/yohann-schmidt) (3 weeks ago)
 - [jgod](https://github.com/jgod) (3 weeks ago)
 - [jet52](https://github.com/jet52) (3 months ago)
-- [TauriaEE](https://github.com/TauriaEE) (3 months ago)
+- [TauriaEE](https://github.com/TauriaEE) (4 months ago)
 - [xtaran](https://github.com/xtaran) (8 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (8 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (9 months ago)

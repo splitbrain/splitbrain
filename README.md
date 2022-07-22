@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (3 days ago)
-- [splitbrain/dokuwiki-plugin-actionrenderer](https://github.com/splitbrain/dokuwiki-plugin-actionrenderer) - Use action events to overwrite DokuWiki&#39;s core XHTML rendering (5 days ago)
+- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (4 days ago)
+- [splitbrain/dokuwiki-plugin-actionrenderer](https://github.com/splitbrain/dokuwiki-plugin-actionrenderer) - Use action events to overwrite DokuWiki&#39;s core XHTML rendering (6 days ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (2 weeks ago)

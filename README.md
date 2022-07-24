@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (5 days ago)
+- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (6 days ago)
 - [splitbrain/dokuwiki-plugin-actionrenderer](https://github.com/splitbrain/dokuwiki-plugin-actionrenderer) - Use action events to overwrite DokuWiki&#39;s core XHTML rendering (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (1 month ago)
-- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (1 month ago)
+- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (2 months ago)
+- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (2 months ago)
 - [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (2 months ago)
 - [Using MailHog as my default MTA](https://www.splitbrain.org/blog/2022-05/03-mailhog_as_default_mta) (2 months ago)
 - [Scrap Wood Dice Tower](https://www.splitbrain.org/blog/2022-04/22-scrap_wood_dice_tower) (3 months ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [yohann-schmidt](https://github.com/yohann-schmidt) (3 weeks ago)
+- [yohann-schmidt](https://github.com/yohann-schmidt) (4 weeks ago)
 - [jgod](https://github.com/jgod) (4 weeks ago)
 - [jet52](https://github.com/jet52) (3 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (4 months ago)

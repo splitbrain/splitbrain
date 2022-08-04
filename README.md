@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (6 days ago)
+- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Connecting a Split AC to WiFi/Tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (2 days ago)
+- [Connecting a Split AC to WiFi/Tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (3 days ago)
 - [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (2 months ago)
 - [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (2 months ago)
 - [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (2 months ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [jet52](https://github.com/jet52) (4 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (4 months ago)
 - [xtaran](https://github.com/xtaran) (8 months ago)
-- [loganmarchione](https://github.com/loganmarchione) (8 months ago)
+- [loganmarchione](https://github.com/loganmarchione) (9 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (9 months ago)
 - [solarkraft](https://github.com/solarkraft) (9 months ago)
 - [nuess0r](https://github.com/nuess0r) (1 year ago)

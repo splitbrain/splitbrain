@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-tos](https://github.com/cosmocode/dokuwiki-plugin-tos) - Have users accept the Terms of Service on login (1 day ago)
+- [cosmocode/dokuwiki-plugin-tos](https://github.com/cosmocode/dokuwiki-plugin-tos) - Have users accept the Terms of Service on login (2 days ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Scrapwood Side Table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (1 day ago)
+- [Scrapwood Side Table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (2 days ago)
 - [Connecting a Split AC to WiFi/Tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 week ago)
 - [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (2 months ago)
 - [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (2 months ago)
-- [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (2 months ago)
+- [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

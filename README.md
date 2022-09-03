@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (today)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (6 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (6 days ago)
+- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (1 day ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-tos](https://github.com/cosmocode/dokuwiki-plugin-tos) - Have users accept the Terms of Service on login (1 week ago)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 week ago)
@@ -39,7 +39,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [jet52](https://github.com/jet52) (5 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (5 months ago)
 - [xtaran](https://github.com/xtaran) (9 months ago)
-- [loganmarchione](https://github.com/loganmarchione) (9 months ago)
+- [loganmarchione](https://github.com/loganmarchione) (10 months ago)
 - [fablab-luenen](https://github.com/fablab-luenen) (10 months ago)
 - [solarkraft](https://github.com/solarkraft) (10 months ago)
 - [nuess0r](https://github.com/nuess0r) (1 year ago)

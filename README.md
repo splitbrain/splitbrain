@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (3 days ago)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (3 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-tos](https://github.com/cosmocode/dokuwiki-plugin-tos) - Have users accept the Terms of Service on login (1 week ago)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Scrapwood Side Table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (3 weeks ago)
-- [Connecting a Split AC to WiFi/Tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 month ago)
-- [Deck Content 2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (3 months ago)
-- [Deck Content 1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (3 months ago)
-- [My Brain Sucks (sometimes)](https://www.splitbrain.org/blog/2022-05/14-my_brain_sucks_sometimes) (3 months ago)
+- [blog:2004-08:04-testing_meme_propagation_in_blogspace_add_your_blog](https://www.splitbrain.org/blog/2004-08/04-testing_meme_propagation_in_blogspace_add_your_blog) (17 years ago)
+- [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (3 weeks ago)
+- [blog:2022-08:01_connecting_split_ac_to_wifi_tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 month ago)
+- [blog:2022-05:25b_deck_content_2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (3 months ago)
+- [blog:2022-05:25_deck_content_1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

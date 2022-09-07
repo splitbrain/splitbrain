@@ -24,10 +24,10 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 day ago)
-- [blog:2004-08:04-testing_meme_propagation_in_blogspace_add_your_blog](https://www.splitbrain.org/blog/2004-08/04-testing_meme_propagation_in_blogspace_add_your_blog) (17 years ago)
 - [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (4 weeks ago)
 - [blog:2022-08:01_connecting_split_ac_to_wifi_tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 month ago)
 - [blog:2022-05:25b_deck_content_2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (3 months ago)
+- [blog:2022-05:25_deck_content_1](https://www.splitbrain.org/blog/2022-05/25_deck_content_1) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

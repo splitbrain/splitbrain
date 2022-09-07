@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (today)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (3 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (1 day ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (4 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
@@ -23,9 +23,9 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (today)
+- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 day ago)
 - [blog:2004-08:04-testing_meme_propagation_in_blogspace_add_your_blog](https://www.splitbrain.org/blog/2004-08/04-testing_meme_propagation_in_blogspace_add_your_blog) (17 years ago)
-- [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (3 weeks ago)
+- [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (4 weeks ago)
 - [blog:2022-08:01_connecting_split_ac_to_wifi_tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 month ago)
 - [blog:2022-05:25b_deck_content_2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (3 months ago)
 
@@ -40,8 +40,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [TauriaEE](https://github.com/TauriaEE) (5 months ago)
 - [xtaran](https://github.com/xtaran) (10 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (10 months ago)
-- [fablab-luenen](https://github.com/fablab-luenen) (10 months ago)
-- [solarkraft](https://github.com/solarkraft) (10 months ago)
+- [fablab-luenen](https://github.com/fablab-luenen) (11 months ago)
+- [solarkraft](https://github.com/solarkraft) (11 months ago)
 - [nuess0r](https://github.com/nuess0r) (1 year ago)
 - [dotplex](https://github.com/dotplex) (1 year ago)
 - [chrisjrob](https://github.com/chrisjrob) (1 year ago)

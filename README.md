@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (2 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (6 days ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
+- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (3 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (2 weeks ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (2 weeks ago)
 - [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (2 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [foodalot](https://github.com/foodalot) (1 month ago)
 - [jgod](https://github.com/jgod) (3 months ago)
-- [jet52](https://github.com/jet52) (5 months ago)
+- [jet52](https://github.com/jet52) (6 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (6 months ago)
 - [xtaran](https://github.com/xtaran) (10 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (10 months ago)

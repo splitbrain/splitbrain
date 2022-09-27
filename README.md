@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-pagehere](https://github.com/cosmocode/dokuwiki-plugin-pagehere) - A DokuWiki syntax plugin for a very simple new page input (today)
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (4 days ago)
+- [cosmocode/dokuwiki-plugin-pagehere](https://github.com/cosmocode/dokuwiki-plugin-pagehere) - A DokuWiki syntax plugin for a very simple new page input (1 day ago)
+- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (5 days ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (2 weeks ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (2 weeks ago)
 - [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (2 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (3 weeks ago)
 - [splitbrain/openscad-projects](https://github.com/splitbrain/openscad-projects) - Various OpenScad designs for 3D printing (3 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 day ago)
-- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (2 weeks ago)
+- [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (2 days ago)
+- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (3 weeks ago)
 - [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (1 month ago)
 - [blog:2022-08:01_connecting_split_ac_to_wifi_tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (1 month ago)
 - [blog:2022-05:25b_deck_content_2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (4 months ago)

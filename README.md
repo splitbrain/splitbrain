@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (today)
-- [cosmocode/dokuwiki-plugin-icon](https://github.com/cosmocode/dokuwiki-plugin-icon) - Easily use SVG icon sets as images in DokuWiki (4 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 days ago)
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (5 days ago)
-- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (5 days ago)
-- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (5 days ago)
+- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
+- [cosmocode/dokuwiki-plugin-icon](https://github.com/cosmocode/dokuwiki-plugin-icon) - Easily use SVG icon sets as images in DokuWiki (5 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
+- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (6 days ago)
+- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (6 days ago)
+- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (6 days ago)
 - [cosmocode/dokuwiki-plugin-pagehere](https://github.com/cosmocode/dokuwiki-plugin-pagehere) - A DokuWiki syntax plugin for a very simple new page input (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (2 weeks ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 week ago)
-- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (3 weeks ago)
+- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (4 weeks ago)
 - [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (1 month ago)
 - [blog:2022-08:01_connecting_split_ac_to_wifi_tuya](https://www.splitbrain.org/blog/2022-08/01_connecting_split_ac_to_wifi_tuya) (2 months ago)
 - [blog:2022-05:25b_deck_content_2](https://www.splitbrain.org/blog/2022-05/25b_deck_content_2) (4 months ago)
@@ -48,7 +48,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [kram242](https://github.com/kram242) (2 years ago)
-- [voegelas](https://github.com/voegelas) (2 years ago)
+- [voegelas](https://github.com/voegelas) (3 years ago)
 
 ### :octocat: All the statistics
 

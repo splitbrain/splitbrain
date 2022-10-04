@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/commie](https://github.com/splitbrain/commie) - commie is a pastebin script with line commenting support (today)
-- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (today)
+- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (today)
 - [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (today)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (today)
 - [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (today)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
 - [cosmocode/dokuwiki-plugin-icon](https://github.com/cosmocode/dokuwiki-plugin-icon) - Easily use SVG icon sets as images in DokuWiki (5 days ago)
-- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (6 days ago)
-- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (6 days ago)
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (6 days ago)
 
 ### :scroll: My recent blog posts
 

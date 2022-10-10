@@ -9,14 +9,14 @@ These are the projects I most recently worked on.
 
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 days ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (4 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (6 days ago)
-- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (6 days ago)
+- [splitbrain/commie](https://github.com/splitbrain/commie) - commie is a pastebin script with line commenting support (6 days ago)
 - [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (6 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
-- [splitbrain/commie](https://github.com/splitbrain/commie) - commie is a pastebin script with line commenting support (6 days ago)
+- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (6 days ago)
 
 ### :scroll: My recent blog posts
 

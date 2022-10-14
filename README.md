@@ -7,23 +7,23 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (today)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (today)
-- [dokufreaks/dokuwiki-translation](https://github.com/dokufreaks/dokuwiki-translation) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (1 day ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 days ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (3 days ago)
+- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 day ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 day ago)
+- [dokufreaks/dokuwiki-translation](https://github.com/dokufreaks/dokuwiki-translation) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (3 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 days ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (4 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [blog:2022-10:09-led_matrix_with_esphome_and_homeassistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (4 days ago)
+- [blog:2022-10:09-led_matrix_with_esphome_and_homeassistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (5 days ago)
 - [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (2 weeks ago)
 - [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 month ago)
 - [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (2 months ago)

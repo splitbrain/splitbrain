@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (today)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (5 days ago)
+- [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 day ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 week ago)
 - [dokufreaks/dokuwiki-translation](https://github.com/dokufreaks/dokuwiki-translation) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [blog:2022-10:15-diy_sliding_door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (1 week ago)
 - [blog:2022-10:09-led_matrix_with_esphome_and_homeassistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (2 weeks ago)
-- [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (4 weeks ago)
+- [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
 - [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 month ago)
 - [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (2 months ago)
 
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [foodalot](https://github.com/foodalot) (2 months ago)
 - [jgod](https://github.com/jgod) (4 months ago)
-- [jet52](https://github.com/jet52) (6 months ago)
+- [jet52](https://github.com/jet52) (7 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (7 months ago)
 - [xtaran](https://github.com/xtaran) (11 months ago)
 - [loganmarchione](https://github.com/loganmarchione) (11 months ago)

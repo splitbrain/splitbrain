@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [blog:2022-10:26-maker_mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (today)
 - [blog:2022-10:15-diy_sliding_door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (1 week ago)
 - [blog:2022-10:09-led_matrix_with_esphome_and_homeassistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (2 weeks ago)
 - [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
 - [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 month ago)
-- [blog:2022-08:10-scrapwood_side_table](https://www.splitbrain.org/blog/2022-08/10-scrapwood_side_table) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

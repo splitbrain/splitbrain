@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [blog:2022-10:26-maker_mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (6 days ago)
-- [blog:2022-10:15-diy_sliding_door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (2 weeks ago)
-- [blog:2022-10:09-led_matrix_with_esphome_and_homeassistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (3 weeks ago)
-- [blog:2022-09:25-return_to_monkey_island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
-- [blog:2022-09:06-bandsaw_acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 month ago)
+- [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (6 days ago)
+- [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (2 weeks ago)
+- [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (3 weeks ago)
+- [Return to Monkey Island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
+- [Bandsaw Acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

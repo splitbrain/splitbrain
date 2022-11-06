@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 day ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (4 days ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (5 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 weeks ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (1 week ago)
 - [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (3 weeks ago)
-- [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (3 weeks ago)
+- [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (4 weeks ago)
 - [Return to Monkey Island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
 - [Bandsaw Acquired](https://www.splitbrain.org/blog/2022-09/06-bandsaw_acquired) (2 months ago)
 

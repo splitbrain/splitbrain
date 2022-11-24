@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (today)
-- [splitbrain/mfhf](https://github.com/splitbrain/mfhf) - Monitoring the Mastodon Firehose in Real Time (1 day ago)
-- [cosmocode/dokuwiki-plugin-archivegenerator](https://github.com/cosmocode/dokuwiki-plugin-archivegenerator) - Create a clean copy of your current wiki (6 days ago)
+- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (1 day ago)
+- [splitbrain/mfhf](https://github.com/splitbrain/mfhf) - Monitoring the Mastodon Firehose in Real Time (2 days ago)
+- [cosmocode/dokuwiki-plugin-archivegenerator](https://github.com/cosmocode/dokuwiki-plugin-archivegenerator) - Create a clean copy of your current wiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 month ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (today)
+- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (1 day ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (4 weeks ago)
 - [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (1 month ago)
 - [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (1 month ago)
-- [Return to Monkey Island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (1 month ago)
+- [Return to Monkey Island](https://www.splitbrain.org/blog/2022-09/25-return_to_monkey_island) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [foodalot](https://github.com/foodalot) (3 months ago)
 - [jgod](https://github.com/jgod) (5 months ago)
-- [jet52](https://github.com/jet52) (7 months ago)
+- [jet52](https://github.com/jet52) (8 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (8 months ago)
 - [xtaran](https://github.com/xtaran) (1 year ago)
 - [loganmarchione](https://github.com/loganmarchione) (1 year ago)

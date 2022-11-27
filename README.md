@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (today)
 - [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (4 days ago)
 - [splitbrain/mfhf](https://github.com/splitbrain/mfhf) - Monitoring the Mastodon Firehose in Real Time (5 days ago)
 - [cosmocode/dokuwiki-plugin-archivegenerator](https://github.com/cosmocode/dokuwiki-plugin-archivegenerator) - Create a clean copy of your current wiki (1 week ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 month ago)
-- [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 month ago)
 
 ### :scroll: My recent blog posts
 

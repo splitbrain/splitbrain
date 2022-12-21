@@ -9,9 +9,9 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (1 week ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (2 weeks ago)
+- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (2 weeks ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 weeks ago)
+- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (3 weeks ago)
 - [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (3 weeks ago)
 - [splitbrain/mfhf](https://github.com/splitbrain/mfhf) - Monitoring the Mastodon Firehose in Real Time (4 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (today)
-- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (3 weeks ago)
+- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (1 day ago)
+- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (4 weeks ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (1 month ago)
 - [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (2 months ago)
 - [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (2 months ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [pixelbrackets](https://github.com/pixelbrackets) (3 weeks ago)
-- [foodalot](https://github.com/foodalot) (3 months ago)
+- [foodalot](https://github.com/foodalot) (4 months ago)
 - [jgod](https://github.com/jgod) (5 months ago)
 - [jet52](https://github.com/jet52) (8 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (9 months ago)

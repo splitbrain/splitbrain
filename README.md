@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (2 days ago)
-- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (4 weeks ago)
+- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (3 days ago)
+- [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (1 month ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (1 month ago)
 - [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (2 months ago)
 - [LED Matrix with ESPHome &amp; HomeAssistant](https://www.splitbrain.org/blog/2022-10/09-led_matrix_with_esphome_and_homeassistant) (2 months ago)

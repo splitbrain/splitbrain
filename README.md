@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [pixelbrackets](https://github.com/pixelbrackets) (4 weeks ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (1 month ago)
 - [foodalot](https://github.com/foodalot) (4 months ago)
 - [jgod](https://github.com/jgod) (6 months ago)
 - [jet52](https://github.com/jet52) (9 months ago)

@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (3 weeks ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 - [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (3 weeks ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (1 month ago)
 - [splitbrain/mfhf](https://github.com/splitbrain/mfhf) - Monitoring the Mastodon Firehose in Real Time (1 month ago)
 - [cosmocode/dokuwiki-plugin-archivegenerator](https://github.com/cosmocode/dokuwiki-plugin-archivegenerator) - Create a clean copy of your current wiki (1 month ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 month ago)
 
 ### :scroll: My recent blog posts
 

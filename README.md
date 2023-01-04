@@ -45,7 +45,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [solarkraft](https://github.com/solarkraft) (1 year ago)
 - [nuess0r](https://github.com/nuess0r) (1 year ago)
 - [dotplex](https://github.com/dotplex) (2 years ago)
-- [chrisjrob](https://github.com/chrisjrob) (2 years ago)
 - [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [voegelas](https://github.com/voegelas) (3 years ago)

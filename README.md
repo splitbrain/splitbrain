@@ -9,9 +9,9 @@ These are the projects I most recently worked on.
 
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (today)
-- [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (today)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
+- [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (today)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (today)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 day ago)
 - [cosmocode/dokuwiki-plugin-tplinc](https://github.com/cosmocode/dokuwiki-plugin-tplinc) - Provide a flexible page include mechanism to DokuWiki templates (1 day ago)

@@ -9,14 +9,14 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (3 days ago)
 - [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (3 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (4 days ago)
-- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (4 days ago)
-- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (4 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (4 days ago)
+- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (4 days ago)
+- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (4 days ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (4 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (5 days ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (4 days ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (5 days ago)
+- [cosmocode/dokuwiki-plugin-tplinc](https://github.com/cosmocode/dokuwiki-plugin-tplinc) - Provide a flexible page include mechanism to DokuWiki templates (5 days ago)
 
 ### :scroll: My recent blog posts
 

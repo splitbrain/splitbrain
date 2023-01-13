@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (today)
-- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (1 day ago)
-- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (2 days ago)
-- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (3 days ago)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 day ago)
+- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (2 days ago)
+- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (3 days ago)
+- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (4 days ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (1 week ago)
 - [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (1 week ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
@@ -27,7 +27,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (3 weeks ago)
 - [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (1 month ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (2 months ago)
-- [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (2 months ago)
+- [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

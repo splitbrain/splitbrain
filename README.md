@@ -7,6 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (today)
 - [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (4 days ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (5 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
@@ -15,8 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 week ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
 - [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (1 week ago)
-- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (1 week ago)
-- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 week ago)
 
 ### :scroll: My recent blog posts
 

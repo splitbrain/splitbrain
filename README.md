@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (today)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
-- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (4 days ago)
-- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (5 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (6 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 day ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 day ago)
+- [swp-berlin/webmonitor](https://github.com/swp-berlin/webmonitor) - Monitor websites for new publications (5 days ago)
+- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 - [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (1 week ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 week ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
@@ -34,11 +34,11 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Hegghammer](https://github.com/Hegghammer) (4 days ago)
+- [Hegghammer](https://github.com/Hegghammer) (5 days ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (1 month ago)
 - [foodalot](https://github.com/foodalot) (5 months ago)
 - [jgod](https://github.com/jgod) (7 months ago)
-- [jet52](https://github.com/jet52) (9 months ago)
+- [jet52](https://github.com/jet52) (10 months ago)
 - [TauriaEE](https://github.com/TauriaEE) (10 months ago)
 - [xtaran](https://github.com/xtaran) (1 year ago)
 - [loganmarchione](https://github.com/loganmarchione) (1 year ago)

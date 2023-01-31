@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (6 days ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (6 days ago)
 - [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (6 days ago)
-- [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (1 week ago)
+- [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (1 week ago)
 - [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (1 week ago)
 
 ### :scroll: My recent blog posts

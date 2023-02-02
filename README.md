@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (today)
-- [cosmocode/clearhistory](https://github.com/cosmocode/clearhistory) - DokuWiki Plugin clearhistory (1 day ago)
-- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (2 days ago)
-- [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (6 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 day ago)
+- [cosmocode/clearhistory](https://github.com/cosmocode/clearhistory) - DokuWiki Plugin clearhistory (2 days ago)
+- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (3 days ago)
+- [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (1 week ago)
 - [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [2022 Retrospective](https://www.splitbrain.org/blog/2023-02/03-2022_retrospective) (4 weeks ago)
+- [2022 Retrospective](https://www.splitbrain.org/blog/2023-02/03-2022_retrospective) (1 month ago)
 - [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (1 month ago)
 - [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (2 months ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (3 months ago)

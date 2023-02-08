@@ -14,8 +14,8 @@ These are the projects I most recently worked on.
 - [cosmocode/clearhistory](https://github.com/cosmocode/clearhistory) - DokuWiki Plugin clearhistory (1 week ago)
 - [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (1 week ago)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 weeks ago)
 
 ### :scroll: My recent blog posts

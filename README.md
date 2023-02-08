@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (today)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (5 days ago)
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (1 day ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (6 days ago)
 - [cosmocode/clearhistory](https://github.com/cosmocode/clearhistory) - DokuWiki Plugin clearhistory (1 week ago)
 - [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (1 week ago)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
-- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (1 week ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
+- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 weeks ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Hegghammer](https://github.com/Hegghammer) (2 weeks ago)
+- [Hegghammer](https://github.com/Hegghammer) (3 weeks ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (2 months ago)
 - [foodalot](https://github.com/foodalot) (5 months ago)
 - [jgod](https://github.com/jgod) (7 months ago)

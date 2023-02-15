@@ -8,6 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-structautolink](https://github.com/cosmocode/dokuwiki-plugin-structautolink) - Automatic page linking based on struct data (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (2 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (1 week ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 week ago)
 - [cosmocode/clearhistory](https://github.com/cosmocode/clearhistory) - DokuWiki Plugin clearhistory (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

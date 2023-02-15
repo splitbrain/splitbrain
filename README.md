@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [cosmocode/dokuwiki-plugin-structautolink](https://github.com/cosmocode/dokuwiki-plugin-structautolink) - Automatic page linking based on struct data (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (2 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
 - [cosmocode/dokuwiki-plugin-autoindex](https://github.com/cosmocode/dokuwiki-plugin-autoindex) - List namespace contents in a alphabetical index (6 days ago)

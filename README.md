@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Tarly the dog](https://www.splitbrain.org/blog/2023-02/18-tarly) (today)
 - [2022 Retrospective](https://www.splitbrain.org/blog/2023-02/03-2022_retrospective) (1 month ago)
 - [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (2 months ago)
 - [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (2 months ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (3 months ago)
-- [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

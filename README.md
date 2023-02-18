@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 day ago)
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (2 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
-- [cosmocode/dokuwiki-plugin-structautolink](https://github.com/cosmocode/dokuwiki-plugin-structautolink) - Automatic page linking based on struct data (2 days ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (4 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (2 days ago)
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (3 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
+- [cosmocode/dokuwiki-plugin-structautolink](https://github.com/cosmocode/dokuwiki-plugin-structautolink) - Automatic page linking based on struct data (3 days ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (5 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
 - [cosmocode/dokuwiki-plugin-autoindex](https://github.com/cosmocode/dokuwiki-plugin-autoindex) - List namespace contents in a alphabetical index (1 week ago)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 week ago)
 
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [2022 Retrospective](https://www.splitbrain.org/blog/2023-02/03-2022_retrospective) (1 month ago)
-- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (1 month ago)
+- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (2 months ago)
 - [Woodturning Lathe](https://www.splitbrain.org/blog/2022-11/23-woodturning_lathe) (2 months ago)
 - [Maker Mark](https://www.splitbrain.org/blog/2022-10/26-maker_mark) (3 months ago)
 - [DIY Sliding Door](https://www.splitbrain.org/blog/2022-10/15-diy_sliding_door) (4 months ago)

@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (today)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
-- [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (1 week ago)
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-structautolink](https://github.com/cosmocode/dokuwiki-plugin-structautolink) - Automatic page linking based on struct data (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [cosmocode/navi](https://github.com/cosmocode/navi) - A DokuWiki plugin to create a dynamic navigation menu from a list of pages (1 week ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 week ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [cosmocode/dokuwiki-plugin-autoindex](https://github.com/cosmocode/dokuwiki-plugin-autoindex) - List namespace contents in a alphabetical index (1 week ago)
 
 ### :scroll: My recent blog posts

@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/php-jsstrip](https://github.com/splitbrain/php-jsstrip) -  (1 day ago)
+- [splitbrain/php-jsstrip](https://github.com/splitbrain/php-jsstrip) - PHP based JavaScript compressor (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (1 week ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [cosmocode/docsearch](https://github.com/cosmocode/docsearch) - Search through uploaded documents in DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 
@@ -42,8 +42,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [TauriaEE](https://github.com/TauriaEE) (11 months ago)
 - [xtaran](https://github.com/xtaran) (1 year ago)
 - [loganmarchione](https://github.com/loganmarchione) (1 year ago)
-- [fablab-luenen](https://github.com/fablab-luenen) (1 year ago)
-- [solarkraft](https://github.com/solarkraft) (1 year ago)
 - [nuess0r](https://github.com/nuess0r) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
 - [voegelas](https://github.com/voegelas) (3 years ago)

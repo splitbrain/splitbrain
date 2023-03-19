@@ -44,7 +44,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [loganmarchione](https://github.com/loganmarchione) (1 year ago)
 - [nuess0r](https://github.com/nuess0r) (2 years ago)
 - [grtfou](https://github.com/grtfou) (2 years ago)
-- [voegelas](https://github.com/voegelas) (3 years ago)
 
 ### :octocat: All the statistics
 

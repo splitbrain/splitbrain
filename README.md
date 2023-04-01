@@ -25,8 +25,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Extracting Code from a git Repo](https://www.splitbrain.org/blog/2023-03/11-extracting_code_from_git_repo_with_history) (3 weeks ago)
 - [Tarly the dog](https://www.splitbrain.org/blog/2023-02/18-tarly) (1 month ago)
-- [2022 Retrospective](https://www.splitbrain.org/blog/2023-02/03-2022_retrospective) (2 months ago)
-- [Oculus Quest SQL](https://www.splitbrain.org/blog/2022-12/20-oculus_quest_sql) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

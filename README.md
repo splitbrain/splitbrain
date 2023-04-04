@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (5 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (2 weeks ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 weeks ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 weeks ago)
 - [splitbrain/php-jsstrip](https://github.com/splitbrain/php-jsstrip) - PHP based JavaScript compressor (3 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (2 days ago)
+- [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (3 days ago)
 - [Extracting Code from a git Repo](https://www.splitbrain.org/blog/2023-03/11-extracting_code_from_git_repo_with_history) (3 weeks ago)
 - [Tarly the dog](https://www.splitbrain.org/blog/2023-02/18-tarly) (1 month ago)
 

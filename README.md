@@ -7,24 +7,24 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (6 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (2 weeks ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 weeks ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (1 day ago)
-- [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (4 days ago)
+- [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (2 days ago)
+- [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (5 days ago)
 - [Extracting Code from a git Repo](https://www.splitbrain.org/blog/2023-03/11-extracting_code_from_git_repo_with_history) (3 weeks ago)
 - [Tarly the dog](https://www.splitbrain.org/blog/2023-02/18-tarly) (1 month ago)
 
@@ -33,7 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [ludenticus](https://github.com/ludenticus) (1 day ago)
+- [ludenticus](https://github.com/ludenticus) (2 days ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (4 months ago)
 - [foodalot](https://github.com/foodalot) (7 months ago)

@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (3 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (5 days ago)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (5 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (6 days ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (6 days ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (6 days ago)
+- [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (1 week ago)
 - [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (1 week ago)
 - [Extracting Code from a git Repo](https://www.splitbrain.org/blog/2023-03/11-extracting_code_from_git_repo_with_history) (1 month ago)
 - [Tarly the dog](https://www.splitbrain.org/blog/2023-02/18-tarly) (1 month ago)
@@ -33,8 +33,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (today)
-- [ludenticus](https://github.com/ludenticus) (6 days ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 day ago)
+- [ludenticus](https://github.com/ludenticus) (1 week ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (4 months ago)
 - [foodalot](https://github.com/foodalot) (7 months ago)

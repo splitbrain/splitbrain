@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (6 days ago)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (6 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (3 weeks ago)
@@ -33,7 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 day ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (2 days ago)
 - [ludenticus](https://github.com/ludenticus) (1 week ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (4 months ago)

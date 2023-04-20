@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (today)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (1 day ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
-- [splitbrain/TheBankster](https://github.com/splitbrain/TheBankster) - A personal finance tool in PHP (4 days ago)
+- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 day ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (2 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 days ago)
+- [splitbrain/TheBankster](https://github.com/splitbrain/TheBankster) - A personal finance tool in PHP (5 days ago)
 - [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (3 days ago)
+- [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (4 days ago)
 - [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (2 weeks ago)
 - [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (2 weeks ago)
 - [Extracting Code from a git Repo](https://www.splitbrain.org/blog/2023-03/11-extracting_code_from_git_repo_with_history) (1 month ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [ludenticus](https://github.com/ludenticus) (2 weeks ago)
 - [Hegghammer](https://github.com/Hegghammer) (3 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (4 months ago)
-- [foodalot](https://github.com/foodalot) (7 months ago)
+- [foodalot](https://github.com/foodalot) (8 months ago)
 - [jgod](https://github.com/jgod) (9 months ago)
 - [jet52](https://github.com/jet52) (1 year ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 year ago)

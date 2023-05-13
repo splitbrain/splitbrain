@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (today)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (3 weeks ago)
 - [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (1 month ago)
 - [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (1 month ago)

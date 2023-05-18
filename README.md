@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (today)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (today)
-- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 day ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 day ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 day ago)
+- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (2 days ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (1 week ago)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (2 weeks ago)
 - [splitbrain/jiradash](https://github.com/splitbrain/jiradash) -  (3 weeks ago)
 
 ### :scroll: My recent blog posts
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (4 days ago)
+- [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (5 days ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (1 month ago)
 - [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (1 month ago)
 - [Battery Powered Vacuums](https://www.splitbrain.org/blog/2023-04/01-battery_powered_vacuums) (1 month ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 month ago)
 - [ludenticus](https://github.com/ludenticus) (1 month ago)
-- [Hegghammer](https://github.com/Hegghammer) (3 months ago)
+- [Hegghammer](https://github.com/Hegghammer) (4 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (5 months ago)
 - [foodalot](https://github.com/foodalot) (8 months ago)
 - [jgod](https://github.com/jgod) (10 months ago)

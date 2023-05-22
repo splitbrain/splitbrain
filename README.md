@@ -33,6 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
+- [alanorth](https://github.com/alanorth) (today)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 month ago)
 - [ludenticus](https://github.com/ludenticus) (1 month ago)
 - [Hegghammer](https://github.com/Hegghammer) (4 months ago)

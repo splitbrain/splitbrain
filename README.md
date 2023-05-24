@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (today)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (1 week ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (1 month ago)
 - [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (1 month ago)

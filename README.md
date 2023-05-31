@@ -8,10 +8,10 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (today)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (today)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (today)
 - [splitbrain/flarum-postidredirector](https://github.com/splitbrain/flarum-postidredirector) - Redirect to discussion by post ID (3 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (6 days ago)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (6 days ago)
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 week ago)

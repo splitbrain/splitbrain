@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (3 days ago)
-- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (3 days ago)
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (3 days ago)
-- [splitbrain/flarum-postidredirector](https://github.com/splitbrain/flarum-postidredirector) - Redirect to discussion by post ID (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (3 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (4 days ago)
+- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (4 days ago)
+- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (4 days ago)
+- [splitbrain/flarum-postidredirector](https://github.com/splitbrain/flarum-postidredirector) - Redirect to discussion by post ID (1 week ago)
 - [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (today)
+- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (1 day ago)
 - [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (1 week ago)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (3 weeks ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (1 month ago)

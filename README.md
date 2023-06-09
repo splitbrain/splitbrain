@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (today)
 - [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (6 days ago)
 - [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (2 weeks ago)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (3 weeks ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (1 month ago)
-- [Solar](https://www.splitbrain.org/blog/2023-04/04-solar) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

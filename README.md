@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 days ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (5 days ago)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (5 days ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (5 days ago)
-- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (6 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (6 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
-- [michitux/dokuwiki-plugin-text](https://github.com/michitux/dokuwiki-plugin-text) - renders page as plain text. USAGE: &lt;pagename&gt;?do=export_text (6 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 days ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (6 days ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (6 days ago)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (6 days ago)
+- [dokufreaks/plugin-cloud](https://github.com/dokufreaks/plugin-cloud) -  (1 week ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [michitux/dokuwiki-plugin-text](https://github.com/michitux/dokuwiki-plugin-text) - renders page as plain text. USAGE: &lt;pagename&gt;?do=export_text (1 week ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
@@ -34,12 +34,12 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [alanorth](https://github.com/alanorth) (3 weeks ago)
+- [alanorth](https://github.com/alanorth) (4 weeks ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (2 months ago)
 - [ludenticus](https://github.com/ludenticus) (2 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (5 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (6 months ago)
-- [foodalot](https://github.com/foodalot) (9 months ago)
+- [foodalot](https://github.com/foodalot) (10 months ago)
 - [jgod](https://github.com/jgod) (11 months ago)
 - [jet52](https://github.com/jet52) (1 year ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 year ago)

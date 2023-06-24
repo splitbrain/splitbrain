@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (1 day ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 day ago)
-- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 day ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
-- [splitbrain/gotextextract](https://github.com/splitbrain/gotextextract) - Cross Platform text extractor for common office files (3 days ago)
-- [michitux/dokuwiki-plugin-searchtext](https://github.com/michitux/dokuwiki-plugin-searchtext) - Searches pages rendered as text instead of raw wiki. Displays search result snippets from text. (4 days ago)
+- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (2 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 days ago)
+- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (2 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (2 days ago)
+- [splitbrain/gotextextract](https://github.com/splitbrain/gotextextract) - Cross Platform text extractor for common office files (4 days ago)
+- [michitux/dokuwiki-plugin-searchtext](https://github.com/michitux/dokuwiki-plugin-searchtext) - Searches pages rendered as text instead of raw wiki. Displays search result snippets from text. (5 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (2 weeks ago)
-- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (2 weeks ago)
+- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (3 weeks ago)
 - [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (1 month ago)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (1 month ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (2 months ago)

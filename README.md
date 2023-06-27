@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (1 day ago)
-- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (4 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (4 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (4 days ago)
-- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (4 days ago)
-- [splitbrain/gotextextract](https://github.com/splitbrain/gotextextract) - Cross Platform text extractor for common office files (6 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
+- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (2 days ago)
+- [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (5 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (5 days ago)
+- [cosmocode/dokuwiki-plugin-structstatus](https://github.com/cosmocode/dokuwiki-plugin-structstatus) - A status plugin for the struct DokuWiki plugin (5 days ago)
+- [splitbrain/gotextextract](https://github.com/splitbrain/gotextextract) - Cross Platform text extractor for common office files (1 week ago)
 - [michitux/dokuwiki-plugin-searchtext](https://github.com/michitux/dokuwiki-plugin-searchtext) - Searches pages rendered as text instead of raw wiki. Displays search result snippets from text. (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (2 months ago)
 - [ludenticus](https://github.com/ludenticus) (2 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (5 months ago)
-- [pixelbrackets](https://github.com/pixelbrackets) (6 months ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (7 months ago)
 - [foodalot](https://github.com/foodalot) (10 months ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [jet52](https://github.com/jet52) (1 year ago)

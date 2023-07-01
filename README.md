@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
-- [splitbrain/dokuwiki-plugin-shell](https://github.com/splitbrain/dokuwiki-plugin-shell) - Access a simple, web based shell via the DokuWiki admin interface (1 day ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
-- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (2 days ago)
+- [splitbrain/dokuwiki-plugin-shell](https://github.com/splitbrain/dokuwiki-plugin-shell) - Access a simple, web based shell via the DokuWiki admin interface (2 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (3 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (5 days ago)
+- [cosmocode/dokuwiki-plugin-photogallery](https://github.com/cosmocode/dokuwiki-plugin-photogallery) -  (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 - [cosmocode/starred](https://github.com/cosmocode/starred) - allows users to remember pages (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (3 weeks ago)
-- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (3 weeks ago)
+- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (4 weeks ago)
 - [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (1 month ago)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (1 month ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (2 months ago)

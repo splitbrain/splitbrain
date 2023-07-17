@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 days ago)
 - [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (5 days ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (1 week ago)

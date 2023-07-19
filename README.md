@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (1 day ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
-- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (6 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (2 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
+- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
@@ -39,7 +39,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [ludenticus](https://github.com/ludenticus) (3 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (6 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (7 months ago)
-- [foodalot](https://github.com/foodalot) (10 months ago)
+- [foodalot](https://github.com/foodalot) (11 months ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [jet52](https://github.com/jet52) (1 year ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 year ago)

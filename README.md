@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (today)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 day ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 day ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 day ago)
 - [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 days ago)
 - [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)

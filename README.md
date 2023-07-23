@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (today)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 days ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (3 days ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (3 days ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (5 days ago)
+- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 day ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (3 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (4 days ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (6 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 
 ### :scroll: My recent blog posts
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (1 month ago)
 - [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (1 month ago)
-- [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (1 month ago)
+- [Google Maps Reviews are Dead](https://www.splitbrain.org/blog/2023-05/24-google_maps_reviews_are_dead) (2 months ago)
 - [Goodbye](https://www.splitbrain.org/blog/2023-05/13-goodbye) (2 months ago)
 - [Kia Ceed](https://www.splitbrain.org/blog/2023-04/16-kia_ceed_phev) (3 months ago)
 

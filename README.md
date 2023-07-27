@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (4 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (6 days ago)
+- [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (5 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (5 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 week ago)
 - [splitbrain/dokuwiki-plugin-preview](https://github.com/splitbrain/dokuwiki-plugin-preview) - Show a preview popup on link hover (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (3 months ago)
 - [ludenticus](https://github.com/ludenticus) (3 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (6 months ago)
-- [pixelbrackets](https://github.com/pixelbrackets) (7 months ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (8 months ago)
 - [foodalot](https://github.com/foodalot) (11 months ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [jet52](https://github.com/jet52) (1 year ago)
@@ -46,7 +46,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [xtaran](https://github.com/xtaran) (2 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (2 years ago)
 - [nuess0r](https://github.com/nuess0r) (2 years ago)
-- [AzureCloudMonk](https://github.com/AzureCloudMonk) (2 years ago)
+- [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 years ago)
 - [grtfou](https://github.com/grtfou) (3 years ago)
 
 ### :octocat: All the statistics

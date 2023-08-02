@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (today)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 days ago)
@@ -14,9 +15,8 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
 - [dokufreaks/plugin-folded](https://github.com/dokufreaks/plugin-folded) - Foldable page sections for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 weeks ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

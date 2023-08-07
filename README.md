@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (today)
 - [splitbrain/dokuwiki-plugin-xref](https://github.com/splitbrain/dokuwiki-plugin-xref) - Easy linking to a PHPXref generated API doc from within DokuWiki pages. (today)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (4 days ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (6 days ago)

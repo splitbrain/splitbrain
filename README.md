@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (today)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
-- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (today)
-- [splitbrain/dokuwiki-plugin-xref](https://github.com/splitbrain/dokuwiki-plugin-xref) - Easy linking to a PHPXref generated API doc from within DokuWiki pages. (today)
-- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (4 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (6 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 day ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 day ago)
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (1 day ago)
+- [splitbrain/dokuwiki-plugin-xref](https://github.com/splitbrain/dokuwiki-plugin-xref) - Easy linking to a PHPXref generated API doc from within DokuWiki pages. (1 day ago)
+- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (5 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (1 day ago)
+- [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (2 days ago)
 - [404 - Bench not found](https://www.splitbrain.org/blog/2023-07/29-404_bench_not_found) (1 week ago)
 - [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (1 week ago)
-- [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (1 month ago)
+- [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (2 months ago)
 - [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [alanorth](https://github.com/alanorth) (2 months ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (3 months ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (4 months ago)
 - [ludenticus](https://github.com/ludenticus) (4 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (6 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (8 months ago)

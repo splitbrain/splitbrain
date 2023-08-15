@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (today)
 - [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (1 week ago)
 - [404 - Bench not found](https://www.splitbrain.org/blog/2023-07/29-404_bench_not_found) (2 weeks ago)
 - [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (2 weeks ago)
 - [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (2 months ago)
-- [Guerilla Banking](https://www.splitbrain.org/blog/2023-06/03-guerrilla_banking) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

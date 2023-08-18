@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 day ago)
-- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (1 day ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 day ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-cmsmode](https://github.com/cosmocode/dokuwiki-plugin-cmsmode) - Hide Wiki Features from non-logged in users (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 day ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 days ago)
+- [cosmocode/dokuwiki-plugin-controlpage](https://github.com/cosmocode/dokuwiki-plugin-controlpage) - A DokuWiki helper plugin to parse a linked list (2 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-cmsmode](https://github.com/cosmocode/dokuwiki-plugin-cmsmode) - Hide Wiki Features from non-logged in users (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (1 week ago)
 
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (2 days ago)
+- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (3 days ago)
 - [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (1 week ago)
 - [404 - Bench not found](https://www.splitbrain.org/blog/2023-07/29-404_bench_not_found) (2 weeks ago)
-- [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (2 weeks ago)
+- [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (3 weeks ago)
 - [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -39,7 +39,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [ludenticus](https://github.com/ludenticus) (4 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (7 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (8 months ago)
-- [foodalot](https://github.com/foodalot) (11 months ago)
+- [foodalot](https://github.com/foodalot) (1 year ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [jet52](https://github.com/jet52) (1 year ago)
 - [TauriaEE](https://github.com/TauriaEE) (1 year ago)

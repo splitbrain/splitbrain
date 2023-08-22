@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (today)
+- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (today)
+- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (today)
+- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (today)
 - [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (1 week ago)
-- [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (2 weeks ago)
-- [404 - Bench not found](https://www.splitbrain.org/blog/2023-07/29-404_bench_not_found) (3 weeks ago)
-- [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (3 weeks ago)
-- [Music Recommendation: Ren](https://www.splitbrain.org/blog/2023-06/09-music_ren) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

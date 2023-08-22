@@ -7,23 +7,23 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (today)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (today)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (4 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (5 days ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (1 day ago)
+- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 day ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 day ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (5 days ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (6 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (6 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (6 days ago)
+- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (1 week ago)
 - [Liberating the Sonoff Power Elite](https://www.splitbrain.org/blog/2023-08/06-liberating_the_sonoff_power_elite) (2 weeks ago)
 - [404 - Bench not found](https://www.splitbrain.org/blog/2023-07/29-404_bench_not_found) (3 weeks ago)
 - [Tarly Update](https://www.splitbrain.org/blog/2023-07/28-tarly_update) (3 weeks ago)

@@ -7,27 +7,27 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (today)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 day ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (2 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (4 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 days ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 day ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (2 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (3 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (1 week ago)
-- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (1 week ago)
-- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (1 week ago)
-- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (1 week ago)
-- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (2 weeks ago)
+- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (2 weeks ago)
+- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (2 weeks ago)
+- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (2 weeks ago)
+- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (2 weeks ago)
+- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

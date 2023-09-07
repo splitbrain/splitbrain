@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 days ago)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (2 days ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (3 days ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (4 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (6 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 days ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (3 days ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (4 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (5 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 
 ### :scroll: My recent blog posts
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [alanorth](https://github.com/alanorth) (3 months ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (4 months ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (5 months ago)
 - [ludenticus](https://github.com/ludenticus) (5 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (7 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (9 months ago)

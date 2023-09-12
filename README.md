@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (today)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (today)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 week ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (2 weeks ago)
-- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (2 weeks ago)
-- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (2 weeks ago)
-- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (2 weeks ago)
-- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (3 weeks ago)
+- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (3 weeks ago)
+- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (3 weeks ago)
+- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (3 weeks ago)
+- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (3 weeks ago)
+- [Using SQLite as Vector Store in PHP](https://www.splitbrain.org/blog/2023-08/15-using_sqlite_as_vector_store_in_php) (4 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

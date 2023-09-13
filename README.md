@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
-- [cosmocode/quicksubscribe](https://github.com/cosmocode/quicksubscribe) - provides a simpler interface to page subscriptions. (today)
-- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (1 day ago)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (5 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 day ago)
+- [cosmocode/quicksubscribe](https://github.com/cosmocode/quicksubscribe) - provides a simpler interface to page subscriptions. (1 day ago)
+- [dokufreaks/plugin-tag](https://github.com/dokufreaks/plugin-tag) - Assign category tags to wiki pages (2 days ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (2 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 week ago)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 week ago)
@@ -42,7 +42,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [foodalot](https://github.com/foodalot) (1 year ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [jet52](https://github.com/jet52) (1 year ago)
-- [TauriaEE](https://github.com/TauriaEE) (1 year ago)
+- [TauriaEE](https://github.com/TauriaEE) (2 years ago)
 - [xtaran](https://github.com/xtaran) (2 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (2 years ago)
 - [nuess0r](https://github.com/nuess0r) (2 years ago)

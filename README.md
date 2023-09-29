@@ -41,7 +41,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [pixelbrackets](https://github.com/pixelbrackets) (10 months ago)
 - [foodalot](https://github.com/foodalot) (1 year ago)
 - [jgod](https://github.com/jgod) (1 year ago)
-- [jet52](https://github.com/jet52) (2 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 years ago)
 - [xtaran](https://github.com/xtaran) (2 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (2 years ago)

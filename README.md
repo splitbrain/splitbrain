@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 days ago)
-- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (4 days ago)
+- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (4 days ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 week ago)
 - [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (1 week ago)
 - [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (1 week ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [alanorth](https://github.com/alanorth) (4 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (5 months ago)
-- [ludenticus](https://github.com/ludenticus) (5 months ago)
+- [ludenticus](https://github.com/ludenticus) (6 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (8 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (10 months ago)
 - [foodalot](https://github.com/foodalot) (1 year ago)

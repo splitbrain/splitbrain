@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (2 weeks ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [alanorth](https://github.com/alanorth) (4 months ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (5 months ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (6 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (8 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (10 months ago)
 - [foodalot](https://github.com/foodalot) (1 year ago)

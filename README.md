@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (2 days ago)
-- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (2 days ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (2 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (3 days ago)
+- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (3 weeks ago)
@@ -24,10 +24,10 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Tonie Unicorn Shelf](https://www.splitbrain.org/blog/2023-10/10-tonie_unicorn_shelf) (1 week ago)
-- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (1 month ago)
-- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (1 month ago)
-- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (1 month ago)
-- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (1 month ago)
+- [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (2 months ago)
+- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (2 months ago)
+- [Binz-Berlin February 17th, 1987](https://www.splitbrain.org/blog/1987-02/17-binz) (2 months ago)
+- [Berlin February 18th, 1987](https://www.splitbrain.org/blog/1987-02/18-berlin) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

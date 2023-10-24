@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (today)
 - [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (1 day ago)
-- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (1 day ago)
 - [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (2 days ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (5 days ago)
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (6 days ago)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (6 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (3 weeks ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

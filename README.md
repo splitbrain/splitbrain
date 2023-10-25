@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (today)
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (today)
-- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (1 day ago)
-- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (2 days ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (5 days ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (6 days ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (6 days ago)
+- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (1 day ago)
+- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 day ago)
+- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (2 days ago)
+- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (3 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (6 days ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 week ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (4 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [alanorth](https://github.com/alanorth) (5 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (6 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (9 months ago)
-- [pixelbrackets](https://github.com/pixelbrackets) (10 months ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (11 months ago)
 - [foodalot](https://github.com/foodalot) (1 year ago)
 - [jgod](https://github.com/jgod) (1 year ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 years ago)

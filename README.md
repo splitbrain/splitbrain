@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 day ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (5 days ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (6 days ago)
+- [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (2 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (6 days ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (1 week ago)
 - [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (1 week ago)
 - [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (1 week ago)
 - [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 week ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

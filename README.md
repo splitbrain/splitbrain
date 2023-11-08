@@ -8,14 +8,14 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (2 days ago)
+- [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (today)
+- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (1 week ago)
 - [splitbrain/dokuwiki-plugin-pluginrepo](https://github.com/splitbrain/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (2 weeks ago)
 - [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (2 weeks ago)
 
 ### :scroll: My recent blog posts

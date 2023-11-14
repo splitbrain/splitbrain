@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 day ago)
+- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) -  (today)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 day ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 day ago)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
 - [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (1 day ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 day ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - Work in Progress (6 days ago)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (6 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (6 days ago)
+- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (6 days ago)
 
 ### :scroll: My recent blog posts
 

@@ -8,7 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) - Mastodon Web Components (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (2 days ago)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (2 days ago)

@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
-- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) - Mastodon Web Components (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (4 days ago)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (4 days ago)
-- [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (4 days ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (4 days ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (4 days ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
+- [splitbrain/mastodon-widget](https://github.com/splitbrain/mastodon-widget) - Mastodon Web Components (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (5 days ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (5 days ago)
+- [cosmocode/dokuwiki-plugin-aclplusregex](https://github.com/cosmocode/dokuwiki-plugin-aclplusregex) - Dynamically extend DokuWiki ACLs based on regex rules (5 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (5 days ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (5 days ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 week ago)
 
 ### :scroll: My recent blog posts
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [alanorth](https://github.com/alanorth) (5 months ago)
+- [alanorth](https://github.com/alanorth) (6 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (7 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (10 months ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (11 months ago)

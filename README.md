@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (3 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (4 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (4 days ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (4 days ago)
-- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (5 days ago)
-- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (5 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (5 days ago)
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (6 days ago)
+- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (6 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 weeks ago)
 - [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (2 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 weeks ago)

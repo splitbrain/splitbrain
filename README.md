@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (today)
+- [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (today)
 - [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-autoindex](https://github.com/cosmocode/dokuwiki-plugin-autoindex) - List namespace contents in a alphabetical index (1 day ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (1 day ago)
+- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 day ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
-- [splitbrain/vagrant-windows11](https://github.com/splitbrain/vagrant-windows11) - Vagrant setup to spin up a Win11 instance (1 day ago)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 day ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 day ago)
+- [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (1 day ago)
+- [cosmocode/dokuwiki-plugin-autoindex](https://github.com/cosmocode/dokuwiki-plugin-autoindex) - List namespace contents in a alphabetical index (1 day ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 day ago)
-- [cosmocode/groupusers](https://github.com/cosmocode/groupusers) - DokuWiki Plugin groupusers (1 day ago)
 
 ### :scroll: My recent blog posts
 

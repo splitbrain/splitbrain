@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (today)
 - [Scrapwood Drawers](https://www.splitbrain.org/blog/2023-11/10-scrapwood_drawers) (1 month ago)
 - [Growatt &amp; Home Assistant](https://www.splitbrain.org/blog/2023-11/03-growatt_and_home_assistant) (1 month ago)
 - [Tonie Unicorn Shelf](https://www.splitbrain.org/blog/2023-10/10-tonie_unicorn_shelf) (2 months ago)
 - [Berlin February 23rd, 1987](https://www.splitbrain.org/blog/1987-02/23-berlin) (4 months ago)
-- [Berlin February 19th, 1987](https://www.splitbrain.org/blog/1987-02/19-berlin) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

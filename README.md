@@ -45,7 +45,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [xtaran](https://github.com/xtaran) (2 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (2 years ago)
 - [nuess0r](https://github.com/nuess0r) (2 years ago)
-- [AzureCloudMonk](https://github.com/AzureCloudMonk) (3 years ago)
 - [grtfou](https://github.com/grtfou) (3 years ago)
 
 ### :octocat: All the statistics

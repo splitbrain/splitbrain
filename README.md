@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (1 day ago)
+- [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (2 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (today)
-- [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (3 days ago)
+- [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (1 day ago)
+- [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (4 days ago)
 - [Scrapwood Drawers](https://www.splitbrain.org/blog/2023-11/10-scrapwood_drawers) (1 month ago)
 - [Growatt &amp; Home Assistant](https://www.splitbrain.org/blog/2023-11/03-growatt_and_home_assistant) (1 month ago)
 - [Tonie Unicorn Shelf](https://www.splitbrain.org/blog/2023-10/10-tonie_unicorn_shelf) (2 months ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [jeffxt](https://github.com/jeffxt) (1 day ago)
+- [jeffxt](https://github.com/jeffxt) (2 days ago)
 - [alanorth](https://github.com/alanorth) (7 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (8 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (11 months ago)

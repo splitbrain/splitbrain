@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (today)
+- [cosmocode/dokuwiki-plugin-autologoff](https://github.com/cosmocode/dokuwiki-plugin-autologoff) - Dokuwiki plugin to automatically log out users after a defined period of inactivity (today)
+- [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (today)
 - [dokufreaks/plugin-linkback](https://github.com/dokufreaks/plugin-linkback) - The linkback plugin adds Trackback and Pingback support to DokuWiki. (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 - [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 week ago)
 - [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
-- [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-lms](https://github.com/cosmocode/dokuwiki-plugin-lms) - Lesson Management System for DokuWiki (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 week ago)
 
 ### :scroll: My recent blog posts
 

@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (today)
 - [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (4 days ago)
 - [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (3 weeks ago)
 - [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (4 weeks ago)
 - [Scrapwood Drawers](https://www.splitbrain.org/blog/2023-11/10-scrapwood_drawers) (2 months ago)
-- [Growatt &amp; Home Assistant](https://www.splitbrain.org/blog/2023-11/03-growatt_and_home_assistant) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

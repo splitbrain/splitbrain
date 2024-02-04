@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (2 days ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (2 days ago)
-- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (4 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (5 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [alphp/strftime](https://github.com/alphp/strftime) - This provides a cross-platform alternative to strftime() for when it will be removed from PHP (1 week ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (1 week ago)
-- [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (1 week ago)
+- [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (2 weeks ago)
 - [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (1 month ago)
 - [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (1 month ago)
 - [Scrapwood Drawers](https://www.splitbrain.org/blog/2023-11/10-scrapwood_drawers) (2 months ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [alanorth](https://github.com/alanorth) (8 months ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (9 months ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (10 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (1 year ago)
 - [foodalot](https://github.com/foodalot) (1 year ago)

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (2 days ago)
-- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (3 days ago)
+- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (4 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (6 days ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (2 days ago)
+- [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (3 days ago)
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (2 weeks ago)
 - [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (3 weeks ago)
 - [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (1 month ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (10 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (1 year ago)
-- [foodalot](https://github.com/foodalot) (1 year ago)
+- [foodalot](https://github.com/foodalot) (2 years ago)
 - [jgod](https://github.com/jgod) (2 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 years ago)
 - [xtaran](https://github.com/xtaran) (2 years ago)

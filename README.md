@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (today)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
+- [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (1 day ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [flack/UniversalFeedCreator](https://github.com/flack/UniversalFeedCreator) - RSS and Atom feed generator by Kai Blankenhorn (1 week ago)
@@ -27,7 +27,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (1 month ago)
 - [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (1 month ago)
 - [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (1 month ago)
-- [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (1 month ago)
+- [Clamps!](https://www.splitbrain.org/blog/2023-12/28-clamps) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

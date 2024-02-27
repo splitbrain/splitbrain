@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [nerun/dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater) - DokuWiki plugin. Allows dokuwiki pages to be used as templates to be inserted into other dokuwiki pages, such as Wikipedia. (today)
-- [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (today)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
+- [nerun/dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater) - DokuWiki plugin. Allows dokuwiki pages to be used as templates to be inserted into other dokuwiki pages, such as Wikipedia. (1 day ago)
+- [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (1 day ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [flack/UniversalFeedCreator](https://github.com/flack/UniversalFeedCreator) - RSS and Atom feed generator by Kai Blankenhorn (1 week ago)

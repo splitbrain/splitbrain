@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (today)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
-- [nerun/dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater) - DokuWiki plugin. Allows dokuwiki pages to be used as templates to be inserted into other dokuwiki pages, such as Wikipedia. (1 week ago)
 - [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (1 week ago)
+- [nerun/dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater) - DokuWiki plugin. Allows dokuwiki pages to be used as templates to be inserted into other dokuwiki pages, such as Wikipedia. (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [flack/UniversalFeedCreator](https://github.com/flack/UniversalFeedCreator) - RSS and Atom feed generator by Kai Blankenhorn (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 weeks ago)
-- [cosmocode/.github](https://github.com/cosmocode/.github) -  (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
 
 ### :scroll: My recent blog posts

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (today)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (today)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (today)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (5 days ago)
+- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (1 day ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 day ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - temporary (1 day ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (6 days ago)
 - [cosmocode/dig](https://github.com/cosmocode/dig) - A DokuWiki plugin to print DNS details for a list of domain names (1 week ago)
 - [nerun/dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater) - DokuWiki plugin. Allows dokuwiki pages to be used as templates to be inserted into other dokuwiki pages, such as Wikipedia. (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [alanorth](https://github.com/alanorth) (9 months ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (10 months ago)
+- [TheAviationDoctor](https://github.com/TheAviationDoctor) (11 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (1 year ago)
 - [foodalot](https://github.com/foodalot) (2 years ago)

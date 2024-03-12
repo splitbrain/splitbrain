@@ -7,23 +7,23 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 days ago)
-- [cosmocode/dokuwiki-plugin-wiwien](https://github.com/cosmocode/dokuwiki-plugin-wiwien) -  (6 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (6 days ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (6 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (6 days ago)
-- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - This is just pseudo plugin code to test github action workflows. Can be ignored. (6 days ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (6 days ago)
-- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (6 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
+- [cosmocode/dokuwiki-plugin-wiwien](https://github.com/cosmocode/dokuwiki-plugin-wiwien) -  (1 week ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
+- [splitbrain/actiontest](https://github.com/splitbrain/actiontest) - This is just pseudo plugin code to test github action workflows. Can be ignored. (1 week ago)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (1 week ago)
+- [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (1 week ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (4 weeks ago)
+- [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (1 month ago)
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (1 month ago)
 - [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (1 month ago)
 - [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (2 months ago)

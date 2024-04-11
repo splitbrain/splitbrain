@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/docker-dokuwiki](https://github.com/cosmocode/docker-dokuwiki) -  (today)
 - [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (today)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) -  (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)

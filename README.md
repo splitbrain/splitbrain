@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker living in Berlin, Germany. You probably know me from my work on [DokuWiki](https://github.com/splitbrain/dokuwiki), but you'll find all kinds of other projects here. Check the links below to get started.
+I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker living in Berlin, Germany. You probably know me from my work on [DokuWiki](https://github.com/dokuwiki/dokuwiki), but you'll find all kinds of other projects here. Check the links below to get started.
 
 ### :hammer: Check out what I'm currently working on
 
@@ -8,8 +8,8 @@ These are the projects I most recently worked on.
 
 
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 days ago)
-- [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (4 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (4 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)

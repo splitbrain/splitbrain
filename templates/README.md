@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker living in Berlin, Germany. You probably know me from my work on [DokuWiki](https://github.com/splitbrain/dokuwiki), but you'll find all kinds of other projects here. Check the links below to get started.
+I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker living in Berlin, Germany. You probably know me from my work on [DokuWiki](https://github.com/dokuwiki/dokuwiki), but you'll find all kinds of other projects here. Check the links below to get started.
 
 ### :hammer: Check out what I'm currently working on
 

@@ -26,8 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (1 day ago)
 - [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (2 months ago)
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (2 months ago)
-- [Soldering Station Box](https://www.splitbrain.org/blog/2024-01/21-soldering_station_box) (2 months ago)
-- [End of Year Wood Working](https://www.splitbrain.org/blog/2023-12/31-end-of-year-woodworking) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

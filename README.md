@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (4 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (4 days ago)
-- [cosmocode/dokuwiki-plugin-autologoff](https://github.com/cosmocode/dokuwiki-plugin-autologoff) - Dokuwiki plugin to automatically log out users after a defined period of inactivity (5 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (5 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (5 days ago)
+- [cosmocode/dokuwiki-plugin-autologoff](https://github.com/cosmocode/dokuwiki-plugin-autologoff) - Dokuwiki plugin to automatically log out users after a defined period of inactivity (6 days ago)
 - [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (today)
-- [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (3 days ago)
+- [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (1 day ago)
+- [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (4 days ago)
 - [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (2 months ago)
 - [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (2 months ago)
 
@@ -33,7 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [oakd](https://github.com/oakd) (3 days ago)
+- [oakd](https://github.com/oakd) (4 days ago)
 - [frankmeeuwsen](https://github.com/frankmeeuwsen) (3 weeks ago)
 - [alanorth](https://github.com/alanorth) (11 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 year ago)

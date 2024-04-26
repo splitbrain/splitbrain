@@ -34,7 +34,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [oakd](https://github.com/oakd) (1 week ago)
-- [frankmeeuwsen](https://github.com/frankmeeuwsen) (1 month ago)
 - [alanorth](https://github.com/alanorth) (11 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)

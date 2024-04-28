@@ -26,7 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (1 week ago)
 - [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (1 week ago)
 - [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (2 months ago)
-- [MICO Toastie](https://www.splitbrain.org/blog/2024-01/25-mico_toastie) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

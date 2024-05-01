@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (3 weeks ago)
-- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (3 weeks ago)
+- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (4 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (1 week ago)
-- [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (1 week ago)
+- [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (2 weeks ago)
 - [Love Letter to my Dog](https://www.splitbrain.org/blog/2024-02/11-love_letter_to_my_dog) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -32,7 +32,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [oakd](https://github.com/oakd) (1 week ago)
+- [oakd](https://github.com/oakd) (2 weeks ago)
 - [alanorth](https://github.com/alanorth) (11 months ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)

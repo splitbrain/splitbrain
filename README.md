@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (5 days ago)
-- [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (6 days ago)
+- [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 week ago)
 - [cosmocode/dokuwiki-plugin-linkfix](https://github.com/cosmocode/dokuwiki-plugin-linkfix) - Mass adjust links in DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [dokuwiki/dokuwiki-plugin-xref](https://github.com/dokuwiki/dokuwiki-plugin-xref) - Easy linking to source definitions in Grok Search Index from within DokuWiki pages. (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (6 days ago)
+- [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (1 week ago)
 - [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (1 week ago)
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (3 weeks ago)
 - [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (3 weeks ago)

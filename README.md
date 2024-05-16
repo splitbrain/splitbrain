@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (3 days ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 week ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 week ago)
 - [cosmocode/dokuwiki-plugin-linkfix](https://github.com/cosmocode/dokuwiki-plugin-linkfix) - Mass adjust links in DokuWiki (2 weeks ago)
-- [dokufreaks/plugin-blog](https://github.com/dokufreaks/plugin-blog) - Use DokuWiki as blogging tool (2 weeks ago)
 - [dokuwiki/dokuwiki-plugin-xref](https://github.com/dokuwiki/dokuwiki-plugin-xref) - Easy linking to source definitions in Grok Search Index from within DokuWiki pages. (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 day ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 week ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-linkfix](https://github.com/cosmocode/dokuwiki-plugin-linkfix) - Mass adjust links in DokuWiki (2 weeks ago)
-- [dokuwiki/dokuwiki-plugin-xref](https://github.com/dokuwiki/dokuwiki-plugin-xref) - Easy linking to source definitions in Grok Search Index from within DokuWiki pages. (2 weeks ago)
+- [dokuwiki/dokuwiki-plugin-xref](https://github.com/dokuwiki/dokuwiki-plugin-xref) - Easy linking to source definitions in Grok Search Index from within DokuWiki pages. (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (1 week ago)
 - [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (2 weeks ago)
-- [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (2 weeks ago)
+- [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (3 weeks ago)
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (1 month ago)
 - [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (1 month ago)
 
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [alanorth](https://github.com/alanorth) (1 year ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)
-- [pixelbrackets](https://github.com/pixelbrackets) (1 year ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)
 - [foodalot](https://github.com/foodalot) (2 years ago)
 - [jgod](https://github.com/jgod) (2 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 years ago)

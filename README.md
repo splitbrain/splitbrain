@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (today)
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (1 week ago)
 - [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (2 weeks ago)
 - [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (3 weeks ago)
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (1 month ago)
-- [Finding the Best Toaster](https://www.splitbrain.org/blog/2024-04/17-finding_the_best_toaster) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

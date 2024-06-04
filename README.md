@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-questionaire](https://github.com/cosmocode/dokuwiki-plugin-questionaire) -  (today)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 days ago)
 - [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (2 weeks ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (3 weeks ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 month ago)
-- [cosmocode/dokuwiki-plugin-linkfix](https://github.com/cosmocode/dokuwiki-plugin-linkfix) - Mass adjust links in DokuWiki (1 month ago)
 
 ### :scroll: My recent blog posts
 

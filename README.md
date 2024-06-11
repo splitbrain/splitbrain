@@ -10,13 +10,13 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-questionaire](https://github.com/cosmocode/dokuwiki-plugin-questionaire) -  (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (2 weeks ago)
+- [gkrid/dokuwiki-plugin-dtable](https://github.com/gkrid/dokuwiki-plugin-dtable) -  (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 weeks ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (4 weeks ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 month ago)
-- [splitbrain/dokuwiki-plugin-gchart](https://github.com/splitbrain/dokuwiki-plugin-gchart) - Create simple charts using the Google Chart API (1 month ago)
 
 ### :scroll: My recent blog posts
 

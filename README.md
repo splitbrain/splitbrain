@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 weeks ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (4 weeks ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 month ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 month ago)
 
 ### :scroll: My recent blog posts

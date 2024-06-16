@@ -8,7 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-questionaire](https://github.com/cosmocode/dokuwiki-plugin-questionaire) -  (1 week ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (3 weeks ago)
 - [gkrid/dokuwiki-plugin-dtable](https://github.com/gkrid/dokuwiki-plugin-dtable) -  (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (3 weeks ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [oakd](https://github.com/oakd) (1 month ago)
+- [oakd](https://github.com/oakd) (2 months ago)
 - [alanorth](https://github.com/alanorth) (1 year ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (1 year ago)

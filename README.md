@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
 - [cosmocode/dokuwiki-plugin-questionaire](https://github.com/cosmocode/dokuwiki-plugin-questionaire) -  (2 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)

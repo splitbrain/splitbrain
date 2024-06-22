@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 day ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
-- [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (2 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 days ago)
+- [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (3 days ago)
 - [cosmocode/dokuwiki-plugin-questionaire](https://github.com/cosmocode/dokuwiki-plugin-questionaire) -  (2 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (1 month ago)
 - [gkrid/dokuwiki-plugin-dtable](https://github.com/gkrid/dokuwiki-plugin-dtable) -  (1 month ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 month ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (3 weeks ago)
+- [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (4 weeks ago)
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (1 month ago)
 - [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (1 month ago)
 - [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (1 month ago)

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-questionnaire](https://github.com/cosmocode/dokuwiki-plugin-questionnaire) - Create simple questionnaires and collect data from your DokuWiki users (1 day ago)
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (5 days ago)
+- [cosmocode/dokuwiki-plugin-questionnaire](https://github.com/cosmocode/dokuwiki-plugin-questionnaire) - Create simple questionnaires and collect data from your DokuWiki users (1 day ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (6 days ago)
 - [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (6 days ago)
 - [cosmocode/dokuwiki-plugin-mathpublish](https://github.com/cosmocode/dokuwiki-plugin-mathpublish) - A complete rewrite of Christopher Smith&#39;s math plugin for DokuWiki (1 month ago)

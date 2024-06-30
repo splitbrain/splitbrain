@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (1 day ago)
-- [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (2 days ago)
-- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (4 days ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (5 days ago)
-- [cosmocode/dokuwiki-plugin-questionnaire](https://github.com/cosmocode/dokuwiki-plugin-questionnaire) - Create simple questionnaires and collect data from your DokuWiki users (5 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (2 days ago)
+- [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (3 days ago)
+- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (4 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (5 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (5 days ago)
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (5 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-questionnaire](https://github.com/cosmocode/dokuwiki-plugin-questionnaire) - Create simple questionnaires and collect data from your DokuWiki users (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [cosmocode/dokuwiki-plugin-versionswitch](https://github.com/cosmocode/dokuwiki-plugin-versionswitch) - Easily switch between different documented versions in DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
@@ -26,7 +26,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (1 month ago)
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (1 month ago)
 - [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (1 month ago)
-- [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (1 month ago)
+- [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (2 months ago)
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

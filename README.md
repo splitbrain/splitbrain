@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (today)
-- [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (5 days ago)
-- [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (1 day ago)
+- [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (6 days ago)
+- [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (1 week ago)
 - [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (1 month ago)
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (1 month ago)
-- [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (1 month ago)
+- [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (2 months ago)
 - [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (2 months ago)
 - [Hugo vs. Lektor (vs. Grav)](https://www.splitbrain.org/blog/2024-04/20-hugo_vs_lektor_vs_grav) (2 months ago)
 

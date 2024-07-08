@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [cosmocode/dokuwiki-plugin-searchns](https://github.com/cosmocode/dokuwiki-plugin-searchns) -  (today)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 days ago)
 - [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (5 days ago)
 - [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (1 week ago)
 - [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (1 week ago)
 - [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 
 ### :scroll: My recent blog posts
 

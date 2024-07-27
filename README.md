@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Comfee/Midea Dehumidifier HomeAssistant Setup](https://www.splitbrain.org/blog/2024-07/27-comfee_midea_dehumidifier_homeassistant_setup) (today)
 - [Shed Build - Part 1: Foundations](https://www.splitbrain.org/blog/2024-07/26-shed_build_part_1_foundations) (1 day ago)
 - [New 3D Printer: BambuLab P1P](https://www.splitbrain.org/blog/2024-05/25-new_3d_printer_bambulab_p1p) (2 months ago)
 - [New Monitor](https://www.splitbrain.org/blog/2024-05/14-new_monitor) (2 months ago)
 - [Unicode Macros on Keychron QMK/VIA](https://www.splitbrain.org/blog/2024-05/05-unicode_macros_on_keychron_qmk_via) (2 months ago)
-- [Stanley Silent Compressor Repair](https://www.splitbrain.org/blog/2024-05/01-stanley_silent_compressor_repair) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

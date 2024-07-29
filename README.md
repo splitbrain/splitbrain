@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (today)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (today)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-statistics](https://github.com/splitbrain/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
 - [splitbrain/cloudflare-prusa-rss](https://github.com/splitbrain/cloudflare-prusa-rss) - cloudflare worker to get my prusaprinter models as RSS (1 day ago)
 - [cosmocode/dokuwiki-plugin-wordimport](https://github.com/cosmocode/dokuwiki-plugin-wordimport) - Import word documents into DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-structgantt](https://github.com/cosmocode/dokuwiki-plugin-structgantt) - Create simple Gantt charts from struct data (1 week ago)
-- [cosmocode/dokuwiki-plugin-searchns](https://github.com/cosmocode/dokuwiki-plugin-searchns) -  (3 weeks ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
-- [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (3 weeks ago)
-- [splitbrain/ook](https://github.com/splitbrain/ook) - A Text &lt;-&gt; Brainfuck/Ook webinterface (1 month ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-meta](https://github.com/dokufreaks/plugin-meta) -  (5 days ago)
+- [dokufreaks/plugin-meta](https://github.com/dokufreaks/plugin-meta) -  (6 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (1 week ago)

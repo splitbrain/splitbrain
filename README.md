@@ -23,10 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (1 day ago)
+- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (today)
+- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (today)
+- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (today)
 - [Shed Build - Part 2: Framing and Roofing](https://www.splitbrain.org/blog/2024-07/29-shed_build_part_2_framing_and_roofing) (2 weeks ago)
 - [Comfee/Midea Dehumidifier HomeAssistant Setup](https://www.splitbrain.org/blog/2024-07/27-comfee_midea_dehumidifier_homeassistant_setup) (2 weeks ago)
-- [Shed Build - Part 1: Foundations](https://www.splitbrain.org/blog/2024-07/26-shed_build_part_1_foundations) (2 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

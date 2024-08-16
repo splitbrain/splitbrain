@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (1 day ago)
-- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (1 day ago)
-- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (1 day ago)
-- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (1 day ago)
+- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (2 days ago)
+- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (2 days ago)
+- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (2 days ago)
+- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (2 days ago)
 - [Shed Build - Part 2: Framing and Roofing](https://www.splitbrain.org/blog/2024-07/29-shed_build_part_2_framing_and_roofing) (2 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

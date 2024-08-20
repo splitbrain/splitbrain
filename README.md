@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
 - [dokufreaks/plugin-meta](https://github.com/dokufreaks/plugin-meta) -  (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (5 days ago)
-- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (5 days ago)
-- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (5 days ago)
-- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (5 days ago)
+- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (6 days ago)
+- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (6 days ago)
+- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (6 days ago)
+- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (6 days ago)
 - [Shed Build - Part 2: Framing and Roofing](https://www.splitbrain.org/blog/2024-07/29-shed_build_part_2_framing_and_roofing) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

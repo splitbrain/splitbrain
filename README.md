@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (5 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (6 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
-- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker (1 week ago)
+- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker (2 weeks ago)
 - [dokufreaks/plugin-meta](https://github.com/dokufreaks/plugin-meta) -  (1 month ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 month ago)
 - [cosmocode/dokuwiki-plugin-top](https://github.com/cosmocode/dokuwiki-plugin-top) - Simple DokuWiki plugin to count page accesses and display the most popular pages (1 month ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (3 weeks ago)
-- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (3 weeks ago)
-- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (3 weeks ago)
-- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (3 weeks ago)
+- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (4 weeks ago)
+- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (4 weeks ago)
+- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (4 weeks ago)
+- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (4 weeks ago)
 - [Shed Build - Part 2: Framing and Roofing](https://www.splitbrain.org/blog/2024-07/29-shed_build_part_2_framing_and_roofing) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

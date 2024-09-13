@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (4 weeks ago)
-- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (4 weeks ago)
-- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (4 weeks ago)
-- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (4 weeks ago)
+- [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (1 month ago)
+- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (1 month ago)
+- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (1 month ago)
+- [Blank Screen on Boot Fix](https://www.splitbrain.org/blog/2024-08/13-blank_screen_on_boot_fix) (1 month ago)
 - [Shed Build - Part 2: Framing and Roofing](https://www.splitbrain.org/blog/2024-07/29-shed_build_part_2_framing_and_roofing) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

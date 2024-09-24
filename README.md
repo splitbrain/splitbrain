@@ -7,8 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 day ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (today)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (1 day ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 day ago)
 - [cosmocode/dokuwiki-plugin-structacl](https://github.com/cosmocode/dokuwiki-plugin-structacl) - Extend ACL rules via struct (5 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (2 weeks ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 weeks ago)
 - [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker (3 weeks ago)
-- [dokufreaks/plugin-meta](https://github.com/dokufreaks/plugin-meta) -  (1 month ago)
 
 ### :scroll: My recent blog posts
 

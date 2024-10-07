@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 days ago)
-- [NetaliDev/dokuwiki-deepl-autotranslate](https://github.com/NetaliDev/dokuwiki-deepl-autotranslate) -  (5 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (1 week ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
+- [NetaliDev/dokuwiki-deepl-autotranslate](https://github.com/NetaliDev/dokuwiki-deepl-autotranslate) -  (6 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 weeks ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-structacl](https://github.com/cosmocode/dokuwiki-plugin-structacl) - Extend ACL rules via struct (2 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 weeks ago)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 month ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (1 week ago)
+- [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (2 weeks ago)
 - [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (1 month ago)
 - [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (1 month ago)
 - [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (1 month ago)

@@ -23,11 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (today)
 - [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (6 days ago)
 - [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (3 weeks ago)
 - [Shed Build - Part 3: Walls, Window, Paint](https://www.splitbrain.org/blog/2024-08/15-shed_build_part_3_walls_window_paint) (2 months ago)
-- [NVME Upgrade](https://www.splitbrain.org/blog/2024-08/14-nvme_upgrade) (2 months ago)
-- [](https://www.splitbrain.org/blog/2024-08/23-blank_screen_on_boot_fix) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

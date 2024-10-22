@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (today)
 - [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (5 days ago)
 - [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (1 week ago)
 - [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (4 weeks ago)

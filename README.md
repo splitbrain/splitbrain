@@ -14,8 +14,8 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
 - [NetaliDev/dokuwiki-deepl-autotranslate](https://github.com/NetaliDev/dokuwiki-deepl-autotranslate) -  (3 weeks ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (4 weeks ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 weeks ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (4 weeks ago)
 - [cosmocode/dokuwiki-plugin-structacl](https://github.com/cosmocode/dokuwiki-plugin-structacl) - Extend ACL rules via struct (1 month ago)
 
 ### :scroll: My recent blog posts

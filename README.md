@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (today)
-- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 day ago)
-- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (6 days ago)
+- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (1 day ago)
+- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (2 days ago)
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (3 weeks ago)
 - [NetaliDev/dokuwiki-deepl-autotranslate](https://github.com/NetaliDev/dokuwiki-deepl-autotranslate) -  (3 weeks ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 weeks ago)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (4 weeks ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 month ago)
+- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (1 month ago)
 - [cosmocode/dokuwiki-plugin-structacl](https://github.com/cosmocode/dokuwiki-plugin-structacl) - Extend ACL rules via struct (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -23,17 +23,17 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (today)
-- [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (5 days ago)
+- [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (1 day ago)
+- [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (6 days ago)
 - [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (1 week ago)
-- [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (4 weeks ago)
+- [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Minocula](https://github.com/Minocula) (6 days ago)
+- [Minocula](https://github.com/Minocula) (1 week ago)
 - [oakd](https://github.com/oakd) (6 months ago)
 - [alanorth](https://github.com/alanorth) (1 year ago)
 - [TheAviationDoctor](https://github.com/TheAviationDoctor) (2 years ago)

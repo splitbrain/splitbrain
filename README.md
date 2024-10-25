@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (2 days ago)
-- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (3 days ago)
+- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (3 days ago)
+- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (4 days ago)
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (2 weeks ago)
@@ -23,9 +23,9 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (2 days ago)
+- [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (3 days ago)
 - [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (1 week ago)
-- [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (1 week ago)
+- [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (2 weeks ago)
 - [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -42,7 +42,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [foodalot](https://github.com/foodalot) (2 years ago)
 - [jgod](https://github.com/jgod) (2 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (2 years ago)
-- [xtaran](https://github.com/xtaran) (2 years ago)
+- [xtaran](https://github.com/xtaran) (3 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (3 years ago)
 - [nuess0r](https://github.com/nuess0r) (3 years ago)
 - [grtfou](https://github.com/grtfou) (4 years ago)

@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 day ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (3 days ago)
-- [cosmocode/dokuwiki-plugin-cosmocode](https://github.com/cosmocode/dokuwiki-plugin-cosmocode) - Access DokuWiki services provided by CosmoCode (3 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [swp-berlin/webassistant](https://github.com/swp-berlin/webassistant) - Monitor websites for new publications (5 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (6 days ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 days ago)
+- [cosmocode/dokuwiki-plugin-menuext](https://github.com/cosmocode/dokuwiki-plugin-menuext) - Extend DokuWiki menus with custom links (4 days ago)
+- [cosmocode/dokuwiki-plugin-cosmocode](https://github.com/cosmocode/dokuwiki-plugin-cosmocode) - Access DokuWiki services provided by CosmoCode (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [swp-berlin/webassistant](https://github.com/swp-berlin/webassistant) - Monitor websites for new publications (6 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Using Mailpit as my default MTA](https://www.splitbrain.org/blog/2024-11/03-using_mailpit_as_default_mta) (6 days ago)
+- [Using Mailpit as my default MTA](https://www.splitbrain.org/blog/2024-11/03-using_mailpit_as_default_mta) (1 week ago)
 - [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (2 weeks ago)
 - [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (3 weeks ago)
-- [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (4 weeks ago)
+- [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (1 month ago)
 - [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

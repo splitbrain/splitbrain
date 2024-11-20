@@ -15,8 +15,8 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-jsoncode](https://github.com/cosmocode/dokuwiki-plugin-jsoncode) - View JSON data in an expandable tree (2 days ago)
 - [cosmocode/dokuwiki-plugin-cosmocode](https://github.com/cosmocode/dokuwiki-plugin-cosmocode) - Access DokuWiki services provided by CosmoCode (6 days ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 

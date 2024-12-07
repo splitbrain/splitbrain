@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
 - [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)

@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (today)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (today)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
+- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
 - [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (3 days ago)
-- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (4 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (4 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (4 days ago)
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (4 days ago)
 - [cosmocode/dokuwiki-plugin-jsoncode](https://github.com/cosmocode/dokuwiki-plugin-jsoncode) - View JSON data in an expandable tree (1 week ago)
 
 ### :scroll: My recent blog posts

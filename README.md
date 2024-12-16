@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 week ago)
 - [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 week ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (1 week ago)
 
 ### :scroll: My recent blog posts
 

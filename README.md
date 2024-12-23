@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - (WIP) import a mastodon export into a gotosocial instance (today)
 - [cosmocode/renderrevisions](https://github.com/cosmocode/renderrevisions) - Create new page revision if render output changed (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - (WIP) import a mastodon export into a gotosocial instance (1 day ago)
 - [cosmocode/dokuwiki-plugin-pegel](https://github.com/cosmocode/dokuwiki-plugin-pegel) - Display current water level measurements as reported by Pegel Online (4 days ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (4 days ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (5 days ago)

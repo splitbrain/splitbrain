@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - (WIP) import a mastodon export into a gotosocial instance (today)
-- [cosmocode/renderrevisions](https://github.com/cosmocode/renderrevisions) - Create new page revision if render output changed (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (4 days ago)
-- [cosmocode/dokuwiki-plugin-pegel](https://github.com/cosmocode/dokuwiki-plugin-pegel) - Display current water level measurements as reported by Pegel Online (4 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (5 days ago)
+- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - (WIP) import a mastodon export into a gotosocial instance (1 day ago)
+- [cosmocode/renderrevisions](https://github.com/cosmocode/renderrevisions) - Create new page revision if render output changed (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (5 days ago)
+- [cosmocode/dokuwiki-plugin-pegel](https://github.com/cosmocode/dokuwiki-plugin-pegel) - Display current water level measurements as reported by Pegel Online (5 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (6 days ago)
 - [swp-berlin/webassistant](https://github.com/swp-berlin/webassistant) - Monitor websites for new publications (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 weeks ago)

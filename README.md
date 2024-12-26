@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Lego Advent Calendar](https://www.splitbrain.org/blog/2024-12/26-lego_advent_calendar) (today)
 - [Using Mailpit as my default MTA](https://www.splitbrain.org/blog/2024-11/03-using_mailpit_as_default_mta) (1 month ago)
 - [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (2 months ago)
 - [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (2 months ago)
 - [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (2 months ago)
-- [Personal Server with Docker Compose](https://www.splitbrain.org/blog/2024-09/23-personal_server_with_docker_compose) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

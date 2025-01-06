@@ -10,7 +10,7 @@ These are the projects I most recently worked on.
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
 - [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - (WIP) import a mastodon export into a gotosocial instance (2 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
-- [cosmocode/renderrevisions](https://github.com/cosmocode/renderrevisions) - Create new page revision if render output changed (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-pegel](https://github.com/cosmocode/dokuwiki-plugin-pegel) - Display current water level measurements as reported by Pegel Online (2 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)

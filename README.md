@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (today)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 days ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (2 weeks ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (2 weeks ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
 - [blogscroll/blogscroll](https://github.com/blogscroll/blogscroll) - 📜 An aggregator of independently-owned blogs (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-fulldisplay](https://github.com/cosmocode/dokuwiki-plugin-fulldisplay) - Show the current page in an autorefreshing fullscreen display (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

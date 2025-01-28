@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (3 weeks ago)
+- [blogscroll/blogscroll](https://github.com/blogscroll/blogscroll) - 📜 An aggregator of independently-owned blogs (3 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 weeks ago)
 
 ### :scroll: My recent blog posts

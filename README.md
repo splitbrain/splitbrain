@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [The Enshittification of IKEA](https://www.splitbrain.org/blog/2025-02/10-the_enshittification_of_ikea) (today)
 - [Lego Advent Calendar](https://www.splitbrain.org/blog/2024-12/26-lego_advent_calendar) (1 month ago)
 - [Using Mailpit as my default MTA](https://www.splitbrain.org/blog/2024-11/03-using_mailpit_as_default_mta) (3 months ago)
 - [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (3 months ago)
 - [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (3 months ago)
-- [Introducing: clipscreen](https://www.splitbrain.org/blog/2024-10/11-introducing_clipscreen) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

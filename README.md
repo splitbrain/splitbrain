@@ -37,7 +37,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Minocula](https://github.com/Minocula) (3 months ago)
 - [oakd](https://github.com/oakd) (9 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)
-- [TheAviationDoctor](https://github.com/TheAviationDoctor) (2 years ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)
 - [foodalot](https://github.com/foodalot) (2 years ago)

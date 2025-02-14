@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 weeks ago)
-- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - import a mastodon export into a gotosocial instance (2 weeks ago)
+- [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - import a mastodon export into a gotosocial instance (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 weeks ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (4 weeks ago)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 month ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [The Enshittification of IKEA](https://www.splitbrain.org/blog/2025-02/10-the_enshittification_of_ikea) (3 days ago)
+- [The Enshittification of IKEA](https://www.splitbrain.org/blog/2025-02/10-the_enshittification_of_ikea) (4 days ago)
 - [Lego Advent Calendar](https://www.splitbrain.org/blog/2024-12/26-lego_advent_calendar) (1 month ago)
 - [Using Mailpit as my default MTA](https://www.splitbrain.org/blog/2024-11/03-using_mailpit_as_default_mta) (3 months ago)
 - [Beer Bread](https://www.splitbrain.org/blog/2024-10/22-bear_bread) (3 months ago)
-- [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (3 months ago)
+- [House of Leaves](https://www.splitbrain.org/blog/2024-10/17-house_of_leaves) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

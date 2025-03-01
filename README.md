@@ -27,7 +27,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Gnome Keyring SSH Agent on Arch XFCE](https://www.splitbrain.org/blog/2025-02/19-gnome_keyring_ssh_agent_archlinux_xfce) (1 week ago)
 - [Fish Shell](https://www.splitbrain.org/blog/2025-02/16-fish_shell) (1 week ago)
 - [The Enshittification of IKEA](https://www.splitbrain.org/blog/2025-02/10-the_enshittification_of_ikea) (2 weeks ago)
-- [Lego Advent Calendar](https://www.splitbrain.org/blog/2024-12/26-lego_advent_calendar) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

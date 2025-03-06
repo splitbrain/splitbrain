@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (1 week ago)
+- [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (2 weeks ago)
 - [Gnome Keyring SSH Agent on Arch XFCE](https://www.splitbrain.org/blog/2025-02/19-gnome_keyring_ssh_agent_archlinux_xfce) (2 weeks ago)
 - [Fish Shell](https://www.splitbrain.org/blog/2025-02/16-fish_shell) (2 weeks ago)
 - [The Enshittification of IKEA](https://www.splitbrain.org/blog/2025-02/10-the_enshittification_of_ikea) (3 weeks ago)
@@ -33,7 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [sckott](https://github.com/sckott) (today)
+- [sckott](https://github.com/sckott) (1 day ago)
 - [Minocula](https://github.com/Minocula) (4 months ago)
 - [oakd](https://github.com/oakd) (10 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)
@@ -41,7 +41,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)
 - [foodalot](https://github.com/foodalot) (2 years ago)
 - [jgod](https://github.com/jgod) (2 years ago)
-- [TauriaEE](https://github.com/TauriaEE) (2 years ago)
+- [TauriaEE](https://github.com/TauriaEE) (3 years ago)
 - [xtaran](https://github.com/xtaran) (3 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (3 years ago)
 - [nuess0r](https://github.com/nuess0r) (3 years ago)

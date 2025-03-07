@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (today)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
+- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (1 day ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (5 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/sitemapmirror](https://github.com/splitbrain/sitemapmirror) - very simple web site copier written in PHP (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
 - [swp-berlin/webassistant](https://github.com/swp-berlin/webassistant) - Monitor websites for new publications (2 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 weeks ago)
 - [splitbrain/gotosocialimport](https://github.com/splitbrain/gotosocialimport) - import a mastodon export into a gotosocial instance (1 month ago)
@@ -33,7 +33,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [sckott](https://github.com/sckott) (1 day ago)
+- [sckott](https://github.com/sckott) (2 days ago)
 - [Minocula](https://github.com/Minocula) (4 months ago)
 - [oakd](https://github.com/oakd) (10 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)

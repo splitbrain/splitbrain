@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (6 days ago)
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (6 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (1 week ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 week ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 week ago)
 - [swp-berlin/webassistant](https://github.com/swp-berlin/webassistant) - Monitor websites for new publications (1 week ago)
@@ -23,9 +23,9 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (3 days ago)
+- [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (4 days ago)
 - [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (1 week ago)
-- [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (1 week ago)
+- [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (2 weeks ago)
 - [Gnome Keyring SSH Agent on Arch XFCE](https://www.splitbrain.org/blog/2025-02/19-gnome_keyring_ssh_agent_archlinux_xfce) (1 month ago)
 - [Fish Shell](https://www.splitbrain.org/blog/2025-02/16-fish_shell) (1 month ago)
 

@@ -9,13 +9,13 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 days ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
-- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (5 days ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (5 days ago)
-- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (6 days ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (6 days ago)
+- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (5 days ago)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (6 days ago)
 - [cosmocode/dokuwiki-plugin-logstats](https://github.com/cosmocode/dokuwiki-plugin-logstats) - temporary fork of the DokuWiki logstats plugin (6 days ago)
-- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (6 days ago)
-- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (6 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (6 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (6 days ago)
+- [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (6 days ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (6 days ago)
 
 ### :scroll: My recent blog posts

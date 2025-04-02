@@ -8,10 +8,10 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
-- [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers. (today)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (5 days ago)
-- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (6 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (6 days ago)
+- [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers. (1 day ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (6 days ago)
+- [splitbrain/dokuwiki-plugin-talkpage](https://github.com/splitbrain/dokuwiki-plugin-talkpage) - A talk page link for the DokuWiki sidebar (1 week ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
 - [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (1 week ago)
 - [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (6 days ago)
+- [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (1 week ago)
 - [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (2 weeks ago)
 - [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (2 weeks ago)
 - [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (3 weeks ago)
@@ -34,8 +34,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [saggi-dw](https://github.com/saggi-dw) (1 day ago)
-- [sckott](https://github.com/sckott) (3 weeks ago)
+- [saggi-dw](https://github.com/saggi-dw) (2 days ago)
+- [sckott](https://github.com/sckott) (4 weeks ago)
 - [Minocula](https://github.com/Minocula) (5 months ago)
 - [oakd](https://github.com/oakd) (11 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)

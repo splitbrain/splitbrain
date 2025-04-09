@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (today)
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers. (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (today)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (today)
 - [splitbrain/dokuwiki-plugin-linklist](https://github.com/splitbrain/dokuwiki-plugin-linklist) - Display a list of related links (today)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (today)

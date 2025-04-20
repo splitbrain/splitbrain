@@ -11,11 +11,11 @@ These are the projects I most recently worked on.
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [splitbrain/vagrant-windows11](https://github.com/splitbrain/vagrant-windows11) - Vagrant setup to spin up a Win11 instance (4 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (5 days ago)
-- [cosmocode/dokuwiki-plugin-linklist](https://github.com/cosmocode/dokuwiki-plugin-linklist) - Display a list of related links (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
+- [cosmocode/dokuwiki-plugin-linklist](https://github.com/cosmocode/dokuwiki-plugin-linklist) - Display a list of related links (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [pozitron57/open-source-comments](https://github.com/pozitron57/open-source-comments) - Comparison table for open-source self-hosted commenting servers. (1 week ago)
 
 ### :scroll: My recent blog posts

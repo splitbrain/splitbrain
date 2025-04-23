@@ -7,23 +7,23 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/vagrant-windows11](https://github.com/splitbrain/vagrant-windows11) - Vagrant setup to spin up a Win11 instance (6 days ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/vagrant-windows11](https://github.com/splitbrain/vagrant-windows11) - Vagrant setup to spin up a Win11 instance (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-linklist](https://github.com/cosmocode/dokuwiki-plugin-linklist) - Display a list of related links (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (3 weeks ago)
+- [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (4 weeks ago)
 - [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (1 month ago)
 - [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (1 month ago)
 - [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (1 month ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Atomsoldat](https://github.com/Atomsoldat) (6 days ago)
+- [Atomsoldat](https://github.com/Atomsoldat) (1 week ago)
 - [saggi-dw](https://github.com/saggi-dw) (3 weeks ago)
 - [sckott](https://github.com/sckott) (1 month ago)
 - [Minocula](https://github.com/Minocula) (6 months ago)

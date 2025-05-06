@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/.github](https://github.com/cosmocode/.github) -  (today)
-- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (3 days ago)
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (6 days ago)
+- [cosmocode/.github](https://github.com/cosmocode/.github) -  (1 day ago)
+- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (4 days ago)
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)

@@ -34,6 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
+- [auno](https://github.com/auno) (today)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 weeks ago)
 - [saggi-dw](https://github.com/saggi-dw) (1 month ago)
 - [sckott](https://github.com/sckott) (2 months ago)

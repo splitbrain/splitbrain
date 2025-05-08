@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/.github](https://github.com/cosmocode/.github) -  (2 days ago)
-- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (5 days ago)
+- [cosmocode/.github](https://github.com/cosmocode/.github) -  (3 days ago)
+- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (6 days ago)
 - [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [auno](https://github.com/auno) (today)
+- [auno](https://github.com/auno) (1 day ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 weeks ago)
 - [saggi-dw](https://github.com/saggi-dw) (1 month ago)
 - [sckott](https://github.com/sckott) (2 months ago)
@@ -48,7 +48,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [xtaran](https://github.com/xtaran) (3 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (3 years ago)
 - [nuess0r](https://github.com/nuess0r) (3 years ago)
-- [grtfou](https://github.com/grtfou) (4 years ago)
+- [grtfou](https://github.com/grtfou) (5 years ago)
 
 ### :octocat: All the statistics
 

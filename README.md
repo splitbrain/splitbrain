@@ -8,10 +8,10 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (today)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 day ago)
 - [cosmocode/.github](https://github.com/cosmocode/.github) -  (1 week ago)
 - [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (1 week ago)
-- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (1 week ago)
+- [cosmocode/dokuwiki-plugin-golocal](https://github.com/cosmocode/dokuwiki-plugin-golocal) - Open local and network links via a protocol handler (2 weeks ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 - [splitbrain/vagrant-windows11](https://github.com/splitbrain/vagrant-windows11) - Vagrant setup to spin up a Win11 instance (3 weeks ago)
@@ -26,7 +26,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Pinout Leaf Generator](https://www.splitbrain.org/blog/2025-04/27-pinout_leaf_generator) (2 weeks ago)
 - [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (1 month ago)
 - [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (1 month ago)
-- [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (1 month ago)
+- [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (2 months ago)
 - [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [auno](https://github.com/auno) (5 days ago)
+- [auno](https://github.com/auno) (6 days ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 weeks ago)
 - [saggi-dw](https://github.com/saggi-dw) (1 month ago)
 - [sckott](https://github.com/sckott) (2 months ago)

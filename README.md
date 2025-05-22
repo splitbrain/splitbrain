@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [The Rubenerd Blog Quiz 2025](https://www.splitbrain.org/blog/2025-05/21-rubenerd_blog_quiz_2025) (today)
 - [Pinout Leaf Generator](https://www.splitbrain.org/blog/2025-04/27-pinout_leaf_generator) (3 weeks ago)
 - [Meh… another comment system](https://www.splitbrain.org/blog/2025-03/26-meh_another_comment_system) (1 month ago)
 - [FrameWork 13 (Intel Ultra) &amp; ArchLinux](https://www.splitbrain.org/blog/2025-02/17-framework_13_intel_core_ultra_archlinux) (2 months ago)
 - [Mastodon to GoToSocial Migration](https://www.splitbrain.org/blog/2025-03/12-mastodon_to_gotosocial_migration) (2 months ago)
-- [65W Power Bank Comparison](https://www.splitbrain.org/blog/2025-03/08-65w_power_bank_comparison) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

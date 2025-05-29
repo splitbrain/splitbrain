@@ -15,8 +15,8 @@ These are the projects I most recently worked on.
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (6 days ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 week ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
+- [dokufreaks/plugin-pagelist](https://github.com/dokufreaks/plugin-pagelist) - Lists DokuWiki pages in a nice looking table or unordered list. (1 week ago)
 
 ### :scroll: My recent blog posts
 

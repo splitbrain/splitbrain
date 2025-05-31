@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/status](https://github.com/dokuwiki/status) - DouWiki Services Status (1 day ago)
-- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (1 day ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [splitbrain/status](https://github.com/splitbrain/status) - Status Page for all the splitbrain services (4 days ago)
+- [dokuwiki/status](https://github.com/dokuwiki/status) - DouWiki Services Status (2 days ago)
+- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (2 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [splitbrain/status](https://github.com/splitbrain/status) - Status Page for all the splitbrain services (5 days ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 week ago)
 - [splitbrain/dokuwiki-plugin-passpolicy](https://github.com/splitbrain/dokuwiki-plugin-passpolicy) - better DokuWiki password security (1 week ago)
 - [splitbrain/dokuwiki-plugin-translation](https://github.com/splitbrain/dokuwiki-plugin-translation) - Easily setup a multi-language DokuWiki (1 week ago)

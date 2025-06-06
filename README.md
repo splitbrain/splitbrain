@@ -35,7 +35,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [rpcope1](https://github.com/rpcope1) (2 weeks ago)
-- [auno](https://github.com/auno) (1 month ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (1 month ago)
 - [saggi-dw](https://github.com/saggi-dw) (2 months ago)
 - [sckott](https://github.com/sckott) (3 months ago)

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 day ago)
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (1 day ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 days ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 days ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 days ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (2 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 days ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (1 week ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Atomsoldat](https://github.com/Atomsoldat) (1 month ago)
 - [saggi-dw](https://github.com/saggi-dw) (2 months ago)
 - [sckott](https://github.com/sckott) (3 months ago)
-- [Minocula](https://github.com/Minocula) (7 months ago)
+- [Minocula](https://github.com/Minocula) (8 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)

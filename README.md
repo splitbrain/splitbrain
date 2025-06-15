@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Hartau May 8th 1988](https://www.splitbrain.org/blog/1988-05/08-hartau) (today)
 - [Hartau May 7th 1988](https://www.splitbrain.org/blog/1988-05/07-hartau) (today)
 - [Birkenwerder July 27th to 29th 1987](https://www.splitbrain.org/blog/1987-07/27-birkenwerder) (today)
 - [Irrigation Automation (with Home Assistant)](https://www.splitbrain.org/blog/2025-06/15-irrigation_automation_with_homeassistant) (today)
 - [The Rubenerd Blog Quiz 2025](https://www.splitbrain.org/blog/2025-05/21-rubenerd_blog_quiz_2025) (3 weeks ago)
-- [Pinout Leaf Generator](https://www.splitbrain.org/blog/2025-04/27-pinout_leaf_generator) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

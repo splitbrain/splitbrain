@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (5 days ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (today)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (6 days ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)

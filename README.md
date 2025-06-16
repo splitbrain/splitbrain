@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (today)
+- [Hartau May 10th 1988](https://www.splitbrain.org/blog/1988-05/10-hartau) (today)
+- [Hartau May 9th 1988](https://www.splitbrain.org/blog/1988-05/09-hartau) (today)
 - [Hartau May 8th 1988](https://www.splitbrain.org/blog/1988-05/08-hartau) (1 day ago)
 - [Hartau May 7th 1988](https://www.splitbrain.org/blog/1988-05/07-hartau) (1 day ago)
-- [Birkenwerder July 27th to 29th 1987](https://www.splitbrain.org/blog/1987-07/27-birkenwerder) (1 day ago)
-- [Irrigation Automation (with Home Assistant)](https://www.splitbrain.org/blog/2025-06/15-irrigation_automation_with_homeassistant) (1 day ago)
-- [The Rubenerd Blog Quiz 2025](https://www.splitbrain.org/blog/2025-05/21-rubenerd_blog_quiz_2025) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

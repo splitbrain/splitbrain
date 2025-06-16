@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (4 days ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 days ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (5 days ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (6 days ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (5 days ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (6 days ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (1 week ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Hartau May 8th 1988](https://www.splitbrain.org/blog/1988-05/08-hartau) (today)
-- [Hartau May 7th 1988](https://www.splitbrain.org/blog/1988-05/07-hartau) (today)
-- [Birkenwerder July 27th to 29th 1987](https://www.splitbrain.org/blog/1987-07/27-birkenwerder) (today)
-- [Irrigation Automation (with Home Assistant)](https://www.splitbrain.org/blog/2025-06/15-irrigation_automation_with_homeassistant) (today)
+- [Hartau May 8th 1988](https://www.splitbrain.org/blog/1988-05/08-hartau) (1 day ago)
+- [Hartau May 7th 1988](https://www.splitbrain.org/blog/1988-05/07-hartau) (1 day ago)
+- [Birkenwerder July 27th to 29th 1987](https://www.splitbrain.org/blog/1987-07/27-birkenwerder) (1 day ago)
+- [Irrigation Automation (with Home Assistant)](https://www.splitbrain.org/blog/2025-06/15-irrigation_automation_with_homeassistant) (1 day ago)
 - [The Rubenerd Blog Quiz 2025](https://www.splitbrain.org/blog/2025-05/21-rubenerd_blog_quiz_2025) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (today)
+- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (today)
+- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (today)
+- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (today)
 - [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (2 days ago)
-- [Hartau May 10th 1988](https://www.splitbrain.org/blog/1988-05/10-hartau) (2 days ago)
-- [Hartau May 9th 1988](https://www.splitbrain.org/blog/1988-05/09-hartau) (2 days ago)
-- [Hartau May 8th 1988](https://www.splitbrain.org/blog/1988-05/08-hartau) (3 days ago)
-- [Hartau May 7th 1988](https://www.splitbrain.org/blog/1988-05/07-hartau) (3 days ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

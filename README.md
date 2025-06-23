@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (5 days ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (2 weeks ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (2 weeks ago)
 - [dokuwiki/status](https://github.com/dokuwiki/status) - DouWiki Services Status (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (2 weeks ago)
@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (4 days ago)
-- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (4 days ago)
-- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (4 days ago)
-- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (4 days ago)
-- [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (6 days ago)
+- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (5 days ago)
+- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (5 days ago)
+- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (5 days ago)
+- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (5 days ago)
+- [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (1 week ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

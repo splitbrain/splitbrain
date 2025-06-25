@@ -7,26 +7,26 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (6 days ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (1 week ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (2 weeks ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (2 weeks ago)
 - [dokuwiki/status](https://github.com/dokuwiki/status) - DouWiki Services Status (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (2 weeks ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 weeks ago)
-- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (2 weeks ago)
+- [cosmocode/confmanager](https://github.com/cosmocode/confmanager) - Manage DokuWiki *.conf configuration files from the admin menu (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (6 days ago)
-- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (6 days ago)
-- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (6 days ago)
-- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (6 days ago)
+- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (1 week ago)
+- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (1 week ago)
+- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (1 week ago)
+- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (1 week ago)
 - [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (1 week ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

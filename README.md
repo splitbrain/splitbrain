@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (2 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [rpcope1](https://github.com/rpcope1) (1 month ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (2 months ago)
-- [saggi-dw](https://github.com/saggi-dw) (2 months ago)
+- [saggi-dw](https://github.com/saggi-dw) (3 months ago)
 - [sckott](https://github.com/sckott) (3 months ago)
 - [Minocula](https://github.com/Minocula) (8 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)

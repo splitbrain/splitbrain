@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (3 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 weeks ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (4 weeks ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 weeks ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (4 weeks ago)
 
 ### :scroll: My recent blog posts

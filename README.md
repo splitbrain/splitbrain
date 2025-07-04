@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 weeks ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (4 weeks ago)
-- [dokuwiki/status](https://github.com/dokuwiki/status) - DouWiki Services Status (4 weeks ago)
+- [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (4 weeks ago)
 
 ### :scroll: My recent blog posts
 

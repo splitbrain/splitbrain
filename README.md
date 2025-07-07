@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (today)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (2 days ago)
 - [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (3 days ago)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (6 days ago)

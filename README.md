@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 day ago)
-- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (2 days ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (5 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (2 days ago)
+- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (3 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (3 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 weeks ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 weeks ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 weeks ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 month ago)
 - [cosmocode/csv](https://github.com/cosmocode/csv) - A CSV plugin for DokuWiki (1 month ago)
 
@@ -27,7 +27,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (2 weeks ago)
 - [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (2 weeks ago)
 - [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (2 weeks ago)
-- [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (2 weeks ago)
+- [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

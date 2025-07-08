@@ -8,6 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (today)
+- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (3 days ago)
 - [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (4 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (3 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (4 weeks ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 weeks ago)
-- [splitbrain/dokuwiki-plugin-gh](https://github.com/splitbrain/dokuwiki-plugin-gh) - DokuWiki plugin to include a syntax highlighted github file in a page (1 month ago)
 
 ### :scroll: My recent blog posts
 

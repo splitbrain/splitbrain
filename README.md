@@ -7,26 +7,26 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (today)
-- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (3 days ago)
-- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (4 days ago)
+- [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (1 day ago)
+- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (4 days ago)
+- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (5 days ago)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 week ago)
-- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-isolator](https://github.com/cosmocode/dokuwiki-plugin-isolator) -  (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 weeks ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (4 weeks ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 weeks ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 month ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (2 weeks ago)
-- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (2 weeks ago)
-- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (2 weeks ago)
-- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (2 weeks ago)
+- [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (3 weeks ago)
+- [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (3 weeks ago)
+- [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (3 weeks ago)
+- [Hartau May 12th 1988](https://www.splitbrain.org/blog/1988-05/12-hartau) (3 weeks ago)
 - [Hartau May 11th 1988](https://www.splitbrain.org/blog/1988-05/11-hartau) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

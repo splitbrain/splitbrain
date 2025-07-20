@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (1 day ago)
+- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (today)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)

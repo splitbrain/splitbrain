@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (today)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 days ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (1 day ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (1 week ago)
 - [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (1 week ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Sweden](https://www.splitbrain.org/blog/2025-07/13-sweden) (6 days ago)
+- [Sweden](https://www.splitbrain.org/blog/2025-07/13-sweden) (1 week ago)
 - [May 15th 1988](https://www.splitbrain.org/blog/1988-05/15) (1 month ago)
 - [Hartau May 14th 1988](https://www.splitbrain.org/blog/1988-05/14-hartau) (1 month ago)
 - [Hartau May 13th 1988](https://www.splitbrain.org/blog/1988-05/13-hartau) (1 month ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [loinieuasx872](https://github.com/loinieuasx872) (3 days ago)
+- [loinieuasx872](https://github.com/loinieuasx872) (4 days ago)
 - [rpcope1](https://github.com/rpcope1) (2 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (3 months ago)

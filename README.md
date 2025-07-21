@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (today)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
-- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (5 days ago)
+- [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (1 day ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (5 days ago)
+- [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (6 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (1 week ago)
 - [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (1 week ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [loinieuasx872](https://github.com/loinieuasx872) (4 days ago)
+- [loinieuasx872](https://github.com/loinieuasx872) (5 days ago)
 - [rpcope1](https://github.com/rpcope1) (2 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (3 months ago)

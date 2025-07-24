@@ -11,12 +11,12 @@ These are the projects I most recently worked on.
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 day ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/dokuwiki-plugin-linkblog](https://github.com/splitbrain/dokuwiki-plugin-linkblog) - personal DokuWiki plugin to aggregate various RSS feeds into a link blog. not fit for public use, yet (2 days ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 days ago)
+- [splitbrain/dokuwiki-plugin-linkblog](https://github.com/splitbrain/dokuwiki-plugin-linkblog) - personal DokuWiki plugin to aggregate various RSS feeds into a link blog. not fit for public use, yet (2 days ago)
 - [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (3 days ago)
 - [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (4 days ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
-- [dokuwiki/dokuwiki-extensionmirror](https://github.com/dokuwiki/dokuwiki-extensionmirror) - Download all DokuWiki extensions in one go (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (2 days ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (4 days ago)
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (5 days ago)
-- [splitbrain/dokuwiki-plugin-linkblog](https://github.com/splitbrain/dokuwiki-plugin-linkblog) - personal DokuWiki plugin to aggregate various RSS feeds into a link blog. not fit for public use, yet (5 days ago)
-- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (3 days ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (5 days ago)
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (6 days ago)
+- [splitbrain/dokuwiki-plugin-linkblog](https://github.com/splitbrain/dokuwiki-plugin-linkblog) - personal DokuWiki plugin to aggregate various RSS feeds into a link blog. not fit for public use, yet (6 days ago)
+- [splitbrain/dokuwiki-plugin-pureldap](https://github.com/splitbrain/dokuwiki-plugin-pureldap) - A new LDAP/AD auth plugin for DokuWiki (1 week ago)
 - [splitbrain/nixsshinstall](https://github.com/splitbrain/nixsshinstall) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-publish](https://github.com/cosmocode/dokuwiki-plugin-publish) - Some improvements on the original plugin by Jarrod Lowe (1 week ago)
 - [splitbrain/dokuwiki-plugin-xfortune](https://github.com/splitbrain/dokuwiki-plugin-xfortune) - Displays random fortune cookies in a DokuWiki page using AJAX requests (2 weeks ago)
@@ -23,10 +23,10 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (today)
-- [Shed Build - Part 4: Interior](https://www.splitbrain.org/blog/2025-07/26-shed_build_part_4_interior) (1 day ago)
-- [Postfix Relay to SMTP2GO on NixOS](https://www.splitbrain.org/blog/2025-07/25-postfix_relay_to_smtp2go_on_nixos) (2 days ago)
-- [Some thoughts on NixOS](https://www.splitbrain.org/blog/2025-07/22-some_thoughts_on_nixos) (5 days ago)
+- [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 day ago)
+- [Shed Build - Part 4: Interior](https://www.splitbrain.org/blog/2025-07/26-shed_build_part_4_interior) (2 days ago)
+- [Postfix Relay to SMTP2GO on NixOS](https://www.splitbrain.org/blog/2025-07/25-postfix_relay_to_smtp2go_on_nixos) (3 days ago)
+- [Some thoughts on NixOS](https://www.splitbrain.org/blog/2025-07/22-some_thoughts_on_nixos) (6 days ago)
 - [Sweden](https://www.splitbrain.org/blog/2025-07/13-sweden) (2 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

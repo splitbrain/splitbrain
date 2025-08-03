@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (today)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 week ago)
 - [Shed Build - Part 4: Interior](https://www.splitbrain.org/blog/2025-07/26-shed_build_part_4_interior) (1 week ago)
 - [Postfix Relay to SMTP2GO on NixOS](https://www.splitbrain.org/blog/2025-07/25-postfix_relay_to_smtp2go_on_nixos) (1 week ago)
 - [Some thoughts on NixOS](https://www.splitbrain.org/blog/2025-07/22-some_thoughts_on_nixos) (1 week ago)
-- [Sweden](https://www.splitbrain.org/blog/2025-07/13-sweden) (3 weeks ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

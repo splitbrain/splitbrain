@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (today)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 day ago)
-- [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (2 days ago)
+- [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [pief/authsplit](https://github.com/pief/authsplit) - Split Dokuwiki authentication among auth plugins (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (6 days ago)
-- [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 week ago)
+- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (1 week ago)
+- [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (2 weeks ago)
 - [Shed Build - Part 4: Interior](https://www.splitbrain.org/blog/2025-07/26-shed_build_part_4_interior) (2 weeks ago)
 - [Postfix Relay to SMTP2GO on NixOS](https://www.splitbrain.org/blog/2025-07/25-postfix_relay_to_smtp2go_on_nixos) (2 weeks ago)
 - [Some thoughts on NixOS](https://www.splitbrain.org/blog/2025-07/22-some_thoughts_on_nixos) (2 weeks ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [hoanghuongtuyanx](https://github.com/hoanghuongtuyanx) (3 days ago)
+- [hoanghuongtuyanx](https://github.com/hoanghuongtuyanx) (4 days ago)
 - [rpcope1](https://github.com/rpcope1) (2 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (3 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (4 months ago)

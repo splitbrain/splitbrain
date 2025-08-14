@@ -8,6 +8,7 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (today)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (today)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (4 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [pief/authsplit](https://github.com/pief/authsplit) - Split Dokuwiki authentication among auth plugins (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-dbquery](https://github.com/cosmocode/dokuwiki-plugin-dbquery) - A database query plugin for DokuWiki (2 weeks ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

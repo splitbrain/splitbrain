@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (today)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (1 week ago)
 - [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (3 weeks ago)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 month ago)
 - [Shed Build - Part 4: Interior](https://www.splitbrain.org/blog/2025-07/26-shed_build_part_4_interior) (1 month ago)
-- [Postfix Relay to SMTP2GO on NixOS](https://www.splitbrain.org/blog/2025-07/25-postfix_relay_to_smtp2go_on_nixos) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

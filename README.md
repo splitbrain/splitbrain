@@ -8,12 +8,12 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (today)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (today)
-- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 days ago)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (5 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 day ago)
+- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 days ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (6 days ago)
 - [cosmocode/quicksubscribe](https://github.com/cosmocode/quicksubscribe) - provides a simpler interface to page subscriptions. (1 week ago)
 - [cosmocode/dokuwiki-plugin-structpublish](https://github.com/cosmocode/dokuwiki-plugin-structpublish) - Publishing workflow with struct data (1 week ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (today)
+- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (1 day ago)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (1 week ago)
 - [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (3 weeks ago)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 month ago)

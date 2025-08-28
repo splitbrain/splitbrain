@@ -11,19 +11,19 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (today)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 day ago)
-- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (1 day ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 day ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 days ago)
+- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (2 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (1 day ago)
+- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (2 days ago)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (1 week ago)
 - [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (3 weeks ago)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 month ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [rpcope1](https://github.com/rpcope1) (3 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (4 months ago)
-- [saggi-dw](https://github.com/saggi-dw) (4 months ago)
+- [saggi-dw](https://github.com/saggi-dw) (5 months ago)
 - [sckott](https://github.com/sckott) (5 months ago)
 - [Minocula](https://github.com/Minocula) (10 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)

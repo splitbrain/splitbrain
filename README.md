@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (today)
 - [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (today)
+- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (today)
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (1 day ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 day ago)
-- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (2 days ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (2 days ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (2 days ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 days ago)
+- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (2 days ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (3 days ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (4 days ago)
+- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (4 days ago)
 
 ### :scroll: My recent blog posts
 

@@ -39,7 +39,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [saggi-dw](https://github.com/saggi-dw) (5 months ago)
 - [sckott](https://github.com/sckott) (6 months ago)
 - [Minocula](https://github.com/Minocula) (10 months ago)
-- [alanorth](https://github.com/alanorth) (2 years ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)
 - [foodalot](https://github.com/foodalot) (3 years ago)

@@ -7,24 +7,24 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (today)
-- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (1 day ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (1 day ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (2 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
-- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (3 days ago)
-- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (3 days ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (3 days ago)
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (4 days ago)
-- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (5 days ago)
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (1 day ago)
+- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (2 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (3 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
+- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (4 days ago)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (4 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (4 days ago)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (5 days ago)
+- [cosmocode/formserver](https://github.com/cosmocode/formserver) - Use YAML to create complex webforms (6 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (2 days ago)
-- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (5 days ago)
+- [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (3 days ago)
+- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (6 days ago)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (2 weeks ago)
 - [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (4 weeks ago)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 month ago)
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [rpcope1](https://github.com/rpcope1) (3 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (4 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (5 months ago)
-- [sckott](https://github.com/sckott) (5 months ago)
+- [sckott](https://github.com/sckott) (6 months ago)
 - [Minocula](https://github.com/Minocula) (10 months ago)
 - [alanorth](https://github.com/alanorth) (2 years ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)

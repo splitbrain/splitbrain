@@ -9,24 +9,24 @@ These are the projects I most recently worked on.
 
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (today)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (today)
-- [moink/talking_shoe](https://github.com/moink/talking_shoe) - An experimental talking shoe for the Das Improv Festival 2025 comedy hackathon (today)
-- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (1 day ago)
-- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (2 days ago)
-- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (2 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (3 days ago)
-- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (4 days ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (4 days ago)
-- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (4 days ago)
+- [moink/talking_shoe](https://github.com/moink/talking_shoe) - An experimental talking shoe for the Das Improv Festival 2025 comedy hackathon (1 day ago)
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing. (2 days ago)
+- [splitbrain/dokuwiki-plugin-amazonlight](https://github.com/splitbrain/dokuwiki-plugin-amazonlight) - A drop-in replacement for the amazon plugin that does not use the product advertisement api (3 days ago)
+- [cosmocode/dokuwiki-plugin-doi](https://github.com/cosmocode/dokuwiki-plugin-doi) - Easily link to publications based on DOI (or ISBN) (3 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (4 days ago)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (5 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (5 days ago)
+- [splitbrain/dokuwiki-plugin-graphviz](https://github.com/splitbrain/dokuwiki-plugin-graphviz) - Create Graphviz graphs from within DokuWiki (5 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (3 days ago)
-- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (6 days ago)
+- [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (4 days ago)
+- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (1 week ago)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (2 weeks ago)
-- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (4 weeks ago)
+- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (1 month ago)
 - [NixOS Agenix (for secrets management)](https://www.splitbrain.org/blog/2025-07/27-agenix) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

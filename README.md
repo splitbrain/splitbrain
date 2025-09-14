@@ -8,11 +8,11 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (today)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (3 days ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 day ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (4 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [moink/talking_shoe](https://github.com/moink/talking_shoe) - An experimental talking shoe for the Das Improv Festival 2025 comedy hackathon (1 week ago)
@@ -26,7 +26,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (1 week ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (2 weeks ago)
 - [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (2 weeks ago)
-- [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (3 weeks ago)
+- [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (4 weeks ago)
 - [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

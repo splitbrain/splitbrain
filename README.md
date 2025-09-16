@@ -15,7 +15,7 @@ These are the projects I most recently worked on.
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 weeks ago)
 - [moink/talking_shoe](https://github.com/moink/talking_shoe) - An experimental talking shoe for the Das Improv Festival 2025 comedy hackathon (2 weeks ago)
 
 ### :scroll: My recent blog posts

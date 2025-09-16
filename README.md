@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (today)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (1 week ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (2 weeks ago)
 - [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (3 weeks ago)
 - [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (1 month ago)
-- [DIY NAS on NixOS](https://www.splitbrain.org/blog/2025-08/03-diy_nas_on_nixos) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

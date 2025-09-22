@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (today)
+- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (today)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (6 days ago)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (2 weeks ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (3 weeks ago)
-- [Off-Site Backup with Borgmatic](https://www.splitbrain.org/blog/2025-08/26-off-site_backup_with_borgmatic) (3 weeks ago)
-- [Password Manager Woes](https://www.splitbrain.org/blog/2025-08/17-password_manager_woes) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (2 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (3 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 days ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 days ago)
+- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (3 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (4 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (4 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (5 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-panoview](https://github.com/splitbrain/dokuwiki-plugin-panoview) - Display large images in a pannable view on DokuWiki (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (6 days ago)
-- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (6 days ago)
+- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (1 week ago)
+- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (1 week ago)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (1 week ago)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (3 weeks ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (1 month ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [saschaleib](https://github.com/saschaleib) (3 days ago)
+- [saschaleib](https://github.com/saschaleib) (4 days ago)
 - [Psyhackological](https://github.com/Psyhackological) (2 weeks ago)
 - [luukhaihost](https://github.com/luukhaihost) (3 weeks ago)
 - [rpcope1](https://github.com/rpcope1) (4 months ago)

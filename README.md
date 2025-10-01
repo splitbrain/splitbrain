@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (1 day ago)
-- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (1 day ago)
-- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (4 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (5 days ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (5 days ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (5 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (6 days ago)
+- [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (2 days ago)
+- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (2 days ago)
+- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (5 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (6 days ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (6 days ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (6 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
-- [splitbrain/dokuwiki-plugin-panoview](https://github.com/splitbrain/dokuwiki-plugin-panoview) - Display large images in a pannable view on DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-panoview](https://github.com/splitbrain/dokuwiki-plugin-panoview) - Display large images in a pannable view on DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -34,13 +34,13 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [saschaleib](https://github.com/saschaleib) (5 days ago)
+- [saschaleib](https://github.com/saschaleib) (6 days ago)
 - [Psyhackological](https://github.com/Psyhackological) (2 weeks ago)
 - [luukhaihost](https://github.com/luukhaihost) (3 weeks ago)
 - [rpcope1](https://github.com/rpcope1) (4 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (5 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (6 months ago)
-- [sckott](https://github.com/sckott) (6 months ago)
+- [sckott](https://github.com/sckott) (7 months ago)
 - [Minocula](https://github.com/Minocula) (11 months ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)

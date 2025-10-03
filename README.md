@@ -8,8 +8,8 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (today)
-- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (4 days ago)
 - [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (4 days ago)
+- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (4 days ago)
 - [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)

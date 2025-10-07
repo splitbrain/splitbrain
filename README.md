@@ -9,7 +9,7 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (today)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (today)
-- [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (3 days ago)
+- [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (4 days ago)
 - [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (1 week ago)
 - [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (1 week ago)
 - [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (1 week ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (2 weeks ago)
 - [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (2 weeks ago)
-- [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (2 weeks ago)
+- [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (3 weeks ago)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (1 month ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (1 month ago)
 

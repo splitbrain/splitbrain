@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (5 days ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (6 days ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (6 days ago)
 - [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (1 week ago)
-- [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (1 week ago)
-- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (1 week ago)
+- [dokuwiki/translate.dokuwiki.org](https://github.com/dokuwiki/translate.dokuwiki.org) - Web based tool to create and update translation patches for DokuWiki and DokuWiki plugins. (2 weeks ago)
+- [cosmocode/contagged](https://github.com/cosmocode/contagged) - ConTagged is a web-based address book for small companies written in PHP. (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 weeks ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (2 weeks ago)
-- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (2 weeks ago)
+- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (3 weeks ago)
+- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (3 weeks ago)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (3 weeks ago)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (1 month ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (1 month ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Psyhackological](https://github.com/Psyhackological) (4 weeks ago)
 - [luukhaihost](https://github.com/luukhaihost) (1 month ago)
 - [rpcope1](https://github.com/rpcope1) (4 months ago)
-- [Atomsoldat](https://github.com/Atomsoldat) (5 months ago)
+- [Atomsoldat](https://github.com/Atomsoldat) (6 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (6 months ago)
 - [sckott](https://github.com/sckott) (7 months ago)
 - [Minocula](https://github.com/Minocula) (1 year ago)

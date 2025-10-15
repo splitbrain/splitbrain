@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
 - [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (1 week ago)
@@ -37,7 +37,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [saschaleib](https://github.com/saschaleib) (2 weeks ago)
 - [Psyhackological](https://github.com/Psyhackological) (1 month ago)
 - [luukhaihost](https://github.com/luukhaihost) (1 month ago)
-- [rpcope1](https://github.com/rpcope1) (4 months ago)
+- [rpcope1](https://github.com/rpcope1) (5 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (6 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (6 months ago)
 - [sckott](https://github.com/sckott) (7 months ago)

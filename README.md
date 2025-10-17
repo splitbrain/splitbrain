@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (today)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (today)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
+- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (today)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (today)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (today)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 day ago)
-- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
-- [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

@@ -8,11 +8,11 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (today)
-- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 day ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 day ago)
+- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
-- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)

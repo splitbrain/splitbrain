@@ -8,13 +8,13 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (today)
-- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (today)
-- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (today)
+- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 day ago)
+- [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [cosmocode/dokuwiki-plugin-farmer](https://github.com/cosmocode/dokuwiki-plugin-farmer) - Completely manages a DokuWiki farm setup (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauthgeneric](https://github.com/cosmocode/dokuwiki-plugin-oauthgeneric) - Generic Service for use with the DokuWiki oAuth Plugin (1 week ago)
-- [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (1 week ago)
-- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (2 weeks ago)
+- [splitbrain/thebankster](https://github.com/splitbrain/thebankster) - A personal finance tool in PHP (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (3 weeks ago)
 
@@ -48,7 +48,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [jgod](https://github.com/jgod) (3 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (3 years ago)
 - [xtaran](https://github.com/xtaran) (3 years ago)
-- [loganmarchione](https://github.com/loganmarchione) (3 years ago)
+- [loganmarchione](https://github.com/loganmarchione) (4 years ago)
 - [nuess0r](https://github.com/nuess0r) (4 years ago)
 - [grtfou](https://github.com/grtfou) (5 years ago)
 

@@ -7,24 +7,24 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 day ago)
-- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 days ago)
-- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (2 days ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (2 days ago)
-- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (2 days ago)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (2 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (2 days ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (2 days ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 days ago)
+- [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 days ago)
+- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (3 days ago)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (3 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 days ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (3 days ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (3 days ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (3 weeks ago)
-- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (3 weeks ago)
+- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (4 weeks ago)
+- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (4 weeks ago)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (1 month ago)
 - [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (1 month ago)
 - [Books for June](https://www.splitbrain.org/blog/2011-07/08-books_for_june) (1 month ago)
@@ -47,7 +47,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [foodalot](https://github.com/foodalot) (3 years ago)
 - [jgod](https://github.com/jgod) (3 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (3 years ago)
-- [xtaran](https://github.com/xtaran) (3 years ago)
+- [xtaran](https://github.com/xtaran) (4 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (4 years ago)
 - [nuess0r](https://github.com/nuess0r) (4 years ago)
 - [grtfou](https://github.com/grtfou) (5 years ago)

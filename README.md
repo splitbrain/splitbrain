@@ -36,7 +36,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [ayush111111](https://github.com/ayush111111) (1 week ago)
 - [Psyhackological](https://github.com/Psyhackological) (1 month ago)
-- [luukhaihost](https://github.com/luukhaihost) (2 months ago)
 - [rpcope1](https://github.com/rpcope1) (5 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (6 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (7 months ago)

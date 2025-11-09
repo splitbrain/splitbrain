@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (3 days ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (4 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (4 days ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (4 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 week ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 weeks ago)
+- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 weeks ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 weeks ago)
 
 ### :scroll: My recent blog posts
 

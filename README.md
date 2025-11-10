@@ -27,7 +27,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (1 month ago)
 - [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (1 month ago)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (1 month ago)
-- [Flashing ESPHome from Tasmota on ESP32](https://www.splitbrain.org/blog/2025-09/06-flashing_esphome_from_tasmota_on_esp32) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

@@ -7,12 +7,12 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (today)
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (6 days ago)
+- [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (1 day ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 week ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
-- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
 - [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (3 weeks ago)
@@ -34,14 +34,14 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [ayush111111](https://github.com/ayush111111) (2 weeks ago)
-- [Psyhackological](https://github.com/Psyhackological) (1 month ago)
+- [Psyhackological](https://github.com/Psyhackological) (2 months ago)
 - [rpcope1](https://github.com/rpcope1) (5 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (7 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (7 months ago)
 - [sckott](https://github.com/sckott) (8 months ago)
 - [Minocula](https://github.com/Minocula) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
-- [pixelbrackets](https://github.com/pixelbrackets) (2 years ago)
+- [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)
 - [foodalot](https://github.com/foodalot) (3 years ago)
 - [jgod](https://github.com/jgod) (3 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (3 years ago)

@@ -8,22 +8,22 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (today)
-- [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (1 day ago)
+- [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (2 days ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 week ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 weeks ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (4 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 week ago)
+- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (2 weeks ago)
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (1 month ago)
 - [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (1 month ago)
 - [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (1 month ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [ayush111111](https://github.com/ayush111111) (2 weeks ago)
 - [Psyhackological](https://github.com/Psyhackological) (2 months ago)
-- [rpcope1](https://github.com/rpcope1) (5 months ago)
+- [rpcope1](https://github.com/rpcope1) (6 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (7 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (7 months ago)
 - [sckott](https://github.com/sckott) (8 months ago)

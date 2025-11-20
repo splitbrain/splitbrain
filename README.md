@@ -26,7 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (2 weeks ago)
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (1 month ago)
 - [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (1 month ago)
-- [Horse](https://www.splitbrain.org/blog/2025-09/16-horse) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

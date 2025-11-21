@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
-- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (6 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
+- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 week ago)
 - [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (1 week ago)
 - [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (2 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -23,9 +23,9 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (2 weeks ago)
-- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (1 month ago)
-- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (1 month ago)
+- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (3 weeks ago)
+- [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (2 months ago)
+- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

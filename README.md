@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (1 day ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/tagging](https://github.com/cosmocode/tagging) - allows users to annotate pages with tags, search for tags and show all tags one user has used. (2 days ago)
+- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 week ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 week ago)
 - [splitbrain/asnlog](https://github.com/splitbrain/asnlog) - Group IPs from a log file by ASN (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (4 weeks ago)
+- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 month ago)
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (2 months ago)
 - [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (2 months ago)
 
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [rpcope1](https://github.com/rpcope1) (6 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (7 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (8 months ago)
-- [sckott](https://github.com/sckott) (8 months ago)
+- [sckott](https://github.com/sckott) (9 months ago)
 - [Minocula](https://github.com/Minocula) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (2 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)

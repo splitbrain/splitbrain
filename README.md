@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (today)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (today)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (today)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS (1 day ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 day ago)

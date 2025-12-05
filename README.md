@@ -26,7 +26,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (4 days ago)
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 month ago)
 - [Viwoods AI Paper Review](https://www.splitbrain.org/blog/2025-09/22-viwoods_ai_paper_review) (2 months ago)
-- [](https://www.splitbrain.org/blog/2025-09/12-viwoods_ai_paper_review) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

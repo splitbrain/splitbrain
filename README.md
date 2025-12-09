@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (today)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 week ago)
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 month ago)
 

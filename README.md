@@ -8,8 +8,8 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (today)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 week ago)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (today)
+- [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (1 day ago)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 week ago)
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 month ago)
 
@@ -32,7 +32,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Kofl](https://github.com/Kofl) (1 day ago)
+- [Kofl](https://github.com/Kofl) (2 days ago)
 - [Psyhackological](https://github.com/Psyhackological) (2 months ago)
 - [rpcope1](https://github.com/rpcope1) (6 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (7 months ago)

@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 days ago)
-- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (4 days ago)
-- [splitbrain/botcheck](https://github.com/splitbrain/botcheck) - Block bots in Apache using mod_rewrite only (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 days ago)
+- [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (5 days ago)
+- [splitbrain/botcheck](https://github.com/splitbrain/botcheck) - Block bots in Apache using mod_rewrite only (5 days ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 week ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 week ago)
 - [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (4 days ago)
+- [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (5 days ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (1 week ago)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (2 weeks ago)
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (1 month ago)

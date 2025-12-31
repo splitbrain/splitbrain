@@ -12,9 +12,9 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (2 weeks ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 weeks ago)
-- [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (2 weeks ago)
-- [dokuwiki/globalheader](https://github.com/dokuwiki/globalheader) - HTML for the black top header used on all DokuWiki Services (2 weeks ago)
-- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (2 weeks ago)
+- [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (3 weeks ago)
+- [dokuwiki/globalheader](https://github.com/dokuwiki/globalheader) - HTML for the black top header used on all DokuWiki Services (3 weeks ago)
+- [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 weeks ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 weeks ago)
 
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (2 weeks ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (3 weeks ago)
-- [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (4 weeks ago)
+- [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 month ago)
 - [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

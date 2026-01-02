@@ -23,6 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (today)
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (2 weeks ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (3 weeks ago)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 month ago)

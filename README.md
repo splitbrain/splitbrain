@@ -27,7 +27,6 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (2 weeks ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (3 weeks ago)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 month ago)
-- [Cosytober 2025](https://www.splitbrain.org/blog/2025-10/31-cosytober_2025) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/passhash](https://github.com/splitbrain/passhash) - Password Hashing PWA compatible with Wijo&#39;s Password Hasher (3 days ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 weeks ago)
+- [splitbrain/passhash](https://github.com/splitbrain/passhash) - Password Hashing PWA compatible with Wijo&#39;s Password Hasher (4 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 weeks ago)
 - [splitbrain/botcheck](https://github.com/splitbrain/botcheck) - Block bots in Apache using mod_rewrite only (3 weeks ago)
 - [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 weeks ago)
@@ -16,16 +16,16 @@ These are the projects I most recently worked on.
 - [dokuwiki/globalheader](https://github.com/dokuwiki/globalheader) - HTML for the black top header used on all DokuWiki Services (3 weeks ago)
 - [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (3 weeks ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 weeks ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 weeks ago)
 
 ### :scroll: My recent blog posts
 
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (3 days ago)
+- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (4 days ago)
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (3 weeks ago)
-- [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (3 weeks ago)
+- [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (4 weeks ago)
 - [My first NixOS Upgrade](https://www.splitbrain.org/blog/2025-12/01-my_first_nixos_upgrade) (1 month ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)

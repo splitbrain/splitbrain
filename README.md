@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
 - [splitbrain/notmore](https://github.com/splitbrain/notmore) - A PHP based web interface for the notmuch email search engine. (1 day ago)
 - [splitbrain/dokuwiki-plugin-cachestats](https://github.com/splitbrain/dokuwiki-plugin-cachestats) - Gather statistics about the cache (2 days ago)
 - [splitbrain/passhash](https://github.com/splitbrain/passhash) - Password Hashing PWA compatible with Wijo&#39;s Password Hasher (6 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (3 weeks ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (4 weeks ago)
-- [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (4 weeks ago)
 
 ### :scroll: My recent blog posts
 

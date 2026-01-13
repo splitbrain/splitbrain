@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 day ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 days ago)
-- [splitbrain/notmore](https://github.com/splitbrain/notmore) - A PHP based web interface for the notmuch email search engine. (3 days ago)
-- [splitbrain/dokuwiki-plugin-cachestats](https://github.com/splitbrain/dokuwiki-plugin-cachestats) - Gather statistics about the cache (6 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (3 days ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (3 days ago)
+- [splitbrain/notmore](https://github.com/splitbrain/notmore) - A PHP based web interface for the notmuch email search engine. (4 days ago)
+- [splitbrain/dokuwiki-plugin-cachestats](https://github.com/splitbrain/dokuwiki-plugin-cachestats) - Gather statistics about the cache (1 week ago)
 - [splitbrain/passhash](https://github.com/splitbrain/passhash) - Password Hashing PWA compatible with Wijo&#39;s Password Hasher (1 week ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 weeks ago)
 - [splitbrain/botcheck](https://github.com/splitbrain/botcheck) - Block bots in Apache using mod_rewrite only (4 weeks ago)
 - [splitbrain/dokuwiki-versionfix](https://github.com/splitbrain/dokuwiki-versionfix) - A tool to help manage DokuWiki plugin versions (4 weeks ago)
 - [splitbrain/dokuwiki-plugin-vshare](https://github.com/splitbrain/dokuwiki-plugin-vshare) - Plugin to easily embed videos from various video sharing sites into DokuWiki (1 month ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (3 days ago)
+- [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (4 days ago)
 - [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (1 week ago)
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (4 weeks ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (1 month ago)
@@ -36,7 +36,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 - [Kofl](https://github.com/Kofl) (1 month ago)
 - [Psyhackological](https://github.com/Psyhackological) (4 months ago)
-- [rpcope1](https://github.com/rpcope1) (7 months ago)
+- [rpcope1](https://github.com/rpcope1) (8 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (9 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (9 months ago)
 - [sckott](https://github.com/sckott) (10 months ago)

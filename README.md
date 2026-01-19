@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
-- [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML (1 day ago)
+- [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 day ago)
+- [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML (2 days ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 week ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)

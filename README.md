@@ -12,9 +12,9 @@ These are the projects I most recently worked on.
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (1 week ago)
 - [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (1 week ago)
-- [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (2 weeks ago)
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML (2 weeks ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 weeks ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 weeks ago)
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (3 weeks ago)
 
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 week ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (3 weeks ago)
-- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (4 weeks ago)
+- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (1 month ago)
 - [Twenty Years…](https://www.splitbrain.org/blog/2025-12/15-twenty_years) (1 month ago)
 - [Wireless Gaming Headsets](https://www.splitbrain.org/blog/2025-12/09-wireless_gaming_headsets_compared) (1 month ago)
 

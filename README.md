@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (today)
 - [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (3 days ago)
 - [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (5 days ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 week ago)
-- [splitbrain/dokuwiki-plugin-ditaa](https://github.com/splitbrain/dokuwiki-plugin-ditaa) - Renders ASCII flowcharts contained in a DokuWiki page to images (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
+- [splitbrain/dokuwiki-plugin-ditaa](https://github.com/splitbrain/dokuwiki-plugin-ditaa) - Renders ASCII flowcharts contained in a DokuWiki page to images (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (2 weeks ago)
 - [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (3 weeks ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 month ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 month ago)
 
 ### :scroll: My recent blog posts
 

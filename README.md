@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (5 days ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 week ago)
 - [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (2 weeks ago)
-- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (2 weeks ago)
+- [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 month ago)
 - [splitbrain/dokuwiki-plugin-ditaa](https://github.com/splitbrain/dokuwiki-plugin-ditaa) - Renders ASCII flowcharts contained in a DokuWiki page to images (1 month ago)
 - [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (1 month ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Psyhackological](https://github.com/Psyhackological) (5 months ago)
 - [rpcope1](https://github.com/rpcope1) (9 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (10 months ago)
-- [saggi-dw](https://github.com/saggi-dw) (10 months ago)
+- [saggi-dw](https://github.com/saggi-dw) (11 months ago)
 - [sckott](https://github.com/sckott) (11 months ago)
 - [Minocula](https://github.com/Minocula) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (3 years ago)

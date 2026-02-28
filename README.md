@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (2 weeks ago)
+- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (3 weeks ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 month ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (1 month ago)
 - [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (1 month ago)
@@ -39,7 +39,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [rpcope1](https://github.com/rpcope1) (9 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (10 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (11 months ago)
-- [sckott](https://github.com/sckott) (11 months ago)
+- [sckott](https://github.com/sckott) (1 year ago)
 - [Minocula](https://github.com/Minocula) (1 year ago)
 - [Hegghammer](https://github.com/Hegghammer) (3 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)

@@ -9,7 +9,7 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (2 weeks ago)
-- [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (2 weeks ago)
+- [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (3 weeks ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 month ago)
@@ -45,7 +45,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)
 - [foodalot](https://github.com/foodalot) (3 years ago)
 - [jgod](https://github.com/jgod) (3 years ago)
-- [TauriaEE](https://github.com/TauriaEE) (3 years ago)
+- [TauriaEE](https://github.com/TauriaEE) (4 years ago)
 - [xtaran](https://github.com/xtaran) (4 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (4 years ago)
 - [nuess0r](https://github.com/nuess0r) (4 years ago)

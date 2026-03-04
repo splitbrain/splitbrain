@@ -9,9 +9,9 @@ These are the projects I most recently worked on.
 
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (today)
 - [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (today)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (today)
 - [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (1 day ago)
 - [splitbrain/zignum](https://github.com/splitbrain/zignum) - A number puzzle game (3 days ago)
-- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (2 weeks ago)
 - [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (3 weeks ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (4 weeks ago)

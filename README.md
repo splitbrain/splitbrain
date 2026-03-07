@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (3 weeks ago)
 - [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (4 weeks ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 month ago)
-- [splitbrain/dokuwiki-plugin-ditaa](https://github.com/splitbrain/dokuwiki-plugin-ditaa) - Renders ASCII flowcharts contained in a DokuWiki page to images (1 month ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 month ago)
 
 ### :scroll: My recent blog posts
 

@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (today)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
-- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (today)
-- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (today)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 day ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
+- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (today)
+- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 day ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 days ago)
-- [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (4 days ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (4 days ago)
+- [splitbrain/zignum](https://github.com/splitbrain/zignum) - A number puzzle game (1 week ago)
 
 ### :scroll: My recent blog posts
 

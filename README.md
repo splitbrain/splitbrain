@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (3 days ago)
-- [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (3 days ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (3 days ago)
-- [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (4 days ago)
-- [splitbrain/zignum](https://github.com/splitbrain/zignum) - A number puzzle game (6 days ago)
-- [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (3 weeks ago)
-- [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (4 weeks ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (4 days ago)
+- [cosmocode/recommend](https://github.com/cosmocode/recommend) - Plugin for DokuWiki which allows logged-in users to recommend a page via email (4 days ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (4 days ago)
+- [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (5 days ago)
+- [splitbrain/zignum](https://github.com/splitbrain/zignum) - A number puzzle game (1 week ago)
+- [splitbrain/isoico](https://github.com/splitbrain/isoico) - Generate icons for use with FossFLOW using the OpenAI image Api (4 weeks ago)
+- [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (1 month ago)
 - [cosmocode/simplenavi](https://github.com/cosmocode/simplenavi) - Create a simple navigation tree based on DokuWiki namespaces (1 month ago)
 
 ### :scroll: My recent blog posts
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (5 days ago)
+- [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (6 days ago)
 - [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (4 weeks ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 month ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (1 month ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Kofl](https://github.com/Kofl) (2 months ago)
+- [Kofl](https://github.com/Kofl) (3 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (5 months ago)
 - [rpcope1](https://github.com/rpcope1) (9 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (10 months ago)

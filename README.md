@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (today)
 - [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (6 days ago)
 - [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (4 weeks ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 month ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (1 month ago)
-- [Password Hasher PWA](https://www.splitbrain.org/blog/2026-01/02-password_hasher_pwa) (2 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

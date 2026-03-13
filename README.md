@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (1 day ago)
-- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (1 day ago)
-- [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (4 days ago)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (4 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
-- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (5 days ago)
+- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (2 days ago)
+- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (2 days ago)
+- [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (5 days ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
+- [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (6 days ago)
 - [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
 - [cosmocode/dokuwiki-plugin-renderrevisions](https://github.com/cosmocode/dokuwiki-plugin-renderrevisions) - Create new page revision if render output changed (1 week ago)
 - [dokufreaks/plugin-discussion](https://github.com/dokufreaks/plugin-discussion) - Add a comments section to DokuWiki pages (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (4 days ago)
+- [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (5 days ago)
 - [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (1 week ago)
 - [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (1 month ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 month ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [Kofl](https://github.com/Kofl) (3 months ago)
-- [Psyhackological](https://github.com/Psyhackological) (5 months ago)
+- [Psyhackological](https://github.com/Psyhackological) (6 months ago)
 - [rpcope1](https://github.com/rpcope1) (9 months ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (11 months ago)
 - [saggi-dw](https://github.com/saggi-dw) (11 months ago)

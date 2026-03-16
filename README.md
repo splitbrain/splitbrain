@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (4 days ago)
-- [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (4 days ago)
-- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (4 days ago)
+- [splitbrain/dokuwiki-plugin-s5](https://github.com/splitbrain/dokuwiki-plugin-s5) - Display a DokuWiki page as a S5 slideshow presentation (5 days ago)
+- [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (5 days ago)
+- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (5 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
@@ -24,7 +24,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (1 week ago)
-- [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (1 week ago)
+- [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (2 weeks ago)
 - [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (1 month ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (1 month ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (2 months ago)

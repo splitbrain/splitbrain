@@ -9,14 +9,14 @@ These are the projects I most recently worked on.
 
 - [splitbrain/ndemo](https://github.com/splitbrain/ndemo) - A claude skill to create a narrated demo video of a web application (today)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (3 days ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (4 days ago)
 - [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (4 days ago)
 - [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (4 days ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (4 days ago)
-- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
+- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
-- [cosmocode/aclinfo](https://github.com/cosmocode/aclinfo) - A DokuWiki syntax plugin to show who has which permissions for the current page. (2 weeks ago)
+- [cosmocode/dokuwiki-plugin-feedback](https://github.com/cosmocode/dokuwiki-plugin-feedback) - Simple user feedback tool for DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

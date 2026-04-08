@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (4 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (5 days ago)
 - [splitbrain/ndemo](https://github.com/splitbrain/ndemo) - A claude skill to create a narrated demo video of a web application (1 week ago)
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 week ago)
 - [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 week ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (1 month ago)
 - [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (1 month ago)
-- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (1 month ago)
+- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (2 months ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (2 months ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (2 months ago)
 

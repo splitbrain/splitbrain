@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (today)
 - [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (1 day ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 month ago)
 - [splitbrain/ndemo](https://github.com/splitbrain/ndemo) - A claude skill to create a narrated demo video of a web application (1 month ago)
-- [dokuwiki/dokuwiki-plugin-dev](https://github.com/dokuwiki/dokuwiki-plugin-dev) - The DokuWiki Developer&#39;s Tool and Plugin Wizard (1 month ago)
 
 ### :scroll: My recent blog posts
 

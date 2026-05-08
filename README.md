@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (2 days ago)
-- [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (4 days ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (3 days ago)
+- [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (5 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 weeks ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (2 weeks ago)
@@ -25,7 +25,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (2 months ago)
 - [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (2 months ago)
-- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (2 months ago)
+- [LAN Overview 2026](https://www.splitbrain.org/blog/2026-02/07-lan_overview_2026) (3 months ago)
 - [Appy - An AppImage Installer](https://www.splitbrain.org/blog/2026-01/20-appy_an_appimage_installer) (3 months ago)
 - [Gmail Backup and notmuch GUI](https://www.splitbrain.org/blog/2026-01/09-gmail_backup_notmuch_gui) (3 months ago)
 

@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (5 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (6 days ago)
 - [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (1 week ago)
 - [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (2 weeks ago)
@@ -38,7 +38,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [w3cloud](https://github.com/w3cloud) (1 month ago)
 - [Kofl](https://github.com/Kofl) (5 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (8 months ago)
-- [rpcope1](https://github.com/rpcope1) (11 months ago)
+- [rpcope1](https://github.com/rpcope1) (1 year ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (1 year ago)
 - [saggi-dw](https://github.com/saggi-dw) (1 year ago)
 - [sckott](https://github.com/sckott) (1 year ago)

@@ -7,15 +7,15 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [hzeller/din-rail-clip-mount](https://github.com/hzeller/din-rail-clip-mount) - 3D printed Din-Rail mount for PCB and other components (1 day ago)
-- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (2 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 days ago)
+- [hzeller/din-rail-clip-mount](https://github.com/hzeller/din-rail-clip-mount) - 3D printed Din-Rail mount for PCB and other components (2 days ago)
+- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (3 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/experiments](https://github.com/splitbrain/experiments) -  (1 week ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
 - [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (2 weeks ago)
-- [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (2 weeks ago)
+- [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 
 ### :scroll: My recent blog posts

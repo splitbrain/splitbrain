@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [hzeller/din-rail-clip-mount](https://github.com/hzeller/din-rail-clip-mount) - 3D printed Din-Rail mount for PCB and other components (3 days ago)
-- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (4 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (5 days ago)
+- [hzeller/din-rail-clip-mount](https://github.com/hzeller/din-rail-clip-mount) - 3D printed Din-Rail mount for PCB and other components (4 days ago)
+- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (5 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (6 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)
 - [splitbrain/experiments](https://github.com/splitbrain/experiments) -  (1 week ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 weeks ago)
-- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (2 weeks ago)
+- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (3 weeks ago)
 - [splitbrain/esphome-ota-extend-docker](https://github.com/splitbrain/esphome-ota-extend-docker) -  (3 weeks ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (4 weeks ago)
 
@@ -34,8 +34,8 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades no
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Naima61](https://github.com/Naima61) (3 weeks ago)
-- [w3cloud](https://github.com/w3cloud) (1 month ago)
+- [Naima61](https://github.com/Naima61) (4 weeks ago)
+- [w3cloud](https://github.com/w3cloud) (2 months ago)
 - [Kofl](https://github.com/Kofl) (5 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (8 months ago)
 - [rpcope1](https://github.com/rpcope1) (1 year ago)

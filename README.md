@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [selfthinker/dokuwiki_plugin_wrap](https://github.com/selfthinker/dokuwiki_plugin_wrap) - Wrap Plugin for DokuWiki: Universal plugin which combines functionalities of many other plugins. Wrap wiki text inside containers (divs or spans) and give them a class (choose from a variety of preset classes), a width and/or a language with its associated text direction. (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (5 days ago)
+- [selfthinker/dokuwiki_plugin_wrap](https://github.com/selfthinker/dokuwiki_plugin_wrap) - Wrap Plugin for DokuWiki: Universal plugin which combines functionalities of many other plugins. Wrap wiki text inside containers (divs or spans) and give them a class (choose from a variety of preset classes), a width and/or a language with its associated text direction. (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [splitbrain/meetscribe](https://github.com/splitbrain/meetscribe) - experimental. vibecoded (1 week ago)
 - [hzeller/din-rail-clip-mount](https://github.com/hzeller/din-rail-clip-mount) - 3D printed Din-Rail mount for PCB and other components (1 week ago)
-- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (1 week ago)
+- [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (2 weeks ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 weeks ago)
 - [splitbrain/experiments](https://github.com/splitbrain/experiments) -  (3 weeks ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 weeks ago)
-- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (3 weeks ago)
-- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (4 weeks ago)
+- [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (4 weeks ago)
+- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (1 month ago)
 
 ### :scroll: My recent blog posts
 
@@ -46,7 +46,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [alanorth](https://github.com/alanorth) (3 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)
 - [foodalot](https://github.com/foodalot) (3 years ago)
-- [jgod](https://github.com/jgod) (3 years ago)
+- [jgod](https://github.com/jgod) (4 years ago)
 - [TauriaEE](https://github.com/TauriaEE) (4 years ago)
 - [xtaran](https://github.com/xtaran) (4 years ago)
 - [loganmarchione](https://github.com/loganmarchione) (4 years ago)

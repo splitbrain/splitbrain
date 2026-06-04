@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (today)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
-- [splitbrain/dokuwiki-plugin-amazon](https://github.com/splitbrain/dokuwiki-plugin-amazon) - Integrate Amazon data into DokuWiki (today)
-- [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (today)
+- [splitbrain/dokuwiki-plugin-sync](https://github.com/splitbrain/dokuwiki-plugin-sync) - Sync DokuWiki namespaces with a remote wiki on request (today)
 - [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (today)
-- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (today)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
+- [cosmocode/dokuwiki-plugin-cookiebanner](https://github.com/cosmocode/dokuwiki-plugin-cookiebanner) - Another consent tool for DokuWiki (today)
+- [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (today)
 - [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
-- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-ipban](https://github.com/splitbrain/dokuwiki-plugin-ipban) - Allows administrators and managers to ban certain IP addresses from accessing a DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-notfound](https://github.com/splitbrain/dokuwiki-plugin-notfound) - Display a custom page when a DokuWiki page does not exist. (today)
 
 ### :scroll: My recent blog posts
 

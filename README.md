@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (today)
+- [cosmocode/dokuwiki-plugin-filelisting](https://github.com/cosmocode/dokuwiki-plugin-filelisting) - Shows a listing of all the files in the current namespace und subnamespaces below the page (today)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (today)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
-- [cosmocode/dokuwiki-plugin-slider](https://github.com/cosmocode/dokuwiki-plugin-slider) - Add a slider element to any DokuWiki page (today)
-- [cosmocode/dokuwiki-plugin-autologoff](https://github.com/cosmocode/dokuwiki-plugin-autologoff) - Dokuwiki plugin to automatically log out users after a defined period of inactivity (today)
-- [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (today)
-- [cosmocode/dokuwiki-plugin-deletehistory](https://github.com/cosmocode/dokuwiki-plugin-deletehistory) -  (today)
-- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (today)
-- [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (today)
-- [cosmocode/dokuwiki-plugin-cookiebanner](https://github.com/cosmocode/dokuwiki-plugin-cookiebanner) - Another consent tool for DokuWiki (today)
+- [splitbrain/dokuwiki-plugin-amazon](https://github.com/splitbrain/dokuwiki-plugin-amazon) - Integrate Amazon data into DokuWiki (today)
+- [cosmocode/changes](https://github.com/cosmocode/changes) - DokuWiki Plugin changes (today)
+- [cosmocode/dokuwiki-plugin-rating](https://github.com/cosmocode/dokuwiki-plugin-rating) - Allows to rate a DokuWiki page with thumbs up or down (today)
+- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (today)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
+- [cosmocode/sqlite](https://github.com/cosmocode/sqlite) - DokuWiki helper plugin to make SQLite access easier for other plugins (today)
+- [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (today)
 
 ### :scroll: My recent blog posts
 

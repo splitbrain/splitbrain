@@ -42,7 +42,6 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Atomsoldat](https://github.com/Atomsoldat) (1 year ago)
 - [saggi-dw](https://github.com/saggi-dw) (1 year ago)
 - [sckott](https://github.com/sckott) (1 year ago)
-- [Minocula](https://github.com/Minocula) (2 years ago)
 - [alanorth](https://github.com/alanorth) (3 years ago)
 - [pixelbrackets](https://github.com/pixelbrackets) (3 years ago)
 - [foodalot](https://github.com/foodalot) (3 years ago)

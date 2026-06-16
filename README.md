@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (today)
 - [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) -  (today)
+- [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (today)
 - [splitbrain/dokuwiki-plugin-autoog](https://github.com/splitbrain/dokuwiki-plugin-autoog) - Auto-generate open graph images for DokuWiki (4 days ago)
 - [cosmocode/k8tc](https://github.com/cosmocode/k8tc) - kubernetes two panel file transfer TUI (5 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
-- [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (1 week ago)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
-- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
-- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-loglog](https://github.com/splitbrain/dokuwiki-plugin-loglog) - Log DokuWiki user logins/logouts to a file (1 week ago)
 
 ### :scroll: My recent blog posts
 

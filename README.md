@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 day ago)
-- [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (1 day ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 day ago)
+- [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (1 day ago)
+- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 day ago)
 - [splitbrain/dokuwiki-plugin-autoog](https://github.com/splitbrain/dokuwiki-plugin-autoog) - Auto-generate open graph images for DokuWiki (5 days ago)
 - [cosmocode/k8tc](https://github.com/cosmocode/k8tc) - kubernetes two panel file transfer TUI (6 days ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (1 week ago)
 - [cosmocode/dokuwiki-plugin-statistics](https://github.com/cosmocode/dokuwiki-plugin-statistics) - Gather usage/view statistics of a DokuWiki (1 week ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 week ago)
-- [cosmocode/virtualgroup](https://github.com/cosmocode/virtualgroup) - Create virtual user groups in DokuWiki (1 week ago)
+- [cosmocode/dokuwiki-template-sprintdoc](https://github.com/cosmocode/dokuwiki-template-sprintdoc) - modern, responsive template that integrates multiple plugins (1 week ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 

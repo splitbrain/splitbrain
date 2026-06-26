@@ -7,14 +7,14 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (1 day ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (2 days ago)
-- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (2 days ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (3 days ago)
+- [splitbrain/dokuwiki-template-twigstarter](https://github.com/splitbrain/dokuwiki-template-twigstarter) - Twig based starting template for DokuWiki (3 days ago)
 - [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 week ago)
 - [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
-- [splitbrain/dokuwiki-plugin-autoog](https://github.com/splitbrain/dokuwiki-plugin-autoog) - Auto-generate open graph images for DokuWiki (1 week ago)
+- [splitbrain/dokuwiki-plugin-autoog](https://github.com/splitbrain/dokuwiki-plugin-autoog) - Auto-generate open graph images for DokuWiki (2 weeks ago)
 - [cosmocode/k8tc](https://github.com/cosmocode/k8tc) - kubernetes two panel file transfer TUI (2 weeks ago)
 - [cosmocode/dokuwiki-plugin-diagrams](https://github.com/cosmocode/dokuwiki-plugin-diagrams) - Integration with diagrams.net (2 weeks ago)
 
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (1 week ago)
+- [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (2 weeks ago)
 - [Pallet Wood Crafting Table](https://www.splitbrain.org/blog/2026-06/06-pallet_wood_crafting_table) (2 weeks ago)
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (3 months ago)
 - [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (3 months ago)

@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
+- [splitbrain/notmore](https://github.com/splitbrain/notmore) - A PHP based web interface for the notmuch email search engine. (today)
 - [dokuwiki/github-action](https://github.com/dokuwiki/github-action) - Automatic workflows for extension developers (today)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (today)
 - [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (1 day ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (5 days ago)
 - [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 week ago)
 - [splitbrain/dokuwiki-plugin-searchjump](https://github.com/splitbrain/dokuwiki-plugin-searchjump) - A plugin to jump between highlighted strings in a DokuWiki search result. (1 week ago)
-- [splitbrain/dokuwiki-plugin-autoog](https://github.com/splitbrain/dokuwiki-plugin-autoog) - Auto-generate open graph images for DokuWiki (2 weeks ago)
 
 ### :scroll: My recent blog posts
 

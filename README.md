@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (2 days ago)
 - [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
 - [dokufreaks/plugin-filelist](https://github.com/dokufreaks/plugin-filelist) - The filelist plugin provides a syntax for adding linked and sorted lists of files as selected by wildcard based glob patterns to a wiki page and thus allows dynamically including file listings of arbitrary filesystem locations and media namespaces. (2 days ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (4 days ago)
 - [splitbrain/notmore](https://github.com/splitbrain/notmore) - A PHP based web interface for the notmuch email search engine. (5 days ago)

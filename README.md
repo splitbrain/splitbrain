@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
+- [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (today)
 - [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (1 week ago)
 - [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (4 weeks ago)
 - [Pallet Wood Crafting Table](https://www.splitbrain.org/blog/2026-06/06-pallet_wood_crafting_table) (1 month ago)
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (4 months ago)
-- [Old Game, New Clothes](https://www.splitbrain.org/blog/2026-03/02-old_game_new_clothes) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

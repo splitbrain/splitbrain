@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (today)
 - [cosmocode/dokuwiki-plugin-totext](https://github.com/cosmocode/dokuwiki-plugin-totext) - DokuWiki plugin to convert document files to text (today)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 day ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 week ago)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [dokufreaks/plugin-bbcode](https://github.com/dokufreaks/plugin-bbcode) - Makes the use of BBcode syntax possible. (1 week ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 - [splitbrain/dokuwiki-plugin-data](https://github.com/splitbrain/dokuwiki-plugin-data) - Add and query structured data in your DokuWiki (1 week ago)
 - [dokuwiki/dokuwiki-plugin-xref](https://github.com/dokuwiki/dokuwiki-plugin-xref) - Easy linking to source definitions in Grok Search Index from within DokuWiki pages. (1 week ago)
-- [dokuwiki/dokuwiki-plugin-pluginrepo](https://github.com/dokuwiki/dokuwiki-plugin-pluginrepo) - This is the - internal only - plugin used to manage dokuwiki plugins at dokuwiki.org (1 week ago)
 
 ### :scroll: My recent blog posts
 

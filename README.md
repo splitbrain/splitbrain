@@ -16,7 +16,7 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (2 days ago)
 - [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (2 days ago)
 - [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (2 days ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 days ago)
+- [cosmocode/dokuwiki-plugin-statdisplay](https://github.com/cosmocode/dokuwiki-plugin-statdisplay) - fork of the statdisplay dokuwiki plugin (3 days ago)
 
 ### :scroll: My recent blog posts
 

@@ -10,12 +10,12 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (today)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (today)
-- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (1 day ago)
+- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (today)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
+- [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (1 day ago)
 - [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (3 days ago)
-- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (3 days ago)
 - [cosmocode/dokuwiki-template-notos](https://github.com/cosmocode/dokuwiki-template-notos) - A DokuWiki template with a horizontal menu (3 days ago)
 
 ### :scroll: My recent blog posts

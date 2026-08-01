@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (today)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (today)
-- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (1 day ago)
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (2 days ago)
+- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 day ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 day ago)
+- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (2 days ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (3 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
@@ -23,8 +23,8 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
 
 
-- [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (2 weeks ago)
-- [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (3 weeks ago)
+- [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (3 weeks ago)
+- [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (4 weeks ago)
 - [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (1 month ago)
 - [Pallet Wood Crafting Table](https://www.splitbrain.org/blog/2026-06/06-pallet_wood_crafting_table) (1 month ago)
 - [Auto-Delete old Mails from GMail](https://www.splitbrain.org/blog/2026-03/08-auto_delete_old_mails_from_gmail) (4 months ago)

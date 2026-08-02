@@ -12,7 +12,7 @@ These are the projects I most recently worked on.
 
 ### :scroll: My recent blog posts
 
-I blog at [splitbrain.org](https://www.splitbrain.org) for nearly two decades now. Here is what I have published recently.
+I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 {{range rss "https://www.splitbrain.org/feed/blog" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})

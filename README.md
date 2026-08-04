@@ -7,8 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (today)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (today)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (today)
+- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (today)
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 day ago)
 - [splitbrain/dokuwiki-plugin-mcp](https://github.com/splitbrain/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (1 day ago)
 - [splitbrain/sony-h5-tray](https://github.com/splitbrain/sony-h5-tray) - Linux tray icon for Sony INZONE H5 battery status (2 days ago)
@@ -16,7 +17,6 @@ These are the projects I most recently worked on.
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (4 days ago)
 - [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (5 days ago)
 - [splitbrain/dokuwiki-plugin-upgrade](https://github.com/splitbrain/dokuwiki-plugin-upgrade) - Upgrade a DokuWiki installation automatically (1 week ago)
-- [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 

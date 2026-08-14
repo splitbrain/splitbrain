@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
 - [splitbrain/dokuwiki-plugin-kroki](https://github.com/splitbrain/dokuwiki-plugin-kroki) - Create DokuWiki diagrams from many syntaxes via Kroki (5 days ago)
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (6 days ago)
@@ -14,8 +15,7 @@ These are the projects I most recently worked on.
 - [dokufreaks/plugin-creole](https://github.com/dokufreaks/plugin-creole) - Creole Markup for DokuWiki  (1 week ago)
 - [cosmocode/qc](https://github.com/cosmocode/qc) - Automatically check the quality of DokuWiki pages (1 week ago)
 - [cosmocode/dokuwiki-plugin-mcp](https://github.com/cosmocode/dokuwiki-plugin-mcp) - Make the remote API available as MCP server (1 week ago)
-- [splitbrain/wdid](https://github.com/splitbrain/wdid) - what did i do? claude remembers (1 week ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
+- [cosmocode/dokuwiki-plugin-watchcycle](https://github.com/cosmocode/dokuwiki-plugin-watchcycle) - Manage maintenance schedule of pages (1 week ago)
 - [splitbrain/slika](https://github.com/splitbrain/slika) - Simple image handling for PHP (1 week ago)
 
 ### :scroll: My recent blog posts

@@ -7,10 +7,10 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 day ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (3 days ago)
+- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (2 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (4 days ago)
 - [splitbrain/dokuwiki-plugin-kroki](https://github.com/splitbrain/dokuwiki-plugin-kroki) - Create DokuWiki diagrams from many syntaxes via Kroki (1 week ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (1 week ago)
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (1 week ago)

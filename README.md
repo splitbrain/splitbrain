@@ -7,8 +7,8 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (today)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 day ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 days ago)
 - [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (5 days ago)
@@ -53,8 +53,8 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 ### :octocat: All the statistics
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=splitbrain&show_icons=true&hide_title=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splitbrain&layout=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=splitbrain&theme=light&hide_border=true&hide_title=true)
+![Top Languages](https://ghstats.dev/api/langs?username=splitbrain&theme=light&hide_border=true&hide_title=true&max_langs=10&layout=vertical_list)
 
 
 ### :octopus: Octo-Ring

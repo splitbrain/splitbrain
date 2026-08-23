@@ -9,7 +9,7 @@ These are the projects I most recently worked on.
 
 - [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (today)
 - [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (today)
-- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (1 day ago)
+- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (today)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (2 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (4 days ago)

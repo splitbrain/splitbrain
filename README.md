@@ -8,14 +8,14 @@ These are the projects I most recently worked on.
 
 
 - [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (today)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 day ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 days ago)
-- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (5 days ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (6 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (1 day ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (2 days ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (4 days ago)
+- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (6 days ago)
+- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
-- [splitbrain/dokuwiki-plugin-kroki](https://github.com/splitbrain/dokuwiki-plugin-kroki) - Create DokuWiki diagrams from many syntaxes via Kroki (1 week ago)
+- [splitbrain/dokuwiki-plugin-kroki](https://github.com/splitbrain/dokuwiki-plugin-kroki) - Create DokuWiki diagrams from many syntaxes via Kroki (2 weeks ago)
 - [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (2 weeks ago)
 
 ### :scroll: My recent blog posts

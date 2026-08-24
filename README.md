@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (today)
-- [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (today)
-- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (2 days ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (4 days ago)
-- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (6 days ago)
+- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (1 day ago)
+- [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (1 day ago)
+- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (3 days ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (5 days ago)
+- [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (1 week ago)
 - [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [splitbrain/dokuwiki-plugin-kroki](https://github.com/splitbrain/dokuwiki-plugin-kroki) - Create DokuWiki diagrams from many syntaxes via Kroki (2 weeks ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 
-- [My new favorite Terminal](https://www.splitbrain.org/blog/2026-08/10-my_new_favorite_terminal) (1 week ago)
+- [My new favorite Terminal](https://www.splitbrain.org/blog/2026-08/10-my_new_favorite_terminal) (2 weeks ago)
 - [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (1 month ago)
 - [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (1 month ago)
 - [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (2 months ago)
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [Naima61](https://github.com/Naima61) (3 months ago)
-- [w3cloud](https://github.com/w3cloud) (4 months ago)
+- [w3cloud](https://github.com/w3cloud) (5 months ago)
 - [Kofl](https://github.com/Kofl) (8 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (11 months ago)
 - [rpcope1](https://github.com/rpcope1) (1 year ago)

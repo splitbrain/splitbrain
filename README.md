@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (today)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 day ago)
 - [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
 - [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (4 days ago)
 - [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (4 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (6 days ago)
 - [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (1 week ago)
 - [splitbrain/rpeek](https://github.com/splitbrain/rpeek) - remote read-only diagnostic tool for agents (1 week ago)
-- [splitbrain/dokuwiki-plugin-smtp](https://github.com/splitbrain/dokuwiki-plugin-smtp) - Send DokuWiki mails via a configured SMTP server (1 week ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 

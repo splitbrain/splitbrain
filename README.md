@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (today)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (today)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (1 day ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 days ago)
-- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (5 days ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
-- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (1 day ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (3 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (6 days ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
-- [cosmocode/dokuwiki-plugin-logindelay](https://github.com/cosmocode/dokuwiki-plugin-logindelay) - Delay login after too many failed attempts (1 week ago)
+- [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (1 week ago)
+- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
+- [PrinsFrank/pdfparser](https://github.com/PrinsFrank/pdfparser) - PHP library to read and extract text &amp; images from PDFs - Fast &amp; Low memory - Built from scratch (1 week ago)
 
 ### :scroll: My recent blog posts
 
@@ -27,7 +27,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades
 - [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (1 month ago)
 - [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (2 months ago)
 - [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (2 months ago)
-- [Pallet Wood Crafting Table](https://www.splitbrain.org/blog/2026-06/06-pallet_wood_crafting_table) (2 months ago)
+- [Pallet Wood Crafting Table](https://www.splitbrain.org/blog/2026-06/06-pallet_wood_crafting_table) (3 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

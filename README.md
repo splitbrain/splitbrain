@@ -7,11 +7,11 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (today)
-- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (today)
-- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (3 days ago)
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (4 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 day ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (1 day ago)
+- [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (1 day ago)
+- [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (4 days ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (5 days ago)
 - [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (1 week ago)
 - [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (1 week ago)
 - [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 
-- [My new favorite Terminal](https://www.splitbrain.org/blog/2026-08/10-my_new_favorite_terminal) (3 weeks ago)
+- [My new favorite Terminal](https://www.splitbrain.org/blog/2026-08/10-my_new_favorite_terminal) (4 weeks ago)
 - [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (1 month ago)
 - [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (2 months ago)
 - [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (2 months ago)

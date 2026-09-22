@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (today)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (today)
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (today)
-- [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. (today)
-- [splitbrain/james](https://github.com/splitbrain/james) -  (6 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (1 day ago)
+- [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. (1 day ago)
+- [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (1 day ago)
+- [splitbrain/james](https://github.com/splitbrain/james) -  (1 week ago)
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (2 weeks ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-gallery](https://github.com/splitbrain/dokuwiki-plugin-gallery) - Creates a gallery of images from a namespace or RSS/ATOM feed in DokuWiki (2 weeks ago)
 - [dokuwiki/logo](https://github.com/dokuwiki/logo) - The new logo build system (3 weeks ago)
-- [cosmocode/dokuwiki-plugin-acknowledge](https://github.com/cosmocode/dokuwiki-plugin-acknowledge) - DokuWiki Plugin to manage page acknowledgments by assigning users and groups (3 weeks ago)
+- [cosmocode/dokuwiki-plugin-aichat](https://github.com/cosmocode/dokuwiki-plugin-aichat) - Chat with a LLM about your DokuWiki contents (3 weeks ago)
 
 ### :scroll: My recent blog posts
 
@@ -40,7 +40,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 - [Psyhackological](https://github.com/Psyhackological) (1 year ago)
 - [rpcope1](https://github.com/rpcope1) (1 year ago)
 - [Atomsoldat](https://github.com/Atomsoldat) (1 year ago)
-- [saggi-dw](https://github.com/saggi-dw) (1 year ago)
+- [saggi-dw](https://github.com/saggi-dw) (2 years ago)
 - [sckott](https://github.com/sckott) (2 years ago)
 - [alanorth](https://github.com/alanorth) (3 years ago)
 - [foodalot](https://github.com/foodalot) (4 years ago)

@@ -7,6 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (today)
 - [cosmocode/edittable](https://github.com/cosmocode/edittable) - Plugin to provide a custom editor for tables in DokuWiki (1 day ago)
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) -  (1 day ago)
 - [cosmocode/dokuwiki-plugin-tablelayout](https://github.com/cosmocode/dokuwiki-plugin-tablelayout) - Set the width of table columns and set which lines to fix (1 day ago)
@@ -15,7 +16,6 @@ These are the projects I most recently worked on.
 - [cosmocode/dokuwiki-plugin-struct](https://github.com/cosmocode/dokuwiki-plugin-struct) - A new structured data plugin (4 days ago)
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. (5 days ago)
 - [splitbrain/james](https://github.com/splitbrain/james) -  (1 week ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 weeks ago)
 - [splitbrain/dokuwiki-plugin-bureaucracy](https://github.com/splitbrain/dokuwiki-plugin-bureaucracy) - Create forms and generate pages or emails from them (2 weeks ago)
 
 ### :scroll: My recent blog posts

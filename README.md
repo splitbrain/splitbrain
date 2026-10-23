@@ -8,15 +8,15 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (today)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
-- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (1 day ago)
-- [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (1 day ago)
-- [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (1 day ago)
-- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 day ago)
-- [splitbrain/ots](https://github.com/splitbrain/ots) - Open Text Summarizer Webinterface (1 day ago)
-- [splitbrain/desk2hass](https://github.com/splitbrain/desk2hass) -  (2 days ago)
-- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (3 days ago)
-- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (6 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (today)
+- [dokuwiki/download.dokuwiki.org](https://github.com/dokuwiki/download.dokuwiki.org) - sources for our download site (2 days ago)
+- [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (2 days ago)
+- [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (2 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (2 days ago)
+- [splitbrain/desk2hass](https://github.com/splitbrain/desk2hass) -  (3 days ago)
+- [splitbrain/review](https://github.com/splitbrain/review) - Line based code reviewing (for agentic coding) (4 days ago)
+- [cosmocode/dokuwiki-plugin-elasticsearch](https://github.com/cosmocode/dokuwiki-plugin-elasticsearch) - Integrate an external Elasticsearch engine into DokuWiki (1 week ago)
 
 ### :scroll: My recent blog posts
 
@@ -35,7 +35,7 @@ If you like what I'm doing, you can [sponsor me on github](https://github.com/sp
 
 
 - [Naima61](https://github.com/Naima61) (5 months ago)
-- [w3cloud](https://github.com/w3cloud) (6 months ago)
+- [w3cloud](https://github.com/w3cloud) (7 months ago)
 - [Kofl](https://github.com/Kofl) (10 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (1 year ago)
 - [rpcope1](https://github.com/rpcope1) (1 year ago)

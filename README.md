@@ -23,11 +23,11 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 
+- [TIL: PHP IIS 8kb Request Limit?](https://www.splitbrain.org/blog/2026-10/29-til_iis_php_8kb_request) (today)
 - [MonsterID as Gravatar Fallback](https://www.splitbrain.org/blog/2007-01/20_monsterid_as_gravatar_fallback) (2 weeks ago)
 - [My new favorite Terminal](https://www.splitbrain.org/blog/2026-08/10-my_new_favorite_terminal) (2 months ago)
 - [Home Assistant Transplant](https://www.splitbrain.org/blog/2026-07/11-home_assistant_transplant) (3 months ago)
 - [Retractable Cable USB-C Chargers (65W PD)](https://www.splitbrain.org/blog/2026-07/04-retractable_cable_usb-c_chargers) (3 months ago)
-- [PSA: Bubbles.town has a widget](https://www.splitbrain.org/blog/2026-06/12-psa_bubbles.town_has_a_widget) (4 months ago)
 
 ### :hearts:️ These awesome people sponsor me (thank you!)
 

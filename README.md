@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (today)
-- [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (today)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (today)
-- [splitbrain/chores](https://github.com/splitbrain/chores) -  (today)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (3 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (5 days ago)
+- [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (1 day ago)
+- [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (1 day ago)
+- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (1 day ago)
+- [splitbrain/chores](https://github.com/splitbrain/chores) -  (1 day ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (4 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (6 days ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 week ago)
 - [splitbrain/dokuwiki-stickbuilder](https://github.com/splitbrain/dokuwiki-stickbuilder) - Helps building a minimal Apache for DokuWiki-on-a-Stick (1 week ago)

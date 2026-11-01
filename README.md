@@ -8,9 +8,9 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (today)
+- [splitbrain/chores](https://github.com/splitbrain/chores) -  (today)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (2 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (2 days ago)
-- [splitbrain/chores](https://github.com/splitbrain/chores) -  (3 days ago)
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (3 days ago)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (4 days ago)
 - [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (4 days ago)

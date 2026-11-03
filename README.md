@@ -8,14 +8,14 @@ These are the projects I most recently worked on.
 
 
 - [splitbrain/chores](https://github.com/splitbrain/chores) -  (today)
+- [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (today)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (1 day ago)
-- [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (2 days ago)
 - [splitbrain/infra-bitters](https://github.com/splitbrain/infra-bitters) - Infrastructure Setup for my personal web server (2 days ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (2 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
+- [dokuwiki/codesearch.dokuwiki.org](https://github.com/dokuwiki/codesearch.dokuwiki.org) - Download all DokuWiki extensions in one go and make them searchable (2 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (4 days ago)
 - [cosmocode/dokuwiki-plugin-oauth](https://github.com/cosmocode/dokuwiki-plugin-oauth) - Generic oAuth1 and oAuth2 plugin for DokuWiki (4 days ago)
-- [cosmocode/do](https://github.com/cosmocode/do) - Assign tasks within the wiki (6 days ago)
 - [dokufreaks/plugin-include](https://github.com/dokufreaks/plugin-include) - A DokuWiki plugin for including other wiki pages into the current one. (6 days ago)
 
 ### :scroll: My recent blog posts

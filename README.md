@@ -7,7 +7,7 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/chores](https://github.com/splitbrain/chores) -  (1 day ago)
+- [splitbrain/chores](https://github.com/splitbrain/chores) -  (today)
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (2 days ago)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (2 days ago)
 - [splitbrain/blogrng](https://github.com/splitbrain/blogrng) - Discover the indieweb, one blog post at a time. (3 days ago)

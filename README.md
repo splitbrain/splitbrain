@@ -7,16 +7,16 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
+- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (today)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (1 day ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 day ago)
-- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (2 days ago)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (2 days ago)
 - [cosmocode/dokuwiki-plugin-cleanup](https://github.com/cosmocode/dokuwiki-plugin-cleanup) - A DokuWiki plugin to automatically run maintenance tasks on the data directory (2 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (2 days ago)
+- [splitbrain/dokuwiki-plugin-searchindex](https://github.com/splitbrain/dokuwiki-plugin-searchindex) - Searchindex Manager for DokuWiki (2 days ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
+- [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (2 days ago)
 - [splitbrain/dokuwiki-plugin-dw2pdf](https://github.com/splitbrain/dokuwiki-plugin-dw2pdf) - A fork of Luigi Micco&#39;s PDF export plugin for DokuWiki (3 days ago)
 - [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (4 days ago)
-- [splitbrain/chores](https://github.com/splitbrain/chores) -  (1 week ago)
 
 ### :scroll: My recent blog posts
 

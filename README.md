@@ -7,9 +7,9 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (1 day ago)
-- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (2 days ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (today)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (2 days ago)
+- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (2 days ago)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (3 days ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (4 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (4 days ago)

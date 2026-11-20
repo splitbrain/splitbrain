@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (today)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (today)
-- [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (1 day ago)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (1 day ago)
-- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (2 days ago)
-- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (6 days ago)
-- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (6 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 day ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 day ago)
+- [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (2 days ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (2 days ago)
+- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (3 days ago)
+- [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (1 week ago)
+- [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (1 week ago)
 - [cosmocode/dokuwiki-plugin-imgpaste](https://github.com/cosmocode/dokuwiki-plugin-imgpaste) - Add images to DokuWiki pages by simply pasting them. Only modern browsers supported (1 week ago)
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (1 week ago)

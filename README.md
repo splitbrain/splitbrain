@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (1 day ago)
-- [splitbrain/stillalive](https://github.com/splitbrain/stillalive) - A 2D puzzle platformer inspired by Portal (1 day ago)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (2 days ago)
-- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (4 days ago)
-- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (4 days ago)
-- [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (5 days ago)
-- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (6 days ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (2 days ago)
+- [splitbrain/stillalive](https://github.com/splitbrain/stillalive) - A 2D puzzle platformer inspired by Portal (2 days ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (3 days ago)
+- [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (5 days ago)
+- [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (5 days ago)
+- [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (6 days ago)
+- [splitbrain/pinoutleaf](https://github.com/splitbrain/pinoutleaf) - Create printable pinout diagrams (1 week ago)
 - [splitbrain/meh](https://github.com/splitbrain/meh) - Meh... another comment system (1 week ago)
 - [splitbrain/php-sqlite](https://github.com/splitbrain/php-sqlite) - A simple wrapper around pdo-sqlite with basic migration support and a few helper utils (1 week ago)
 - [splitbrain/agent-skills](https://github.com/splitbrain/agent-skills) - Skills for coding agents (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 
-- [Still Alive revived](https://www.splitbrain.org/blog/2026-11/22-still_alive_revived) (1 day ago)
+- [Still Alive revived](https://www.splitbrain.org/blog/2026-11/22-still_alive_revived) (2 days ago)
 - [Home Network Update](https://www.splitbrain.org/blog/2026-11/01-home_network_update) (3 weeks ago)
 - [TIL: PHP IIS 8kb Request Limit?](https://www.splitbrain.org/blog/2026-10/29-til_iis_php_8kb_request) (3 weeks ago)
 - [MonsterID as Gravatar Fallback](https://www.splitbrain.org/blog/2007-01/20_monsterid_as_gravatar_fallback) (1 month ago)
@@ -34,7 +34,7 @@ I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades
 If you like what I'm doing, you can [sponsor me on github](https://github.com/sponsors/splitbrain). These fine people already do.
 
 
-- [Naima61](https://github.com/Naima61) (6 months ago)
+- [Naima61](https://github.com/Naima61) (7 months ago)
 - [w3cloud](https://github.com/w3cloud) (8 months ago)
 - [Kofl](https://github.com/Kofl) (11 months ago)
 - [Psyhackological](https://github.com/Psyhackological) (1 year ago)

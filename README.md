@@ -7,13 +7,13 @@ I'm Andreas Gohr, welcome to my github profile. I'm a web developer and maker li
 These are the projects I most recently worked on.
 
 
-- [cosmocode/dokuwiki-plugin-totext](https://github.com/cosmocode/dokuwiki-plugin-totext) - DokuWiki plugin to convert document files to text (today)
-- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (today)
-- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (today)
-- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (today)
-- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (2 days ago)
-- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (2 days ago)
-- [splitbrain/stillalive](https://github.com/splitbrain/stillalive) - A 2D puzzle platformer inspired by Portal (4 days ago)
+- [cosmocode/dokuwiki-plugin-totext](https://github.com/cosmocode/dokuwiki-plugin-totext) - DokuWiki plugin to convert document files to text (1 day ago)
+- [splitbrain/infra-nas-docker](https://github.com/splitbrain/infra-nas-docker) - Docker compose setup for my NAS (1 day ago)
+- [splitbrain/dokuwiki-plugin-captcha](https://github.com/splitbrain/dokuwiki-plugin-captcha) - Use a CAPTCHA challenge to protect DokuWiki against automated spam (1 day ago)
+- [splitbrain/boxes](https://github.com/splitbrain/boxes) - web-based orchestrator for AI coding agents (1 day ago)
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine (3 days ago)
+- [splitbrain/php-archive](https://github.com/splitbrain/php-archive) - Pure-PHP implementation to read and write TAR and ZIP archives (3 days ago)
+- [splitbrain/stillalive](https://github.com/splitbrain/stillalive) - A 2D puzzle platformer inspired by Portal (5 days ago)
 - [cosmocode/dokuwiki-plugin-prosemirror](https://github.com/cosmocode/dokuwiki-plugin-prosemirror) - A modern WYSIWYG editor for DokuWiki (1 week ago)
 - [dokuwiki/docker](https://github.com/dokuwiki/docker) - The official Docker image for DokuWiki (1 week ago)
 - [splitbrain/appy](https://github.com/splitbrain/appy) - easily install AppImages (1 week ago)
@@ -23,7 +23,7 @@ These are the projects I most recently worked on.
 I blog at [splitbrain.org](https://www.splitbrain.org) for more than two decades now. Here is what I have published recently.
 
 
-- [Still Alive revived](https://www.splitbrain.org/blog/2026-11/22-still_alive_revived) (4 days ago)
+- [Still Alive revived](https://www.splitbrain.org/blog/2026-11/22-still_alive_revived) (5 days ago)
 - [Home Network Update](https://www.splitbrain.org/blog/2026-11/01-home_network_update) (3 weeks ago)
 - [TIL: PHP IIS 8kb Request Limit?](https://www.splitbrain.org/blog/2026-10/29-til_iis_php_8kb_request) (4 weeks ago)
 - [MonsterID as Gravatar Fallback](https://www.splitbrain.org/blog/2007-01/20_monsterid_as_gravatar_fallback) (1 month ago)
